@@ -23,13 +23,13 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name "ai-digest-bot"
-          git config user.email "ai-digest-bot@users.noreply.github.com"
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
           git add digests/ index.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             DATE=$(date -u +%Y-%m-%d)
-            git commit -m "digest: AI news for ${DATE}"
+            git commit -s -m "digest: AI news for ${DATE}"
             git push
           fi
