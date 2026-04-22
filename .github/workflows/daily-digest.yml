@@ -1,0 +1,35 @@
+name: Daily AI Digest
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # 8:00 AM UTC every day
+  workflow_dispatch: # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch AI news
+        run: python scripts/fetch_news.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "ai-digest-bot"
+          git config user.email "ai-digest-bot@users.noreply.github.com"
+          git add digests/ index.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(date -u +%Y-%m-%d)
+            git commit -m "digest: AI news for ${DATE}"
+            git push
+          fi
