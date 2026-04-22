@@ -60,6 +60,22 @@ CATEGORIES = {
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DIGESTS_DIR = os.path.join(REPO_ROOT, "digests")
 INDEX_PATH = os.path.join(REPO_ROOT, "index.md")
+SEEN_IDS_PATH = os.path.join(REPO_ROOT, "data", "seen_ids.json")
+
+
+def load_seen_ids():
+    """Load previously seen story IDs from disk."""
+    if not os.path.exists(SEEN_IDS_PATH):
+        return set()
+    with open(SEEN_IDS_PATH) as f:
+        return set(json.load(f))
+
+
+def save_seen_ids(seen_ids):
+    """Persist seen story IDs to disk."""
+    os.makedirs(os.path.dirname(SEEN_IDS_PATH), exist_ok=True)
+    with open(SEEN_IDS_PATH, "w") as f:
+        json.dump(sorted(seen_ids), f, indent=2)
 
 
 def fetch_stories_for_window(queries, seconds_ago, min_points):
@@ -93,6 +109,7 @@ def fetch_stories_for_window(queries, seconds_ago, min_points):
                 continue
             seen_ids.add(story_id)
             stories.append({
+                "id": story_id,
                 "title": hit.get("title", "Untitled"),
                 "url": hit.get("url") or f"https://news.ycombinator.com/item?id={story_id}",
                 "points": hit.get("points", 0),
@@ -236,26 +253,35 @@ def main():
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     print(f"Fetching AI news for {today}...")
 
-    stories = fetch_stories()
-    print(f"Found {len(stories)} stories")
+    seen_ids = load_seen_ids()
+    print(f"Loaded {len(seen_ids)} previously seen story IDs")
 
-    if not stories:
-        print("No stories found. Writing empty marker to ensure commit.")
+    stories = fetch_stories()
+    new_stories = [s for s in stories if s["id"] not in seen_ids]
+    print(f"Found {len(stories)} stories, {len(new_stories)} are new")
+
+    if not new_stories:
+        print("No new stories. Writing empty marker to ensure commit.")
         cat_dir = os.path.join(DIGESTS_DIR, "industry-and-business")
         os.makedirs(cat_dir, exist_ok=True)
         filepath = os.path.join(cat_dir, f"{today}.md")
         with open(filepath, "w") as f:
-            f.write(f"---\ndate: {today}\ncategory: industry-and-business\n---\n\n# Industry & Business - {today}\n\nNo AI stories found today.\n")
+            f.write(f"---\ndate: {today}\ncategory: industry-and-business\n---\n\n# Industry & Business - {today}\n\nNo new AI stories found today.\n")
         update_index(today, [])
+        save_seen_ids(seen_ids)
         return
 
     categorized = {cat: [] for cat in CATEGORIES}
-    for story in stories:
+    for story in new_stories:
         cat = categorize(story)
         categorized[cat].append(story)
 
     written = write_digest(today, categorized)
     update_index(today, written)
+
+    seen_ids.update(s["id"] for s in new_stories)
+    save_seen_ids(seen_ids)
+    print(f"Saved {len(seen_ids)} total seen IDs")
     print("Done!")
 
 

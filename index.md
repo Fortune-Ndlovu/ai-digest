@@ -8,7 +8,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
-- [2026-04-22](digests/industry-and-business/2026-04-22.md) - The Vercel breach: OAuth attack exposes risk in platform environment variables, Tell HN: I'm sick of AI everything, Drunk post: Things I've learned as a senior engineer (2021)
+- [2026-04-22](digests/industry-and-business/2026-04-22.md) - digest
 
 ## Policy & Safety
 
