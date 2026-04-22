@@ -62,19 +62,20 @@ DIGESTS_DIR = os.path.join(REPO_ROOT, "digests")
 INDEX_PATH = os.path.join(REPO_ROOT, "index.md")
 
 
-def fetch_stories():
-    """Fetch AI-related stories from HN Algolia API."""
-    queries = ["artificial intelligence", "AI", "LLM", "machine learning"]
+def fetch_stories_for_window(queries, seconds_ago, min_points):
+    """Fetch AI stories from HN Algolia posted within the given time window."""
+    now = int(datetime.now(timezone.utc).timestamp())
+    cutoff = now - seconds_ago
     seen_ids = set()
     stories = []
 
     for query in queries:
         url = (
-            "https://hn.algolia.com/api/v1/search?"
+            "https://hn.algolia.com/api/v1/search_by_date?"
             + urllib.parse.urlencode({
                 "query": query,
                 "tags": "story",
-                "numericFilters": "points>20",
+                "numericFilters": f"created_at_i>{cutoff},points>{min_points}",
                 "hitsPerPage": 50,
             })
         )
@@ -100,6 +101,30 @@ def fetch_stories():
             })
 
     stories.sort(key=lambda s: s["points"], reverse=True)
+    return stories
+
+
+def fetch_stories():
+    """Fetch AI stories, trying last 24h first, then widening if needed."""
+    queries = ["artificial intelligence", "AI", "LLM", "machine learning"]
+
+    # Try last 24 hours with low point threshold
+    stories = fetch_stories_for_window(queries, seconds_ago=86400, min_points=5)
+    if stories:
+        print(f"Found {len(stories)} stories from the last 24 hours")
+        return stories
+
+    # Fallback: last 7 days
+    print("No stories in last 24h, falling back to last 7 days...")
+    stories = fetch_stories_for_window(queries, seconds_ago=604800, min_points=10)
+    if stories:
+        print(f"Found {len(stories)} stories from the last 7 days")
+        return stories
+
+    # Final fallback: top stories all-time (guarantees a commit)
+    print("No stories in last 7 days either, falling back to top stories...")
+    stories = fetch_stories_for_window(queries, seconds_ago=31536000, min_points=50)
+    print(f"Fallback found {len(stories)} stories")
     return stories
 
 
