@@ -9,7 +9,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
-- [2026-04-23](digests/industry-and-business/2026-04-23.md) - Scoring Show HN submissions for AI design patterns, Top MAGA influencer revealed to be AI, Google Cloud customer wakes up to $18,000 bill despite $7 budget
+- [2026-04-23](digests/industry-and-business/2026-04-23.md) - digest
 - [2026-04-22](digests/industry-and-business/2026-04-22.md) - digest
 
 ## Policy & Safety
