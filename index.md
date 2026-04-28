@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-04-28](digests/models-and-research/2026-04-28.md) - Talkie: a 13B vintage language model from 1930, Running local LLMs offline on a ten-hour flight, Decoupled DiLoCo: Resilient, Distributed AI Training at Scale
 - [2026-04-27](digests/models-and-research/2026-04-27.md) - At SpaceX, AI is burning the cash that Starlink earns, ELI: Explain Like I'm for any ArXiv Paper, San Francisco, AI capital of the world, is an economic laggard
 - [2026-04-26](digests/models-and-research/2026-04-26.md) - Lambda Calculus Benchmark for AI, DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles, Nicholas Carlini – Black-hat LLMs [video]
 - [2026-04-25](digests/models-and-research/2026-04-25.md) - Show HN: Browser Harness – Gives LLM freedom to complete any browser task, LLM research on Hacker News is drying up, Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do
@@ -13,6 +14,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-04-28](digests/industry-and-business/2026-04-28.md) - Microsoft and OpenAI end their exclusive and revenue-sharing deal, China blocks Meta's acquisition of AI startup Manus, Silicon Valley has forgotten what normal people want
 - [2026-04-27](digests/industry-and-business/2026-04-27.md) - An AI agent deleted our production database. The agent's confession is below, AI should elevate your thinking, not replace it, Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft
 - [2026-04-26](digests/industry-and-business/2026-04-26.md) - The AI industry is discovering that the public hates it, AI Might Be Lying to Your Boss, You probably wouldn't notice if an AI chatbot slipped ads into its responses
 - [2026-04-25](digests/industry-and-business/2026-04-25.md) - SFO Quiet Airport (2025), Do I belong in tech anymore?, Tesla discloses $2B AI hardware company acquisition in filing
@@ -29,6 +31,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-04-28](digests/tools-and-open-source/2026-04-28.md) - Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop, Canva apologizes after its AI tool replaces 'Palestine' in designs, Scraping 241 UK council planning portals – 2.6M decisions so far
 - [2026-04-27](digests/tools-and-open-source/2026-04-27.md) - The Prompt API, Show HN: AgentSwarms – free hands-on playground to learn agentic AI, no setup, The New Linux Kernel AI Bot Uncovering Bugs Is a Local LLM on Framework Desktop
 - [2026-04-26](digests/tools-and-open-source/2026-04-26.md) - Agents Aren't Coworkers, Embed Them in Your Software, AI agents that argue with each other to improve decisions, Show HN: Good AI Task – a tool for asking AI what it can and can't do
 - [2026-04-25](digests/tools-and-open-source/2026-04-25.md) - Show HN: Atomic – Local-first, AI-augmented personal knowledge base, MenteDB – open-source memory database for AI agents (Rust), AI Agent Designs a RISC-V CPU Core from Scratch
