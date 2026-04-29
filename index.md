@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-04-29](digests/models-and-research/2026-04-29.md) - How ChatGPT serves ads, Claude.ai unavailable and elevated errors on the API, We decreased our LLM costs with Opus
 - [2026-04-28](digests/models-and-research/2026-04-28.md) - Talkie: a 13B vintage language model from 1930, Running local LLMs offline on a ten-hour flight, Decoupled DiLoCo: Resilient, Distributed AI Training at Scale
 - [2026-04-27](digests/models-and-research/2026-04-27.md) - At SpaceX, AI is burning the cash that Starlink earns, ELI: Explain Like I'm for any ArXiv Paper, San Francisco, AI capital of the world, is an economic laggard
 - [2026-04-26](digests/models-and-research/2026-04-26.md) - Lambda Calculus Benchmark for AI, DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles, Nicholas Carlini – Black-hat LLMs [video]
@@ -14,6 +15,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-04-29](digests/industry-and-business/2026-04-29.md) - Localsend: An open-source cross-platform alternative to AirDrop, VibeVoice: Open-source frontier voice AI, Google and Pentagon reportedly agree on deal for 'any lawful' use of AI
 - [2026-04-28](digests/industry-and-business/2026-04-28.md) - Microsoft and OpenAI end their exclusive and revenue-sharing deal, China blocks Meta's acquisition of AI startup Manus, Silicon Valley has forgotten what normal people want
 - [2026-04-27](digests/industry-and-business/2026-04-27.md) - An AI agent deleted our production database. The agent's confession is below, AI should elevate your thinking, not replace it, Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft
 - [2026-04-26](digests/industry-and-business/2026-04-26.md) - The AI industry is discovering that the public hates it, AI Might Be Lying to Your Boss, You probably wouldn't notice if an AI chatbot slipped ads into its responses
@@ -24,6 +26,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-04-29](digests/policy-and-safety/2026-04-29.md) - openclaw ggsql
 - [2026-04-26](digests/policy-and-safety/2026-04-26.md) - California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower, Doctors and education experts call for a 5-year AI moratorium in schools
 - [2026-04-25](digests/policy-and-safety/2026-04-25.md) - Wikipedia's AI Policy, California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower, GIMP at LGM2026: committee, grants, no-AI policy, and that GSoC thing
 - [2026-04-24](digests/policy-and-safety/2026-04-24.md) - Congressman Introduces Bill to Ban AI Chatbots in Children's Toys
@@ -31,6 +34,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-04-29](digests/tools-and-open-source/2026-04-29.md) - AMD's Lemonade SDK 10.3 Now 10x Smaller by Getting Rid of Electron, Tell HN: An update from the new Tindie team, Show HN: Pi-hosts – Give the Pi coding agent access to your servers
 - [2026-04-28](digests/tools-and-open-source/2026-04-28.md) - Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop, Canva apologizes after its AI tool replaces 'Palestine' in designs, Scraping 241 UK council planning portals – 2.6M decisions so far
 - [2026-04-27](digests/tools-and-open-source/2026-04-27.md) - The Prompt API, Show HN: AgentSwarms – free hands-on playground to learn agentic AI, no setup, The New Linux Kernel AI Bot Uncovering Bugs Is a Local LLM on Framework Desktop
 - [2026-04-26](digests/tools-and-open-source/2026-04-26.md) - Agents Aren't Coworkers, Embed Them in Your Software, AI agents that argue with each other to improve decisions, Show HN: Good AI Task – a tool for asking AI what it can and can't do
