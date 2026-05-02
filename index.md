@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-02](digests/models-and-research/2026-05-02.md) - Uber torches 2026 AI budget on Claude Code in four months, DeepSeek V4–almost on the frontier, a fraction of the price, Spirit Airlines Is Winding Down All Operations
 - [2026-05-01](digests/models-and-research/2026-05-01.md) - Claude Code refuses requests or charges extra if your commits mention "OpenClaw", Granite 4.1: IBM's 8B Model Matching 32B MoE, The Human Creativity Benchmark – Evaluating Generative AI in Creative Work
 - [2026-04-30](digests/models-and-research/2026-04-30.md) - Mistral Medium 3.5, Claude.ai and API unavailable [fixed], Show HN: A new benchmark for testing LLMs for deterministic outputs
 - [2026-04-29](digests/models-and-research/2026-04-29.md) - How ChatGPT serves ads, Claude.ai unavailable and elevated errors on the API, We decreased our LLM costs with Opus
@@ -17,6 +18,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-02](digests/industry-and-business/2026-05-02.md) - AI uses less water than the public thinks, Ask HN: Who is hiring? (May 2026), Spotify adds 'Verified' badges to distinguish human artists from AI
 - [2026-05-01](digests/industry-and-business/2026-05-01.md) - The More Young People Use AI, the More They Hate It, Japan is building cardboard suicide drones, I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens
 - [2026-04-30](digests/industry-and-business/2026-04-30.md) - Why AI companies want you to be afraid of them, He asked AI to count carbs 27000 times. It couldn't give the same answer twice, "People who don't use AI will be left behind"
 - [2026-04-29](digests/industry-and-business/2026-04-29.md) - Localsend: An open-source cross-platform alternative to AirDrop, VibeVoice: Open-source frontier voice AI, Google and Pentagon reportedly agree on deal for 'any lawful' use of AI
@@ -30,6 +32,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-02](digests/policy-and-safety/2026-05-02.md) - Senate Panel Backs Guard Act, AI Age Verification Bill
 - [2026-05-01](digests/policy-and-safety/2026-05-01.md) - Lens Agents: Governing AI Agents Across Desktop, Cloud, and On-Prem
 - [2026-04-30](digests/policy-and-safety/2026-04-30.md) - The Zig project's rationale for their anti-AI contribution policy, Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs, Contributor Poker and Zig's AI Ban
 - [2026-04-29](digests/policy-and-safety/2026-04-29.md) - openclaw ggsql
@@ -40,6 +43,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-02](digests/tools-and-open-source/2026-05-02.md) - Show HN: Loopsy, a way for terminals and AI agents on different machines to talk, Friday Studio AI runtime: Turn prompts, skills, & tools into reliable config, Ask HN: GitHub flagged my org two weeks ago. No reason given, no appeal response
 - [2026-05-01](digests/tools-and-open-source/2026-05-01.md) - Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library, Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell, Show HN: Kanwas, open-source shared context board for teams and agents
 - [2026-04-30](digests/tools-and-open-source/2026-04-30.md) - Letting AI play my game – building an agentic test harness to help play-testing, Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author, Show HN: Agent that refuses to run commands without human approval
 - [2026-04-29](digests/tools-and-open-source/2026-04-29.md) - AMD's Lemonade SDK 10.3 Now 10x Smaller by Getting Rid of Electron, Tell HN: An update from the new Tindie team, Show HN: Pi-hosts – Give the Pi coding agent access to your servers
