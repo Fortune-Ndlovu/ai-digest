@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-04](digests/models-and-research/2026-05-04.md) - For thirty years I programmed with Phish on, every day, LLMs Are Not a Higher Level of Abstraction, How Kepler built verifiable AI for financial services with Claude
 - [2026-05-03](digests/models-and-research/2026-05-03.md) - Spirit Airlines canceled all flights and is going out of business, The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious, Mini PC for local LLMs in 2026
 - [2026-05-02](digests/models-and-research/2026-05-02.md) - Uber torches 2026 AI budget on Claude Code in four months, DeepSeek V4–almost on the frontier, a fraction of the price, Spirit Airlines Is Winding Down All Operations
 - [2026-05-01](digests/models-and-research/2026-05-01.md) - Claude Code refuses requests or charges extra if your commits mention "OpenClaw", Granite 4.1: IBM's 8B Model Matching 32B MoE, The Human Creativity Benchmark – Evaluating Generative AI in Creative Work
@@ -19,6 +20,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-04](digests/industry-and-business/2026-05-04.md) - Let's Buy Spirit Air, AI deleted my most tests, and said "All Tests Pass", Jensen says Nvidia now has 'zero percent' market share in China
 - [2026-05-03](digests/industry-and-business/2026-05-03.md) - AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights, Ask HN: Is the Job Market Actually Bad?, Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML
 - [2026-05-02](digests/industry-and-business/2026-05-02.md) - AI uses less water than the public thinks, Ask HN: Who is hiring? (May 2026), Spotify adds 'Verified' badges to distinguish human artists from AI
 - [2026-05-01](digests/industry-and-business/2026-05-01.md) - The More Young People Use AI, the More They Hate It, Japan is building cardboard suicide drones, I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens
@@ -34,6 +36,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-04](digests/policy-and-safety/2026-05-04.md) - The Oscars just banned AI from winning acting and writing awards, Every American interacting with chatbot would need to upload a government ID, Show HN: Bhatti – Self-hostable Firecracker orchestrator with auto pause/wake
 - [2026-05-02](digests/policy-and-safety/2026-05-02.md) - Senate Panel Backs Guard Act, AI Age Verification Bill
 - [2026-05-01](digests/policy-and-safety/2026-05-01.md) - Lens Agents: Governing AI Agents Across Desktop, Cloud, and On-Prem
 - [2026-04-30](digests/policy-and-safety/2026-04-30.md) - The Zig project's rationale for their anti-AI contribution policy, Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs, Contributor Poker and Zig's AI Ban
@@ -45,6 +48,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-04](digests/tools-and-open-source/2026-05-04.md) - ASU Using AI Tool to Create Courses from Professors' Work Without Their
 - [2026-05-03](digests/tools-and-open-source/2026-05-03.md) - Voice-AI-for-Beginners – A curated learning path for developers, Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks
 - [2026-05-02](digests/tools-and-open-source/2026-05-02.md) - Show HN: Loopsy, a way for terminals and AI agents on different machines to talk, Friday Studio AI runtime: Turn prompts, skills, & tools into reliable config, Ask HN: GitHub flagged my org two weeks ago. No reason given, no appeal response
 - [2026-05-01](digests/tools-and-open-source/2026-05-01.md) - Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library, Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell, Show HN: Kanwas, open-source shared context board for teams and agents
