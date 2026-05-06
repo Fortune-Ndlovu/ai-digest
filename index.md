@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-06](digests/models-and-research/2026-05-06.md) - Accelerating Gemma 4: faster inference with multi-token prediction drafters, GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents, Why airlines are always going bankrupt
 - [2026-05-05](digests/models-and-research/2026-05-05.md) - Train Your Own LLM from Scratch, Google Chrome silently installs a 4 GB AI model on your device without consent, Let's talk about LLMs
 - [2026-05-04](digests/models-and-research/2026-05-04.md) - For thirty years I programmed with Phish on, every day, LLMs Are Not a Higher Level of Abstraction, How Kepler built verifiable AI for financial services with Claude
 - [2026-05-03](digests/models-and-research/2026-05-03.md) - Spirit Airlines canceled all flights and is going out of business, The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious, Mini PC for local LLMs in 2026
@@ -21,6 +22,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-06](digests/industry-and-business/2026-05-06.md) - AI didn't delete your database, you did, Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement, AI Product Graveyard
 - [2026-05-05](digests/industry-and-business/2026-05-05.md) - How OpenAI delivers low-latency voice AI at scale, Securing a DoD contractor: Finding a multi-tenant authorization vulnerability, OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools
 - [2026-05-04](digests/industry-and-business/2026-05-04.md) - Let's Buy Spirit Air, AI deleted my most tests, and said "All Tests Pass", Jensen says Nvidia now has 'zero percent' market share in China
 - [2026-05-03](digests/industry-and-business/2026-05-03.md) - AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights, Ask HN: Is the Job Market Actually Bad?, Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML
@@ -38,6 +40,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-06](digests/policy-and-safety/2026-05-06.md) - Three Inverse Laws of AI, California farmers to destroy 420k peach trees following Del Monte bankruptcy, Congress Is Doing Little to Prepare for Potential A.I. Job Losses
 - [2026-05-04](digests/policy-and-safety/2026-05-04.md) - The Oscars just banned AI from winning acting and writing awards, Every American interacting with chatbot would need to upload a government ID, Show HN: Bhatti – Self-hostable Firecracker orchestrator with auto pause/wake
 - [2026-05-02](digests/policy-and-safety/2026-05-02.md) - Senate Panel Backs Guard Act, AI Age Verification Bill
 - [2026-05-01](digests/policy-and-safety/2026-05-01.md) - Lens Agents: Governing AI Agents Across Desktop, Cloud, and On-Prem
@@ -50,6 +53,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-06](digests/tools-and-open-source/2026-05-06.md) - Telus Uses AI to Alter Call-Agent Accents, Show HN: Airbyte Agents – context for agents across multiple data sources, FFmpeg developer calls out OxideAV for AI license laundering of his code
 - [2026-05-05](digests/tools-and-open-source/2026-05-05.md) - Usage-based pricing killing your vibe, here's how to roll your own local AI, Why AI Agents Need Proof Chains, Not Just Logs, Ask HN: When did you move from AI agentic loops to simpler deterministic system?
 - [2026-05-04](digests/tools-and-open-source/2026-05-04.md) - ASU Using AI Tool to Create Courses from Professors' Work Without Their
 - [2026-05-03](digests/tools-and-open-source/2026-05-03.md) - Voice-AI-for-Beginners – A curated learning path for developers, Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks
