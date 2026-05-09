@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-09](digests/models-and-research/2026-05-09.md) - Can LLMs model real-world systems in TLA+?, The Very American, Intense World of High-School Debate, Ask HN: How do we handle the rise of low quality "This is LLM" comments?
 - [2026-05-08](digests/models-and-research/2026-05-08.md) - GPT-5.5 Price Increase: What It Costs, Automating AI Research, Ask HN: Are we gonna back less powerful local LLMs
 - [2026-05-07](digests/models-and-research/2026-05-07.md) - Higher usage limits for Claude and a compute deal with SpaceX, Learning the Integral of a Diffusion Model, Making LLM Training Faster with Unsloth and NVIDIA
 - [2026-05-06](digests/models-and-research/2026-05-06.md) - Accelerating Gemma 4: faster inference with multi-token prediction drafters, GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents, Why airlines are always going bankrupt
@@ -24,6 +25,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-09](digests/industry-and-business/2026-05-09.md) - AI is breaking two vulnerability cultures, People Hate AI Art, I Will Never Use AI to Code
 - [2026-05-08](digests/industry-and-business/2026-05-08.md) - AI slop is killing online communities, Motherboard sales 'collapse' amid unprecedented shortages fueled by AI, Mozilla says 271 vulnerabilities found by Mythos and "almost no false positives"
 - [2026-05-07](digests/industry-and-business/2026-05-07.md) - How David Sacks crashed and burned in the White House, Mythos is the best cybersecurity news in a decade, Canadian fiddler sues Google after AI Overview claimed he was a sex offender
 - [2026-05-06](digests/industry-and-business/2026-05-06.md) - AI didn't delete your database, you did, Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement, AI Product Graveyard
@@ -44,6 +46,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-09](digests/policy-and-safety/2026-05-09.md) - Trump jumps from 'anything goes' to 'strict regulation' AI policy
 - [2026-05-08](digests/policy-and-safety/2026-05-08.md) - OpenClaw had a rough week
 - [2026-05-07](digests/policy-and-safety/2026-05-07.md) - Judge Halts Colorado AI Law After xAI First Amendment Challenge, Proprietary Software, Hardware and Protocols Face AI-Driven Security Risk, Doctors' growing AI deepfakes problem
 - [2026-05-06](digests/policy-and-safety/2026-05-06.md) - Three Inverse Laws of AI, California farmers to destroy 420k peach trees following Del Monte bankruptcy, Congress Is Doing Little to Prepare for Potential A.I. Job Losses
@@ -59,6 +62,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-09](digests/tools-and-open-source/2026-05-09.md) - Show HN: Git for AI Agents, All my clients wanted a carousel, now it's an AI chatbot, Sandboxing AIOps and Agentic AI Security
 - [2026-05-08](digests/tools-and-open-source/2026-05-08.md) - Show HN: Stage CLI – An easier way of reading your AI generated changes locally, Show HN: Veris – Agent sandboxes with simulated external services, AWS gives AI agents wallets to pay for APIs and web content
 - [2026-05-07](digests/tools-and-open-source/2026-05-07.md) - Show HN: Adam – An embeddable cross-platform AI agent library, CopilotKit raises $27M to build the Agentic FrontEnd Stack, Grok Imagine Quality Mode API
 - [2026-05-06](digests/tools-and-open-source/2026-05-06.md) - Telus Uses AI to Alter Call-Agent Accents, Show HN: Airbyte Agents – context for agents across multiple data sources, FFmpeg developer calls out OxideAV for AI license laundering of his code
