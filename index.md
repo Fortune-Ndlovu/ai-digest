@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-11](digests/models-and-research/2026-05-11.md) - Show HN: adamsreview – better multi-agent PR reviews for Claude Code, I have seen the dystopian future of elderly care, A decade of flying Spirit Airlines
 - [2026-05-10](digests/models-and-research/2026-05-10.md) - Gemini API File Search is now multimodal, Pedestrian Killed by Frontier Airlines Plane Leaving Denver Airport, How are folks affordably self-training in AI?
 - [2026-05-09](digests/models-and-research/2026-05-09.md) - Can LLMs model real-world systems in TLA+?, The Very American, Intense World of High-School Debate, Ask HN: How do we handle the rise of low quality "This is LLM" comments?
 - [2026-05-08](digests/models-and-research/2026-05-08.md) - GPT-5.5 Price Increase: What It Costs, Automating AI Research, Ask HN: Are we gonna back less powerful local LLMs
@@ -26,6 +27,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-11](digests/industry-and-business/2026-05-11.md) - Maryland citizens hit with $2B power grid upgrade for out-of-state AI, PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs, Energy Prices Are Driving Demand for Solar Panels and Heat Pumps
 - [2026-05-10](digests/industry-and-business/2026-05-10.md) - Meta's embrace of AI is making its employees miserable, Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance, Go Players Disempower Themselves to AI
 - [2026-05-09](digests/industry-and-business/2026-05-09.md) - AI is breaking two vulnerability cultures, People Hate AI Art, I Will Never Use AI to Code
 - [2026-05-08](digests/industry-and-business/2026-05-08.md) - AI slop is killing online communities, Motherboard sales 'collapse' amid unprecedented shortages fueled by AI, Mozilla says 271 vulnerabilities found by Mythos and "almost no false positives"
@@ -48,6 +50,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-11](digests/policy-and-safety/2026-05-11.md) - Wall Street lawyers aided insider trading ring, say US prosecutors, All Those A.I. Note Takers? They're Making Lawyers Nervous, Trump's Border Spending Spurs Boom in AI-Infused Surveillance
 - [2026-05-10](digests/policy-and-safety/2026-05-10.md) - The Rise of Emotional Surveillance
 - [2026-05-09](digests/policy-and-safety/2026-05-09.md) - Trump jumps from 'anything goes' to 'strict regulation' AI policy
 - [2026-05-08](digests/policy-and-safety/2026-05-08.md) - OpenClaw had a rough week
@@ -65,6 +68,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-11](digests/tools-and-open-source/2026-05-11.md) - Local AI needs to be the norm, An AI coding agent, used to write code, needs to reduce your maintenance costs, Chrome's AI features may be hogging 4GB of your computer storage
 - [2026-05-10](digests/tools-and-open-source/2026-05-10.md) - Show HN: Mochi.js: bun-native high-fidelity browser automation library
 - [2026-05-09](digests/tools-and-open-source/2026-05-09.md) - Show HN: Git for AI Agents, All my clients wanted a carousel, now it's an AI chatbot, Sandboxing AIOps and Agentic AI Security
 - [2026-05-08](digests/tools-and-open-source/2026-05-08.md) - Show HN: Stage CLI – An easier way of reading your AI generated changes locally, Show HN: Veris – Agent sandboxes with simulated external services, AWS gives AI agents wallets to pay for APIs and web content
