@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-14](digests/models-and-research/2026-05-14.md) - Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing, Rars: a Rust RAR implementation, mostly written by LLMs, Medicare's new payment model is built for AI. Most of the tech world has no idea
 - [2026-05-13](digests/models-and-research/2026-05-13.md) - Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model, Amazon employees are "tokenmaxxing" due to pressure to use AI tools, Company behind GLiNER model released open source model for running LLM guardrail
 - [2026-05-12](digests/models-and-research/2026-05-12.md) - Interaction Models, Interfaze: A new model architecture built for high accuracy at scale, Natural-language messages between LLM agents are an architectural anti-pattern
 - [2026-05-11](digests/models-and-research/2026-05-11.md) - Show HN: adamsreview – better multi-agent PR reviews for Claude Code, I have seen the dystopian future of elderly care, A decade of flying Spirit Airlines
@@ -29,6 +30,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-14](digests/industry-and-business/2026-05-14.md) - The US is winning the AI race where it matters most: commercialization, Meta won't let you block its AI account on Threads, Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration
 - [2026-05-13](digests/industry-and-business/2026-05-13.md) - Reimagining the mouse pointer for the AI era, Launch HN: Voker (YC S24) – Analytics for AI Agents, Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder
 - [2026-05-12](digests/industry-and-business/2026-05-12.md) - If AI writes your code, why use Python?, Google says criminal hackers used AI to find a major software flaw, Students boo commencement speaker after she calls AI next industrial revolution
 - [2026-05-11](digests/industry-and-business/2026-05-11.md) - Maryland citizens hit with $2B power grid upgrade for out-of-state AI, PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs, Energy Prices Are Driving Demand for Solar Panels and Heat Pumps
@@ -54,6 +56,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-14](digests/policy-and-safety/2026-05-14.md) - The other half of AI safety
 - [2026-05-12](digests/policy-and-safety/2026-05-12.md) - Forget the AI job apocalypse. AIs real threat is worker control and surveillance
 - [2026-05-11](digests/policy-and-safety/2026-05-11.md) - Wall Street lawyers aided insider trading ring, say US prosecutors, All Those A.I. Note Takers? They're Making Lawyers Nervous, Trump's Border Spending Spurs Boom in AI-Infused Surveillance
 - [2026-05-10](digests/policy-and-safety/2026-05-10.md) - The Rise of Emotional Surveillance
@@ -73,6 +76,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-14](digests/tools-and-open-source/2026-05-14.md) - Software Developers Say AI Is Rotting Their Brains, Show HN: Rotunda - A browser built for agents with simulated typing, AI is using our Open Source code to replace us. We need new licenses now
 - [2026-05-13](digests/tools-and-open-source/2026-05-13.md) - Show HN: Statewright – Visual state machines that make AI agents reliable, Show HN: Agentic interface for mainframes and COBOL, AI agents only amplify what's already there
 - [2026-05-12](digests/tools-and-open-source/2026-05-12.md) - I let AI build a tool to help me figure out what was waking me up at night, Show HN: E2a – Open-source email gateway for AI agents, Show HN: Free tool to see how much AI bots are costing your site
 - [2026-05-11](digests/tools-and-open-source/2026-05-11.md) - Local AI needs to be the norm, An AI coding agent, used to write code, needs to reduce your maintenance costs, Chrome's AI features may be hogging 4GB of your computer storage
