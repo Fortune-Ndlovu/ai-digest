@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-15](digests/models-and-research/2026-05-15.md) - Bitcoin trader recovers wallet with help of Claude, LLM Policy for Rust Compiler, RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude
 - [2026-05-14](digests/models-and-research/2026-05-14.md) - Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing, Rars: a Rust RAR implementation, mostly written by LLMs, Medicare's new payment model is built for AI. Most of the tech world has no idea
 - [2026-05-13](digests/models-and-research/2026-05-13.md) - Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model, Amazon employees are "tokenmaxxing" due to pressure to use AI tools, Company behind GLiNER model released open source model for running LLM guardrail
 - [2026-05-12](digests/models-and-research/2026-05-12.md) - Interaction Models, Interfaze: A new model architecture built for high accuracy at scale, Natural-language messages between LLM agents are an architectural anti-pattern
@@ -30,6 +31,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-15](digests/industry-and-business/2026-05-15.md) - RTX 5090 and M4 MacBook Air: Can It Game?, AI is making me dumb, The AI zombification of universities
 - [2026-05-14](digests/industry-and-business/2026-05-14.md) - The US is winning the AI race where it matters most: commercialization, Meta won't let you block its AI account on Threads, Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration
 - [2026-05-13](digests/industry-and-business/2026-05-13.md) - Reimagining the mouse pointer for the AI era, Launch HN: Voker (YC S24) – Analytics for AI Agents, Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder
 - [2026-05-12](digests/industry-and-business/2026-05-12.md) - If AI writes your code, why use Python?, Google says criminal hackers used AI to find a major software flaw, Students boo commencement speaker after she calls AI next industrial revolution
@@ -56,6 +58,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-15](digests/policy-and-safety/2026-05-15.md) - Ontario auditors find doctors' AI note takers routinely blow basic facts, The people writing AI alignment policy are not whose work is being replaced, Have a Coherent AI Policy
 - [2026-05-14](digests/policy-and-safety/2026-05-14.md) - The other half of AI safety
 - [2026-05-12](digests/policy-and-safety/2026-05-12.md) - Forget the AI job apocalypse. AIs real threat is worker control and surveillance
 - [2026-05-11](digests/policy-and-safety/2026-05-11.md) - Wall Street lawyers aided insider trading ring, say US prosecutors, All Those A.I. Note Takers? They're Making Lawyers Nervous, Trump's Border Spending Spurs Boom in AI-Infused Surveillance
