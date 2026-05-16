@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-16](digests/models-and-research/2026-05-16.md) - Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training, Show HN: Claude Code vs. Codex Global Usage Leaderboard, Bug Archeology: Solving a decade-old Swift/C++ mystery with LLMs
 - [2026-05-15](digests/models-and-research/2026-05-15.md) - Bitcoin trader recovers wallet with help of Claude, LLM Policy for Rust Compiler, RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude
 - [2026-05-14](digests/models-and-research/2026-05-14.md) - Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing, Rars: a Rust RAR implementation, mostly written by LLMs, Medicare's new payment model is built for AI. Most of the tech world has no idea
 - [2026-05-13](digests/models-and-research/2026-05-13.md) - Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model, Amazon employees are "tokenmaxxing" due to pressure to use AI tools, Company behind GLiNER model released open source model for running LLM guardrail
@@ -31,6 +32,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-16](digests/industry-and-business/2026-05-16.md) - I believe there are entire companies right now under AI psychosis, Amazon workers under pressure to up their AI usage are making up tasks, We are retiring our bug bounty program
 - [2026-05-15](digests/industry-and-business/2026-05-15.md) - RTX 5090 and M4 MacBook Air: Can It Game?, AI is making me dumb, The AI zombification of universities
 - [2026-05-14](digests/industry-and-business/2026-05-14.md) - The US is winning the AI race where it matters most: commercialization, Meta won't let you block its AI account on Threads, Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration
 - [2026-05-13](digests/industry-and-business/2026-05-13.md) - Reimagining the mouse pointer for the AI era, Launch HN: Voker (YC S24) – Analytics for AI Agents, Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder
@@ -58,6 +60,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-16](digests/policy-and-safety/2026-05-16.md) - Show HN: AI that audits your codebase in 60 seconds
 - [2026-05-15](digests/policy-and-safety/2026-05-15.md) - Ontario auditors find doctors' AI note takers routinely blow basic facts, The people writing AI alignment policy are not whose work is being replaced, Have a Coherent AI Policy
 - [2026-05-14](digests/policy-and-safety/2026-05-14.md) - The other half of AI safety
 - [2026-05-12](digests/policy-and-safety/2026-05-12.md) - Forget the AI job apocalypse. AIs real threat is worker control and surveillance
@@ -79,6 +82,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-16](digests/tools-and-open-source/2026-05-16.md) - “Too dangerous to release” or just too expensive?, Overseas fakers using AI videos to push a narrative of UK decline, BBC finds, Liquid AI releases fine-tuning harness for AI agents
 - [2026-05-14](digests/tools-and-open-source/2026-05-14.md) - Software Developers Say AI Is Rotting Their Brains, Show HN: Rotunda - A browser built for agents with simulated typing, AI is using our Open Source code to replace us. We need new licenses now
 - [2026-05-13](digests/tools-and-open-source/2026-05-13.md) - Show HN: Statewright – Visual state machines that make AI agents reliable, Show HN: Agentic interface for mainframes and COBOL, AI agents only amplify what's already there
 - [2026-05-12](digests/tools-and-open-source/2026-05-12.md) - I let AI build a tool to help me figure out what was waking me up at night, Show HN: E2a – Open-source email gateway for AI agents, Show HN: Free tool to see how much AI bots are costing your site
