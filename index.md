@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-17](digests/models-and-research/2026-05-17.md) - DeepSeek-V4-Flash means LLM steering is interesting again, Show HN: Strava for AI coding – analytics on your Copilot/Claude/Codex usage, Curl maintainer: AI security reports are no longer slop
 - [2026-05-16](digests/models-and-research/2026-05-16.md) - Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training, Show HN: Claude Code vs. Codex Global Usage Leaderboard, Bug Archeology: Solving a decade-old Swift/C++ mystery with LLMs
 - [2026-05-15](digests/models-and-research/2026-05-15.md) - Bitcoin trader recovers wallet with help of Claude, LLM Policy for Rust Compiler, RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude
 - [2026-05-14](digests/models-and-research/2026-05-14.md) - Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing, Rars: a Rust RAR implementation, mostly written by LLMs, Medicare's new payment model is built for AI. Most of the tech world has no idea
@@ -32,6 +33,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-17](digests/industry-and-business/2026-05-17.md) - US is starting to see heavy job losses in roles exposed to AI, Meta to cut 8000 employees despite $26B Q1 net income, Prepare for an AI Jobs Apocalypse
 - [2026-05-16](digests/industry-and-business/2026-05-16.md) - I believe there are entire companies right now under AI psychosis, Amazon workers under pressure to up their AI usage are making up tasks, We are retiring our bug bounty program
 - [2026-05-15](digests/industry-and-business/2026-05-15.md) - RTX 5090 and M4 MacBook Air: Can It Game?, AI is making me dumb, The AI zombification of universities
 - [2026-05-14](digests/industry-and-business/2026-05-14.md) - The US is winning the AI race where it matters most: commercialization, Meta won't let you block its AI account on Threads, Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration
@@ -82,6 +84,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-17](digests/tools-and-open-source/2026-05-17.md) - Show HN: Codiff, a local diff review tool
 - [2026-05-16](digests/tools-and-open-source/2026-05-16.md) - “Too dangerous to release” or just too expensive?, Overseas fakers using AI videos to push a narrative of UK decline, BBC finds, Liquid AI releases fine-tuning harness for AI agents
 - [2026-05-14](digests/tools-and-open-source/2026-05-14.md) - Software Developers Say AI Is Rotting Their Brains, Show HN: Rotunda - A browser built for agents with simulated typing, AI is using our Open Source code to replace us. We need new licenses now
 - [2026-05-13](digests/tools-and-open-source/2026-05-13.md) - Show HN: Statewright – Visual state machines that make AI agents reliable, Show HN: Agentic interface for mainframes and COBOL, AI agents only amplify what's already there
