@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-18](digests/models-and-research/2026-05-18.md) - Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state', University of Arizona students boo Eric Schmidt's AI cheerleading, The Four Horsemen of the LLM Apocalypse
 - [2026-05-17](digests/models-and-research/2026-05-17.md) - DeepSeek-V4-Flash means LLM steering is interesting again, Show HN: Strava for AI coding – analytics on your Copilot/Claude/Codex usage, Curl maintainer: AI security reports are no longer slop
 - [2026-05-16](digests/models-and-research/2026-05-16.md) - Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training, Show HN: Claude Code vs. Codex Global Usage Leaderboard, Bug Archeology: Solving a decade-old Swift/C++ mystery with LLMs
 - [2026-05-15](digests/models-and-research/2026-05-15.md) - Bitcoin trader recovers wallet with help of Claude, LLM Policy for Rust Compiler, RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude
@@ -33,6 +34,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-18](digests/industry-and-business/2026-05-18.md) - I don't think AI will make your processes go faster, AI is a technology not a product, AI subscriptions are a ticking time bomb for enterprise
 - [2026-05-17](digests/industry-and-business/2026-05-17.md) - US is starting to see heavy job losses in roles exposed to AI, Meta to cut 8000 employees despite $26B Q1 net income, Prepare for an AI Jobs Apocalypse
 - [2026-05-16](digests/industry-and-business/2026-05-16.md) - I believe there are entire companies right now under AI psychosis, Amazon workers under pressure to up their AI usage are making up tasks, We are retiring our bug bounty program
 - [2026-05-15](digests/industry-and-business/2026-05-15.md) - RTX 5090 and M4 MacBook Air: Can It Game?, AI is making me dumb, The AI zombification of universities
@@ -62,6 +64,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-18](digests/policy-and-safety/2026-05-18.md) - Where OpenClaw Security Is Heading, Age Assurance on the Internet: Identity, Privacy, and the Limits of Verification
 - [2026-05-16](digests/policy-and-safety/2026-05-16.md) - Show HN: AI that audits your codebase in 60 seconds
 - [2026-05-15](digests/policy-and-safety/2026-05-15.md) - Ontario auditors find doctors' AI note takers routinely blow basic facts, The people writing AI alignment policy are not whose work is being replaced, Have a Coherent AI Policy
 - [2026-05-14](digests/policy-and-safety/2026-05-14.md) - The other half of AI safety
