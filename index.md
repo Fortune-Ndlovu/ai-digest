@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-19](digests/models-and-research/2026-05-19.md) - The last six months in LLMs in five minutes, AI eats the world (Spring 26) [pdf], Researchers Wanted Preschool Teachers to Wear Cameras to Train AI
 - [2026-05-18](digests/models-and-research/2026-05-18.md) - Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state', University of Arizona students boo Eric Schmidt's AI cheerleading, The Four Horsemen of the LLM Apocalypse
 - [2026-05-17](digests/models-and-research/2026-05-17.md) - DeepSeek-V4-Flash means LLM steering is interesting again, Show HN: Strava for AI coding – analytics on your Copilot/Claude/Codex usage, Curl maintainer: AI security reports are no longer slop
 - [2026-05-16](digests/models-and-research/2026-05-16.md) - Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training, Show HN: Claude Code vs. Codex Global Usage Leaderboard, Bug Archeology: Solving a decade-old Swift/C++ mystery with LLMs
@@ -34,6 +35,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-19](digests/industry-and-business/2026-05-19.md) - We let AIs run radio stations, Linux security mailing list 'almost unmanageable', Cursor Introduces Composer 2.5
 - [2026-05-18](digests/industry-and-business/2026-05-18.md) - I don't think AI will make your processes go faster, AI is a technology not a product, AI subscriptions are a ticking time bomb for enterprise
 - [2026-05-17](digests/industry-and-business/2026-05-17.md) - US is starting to see heavy job losses in roles exposed to AI, Meta to cut 8000 employees despite $26B Q1 net income, Prepare for an AI Jobs Apocalypse
 - [2026-05-16](digests/industry-and-business/2026-05-16.md) - I believe there are entire companies right now under AI psychosis, Amazon workers under pressure to up their AI usage are making up tasks, We are retiring our bug bounty program
@@ -87,6 +89,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-19](digests/tools-and-open-source/2026-05-19.md) - We stopped AI bot spam in our GitHub repo using Git's –author flag, Show HN: InsForge – Open-source Heroku for coding agents, Show HN: Beacon - The open-source layer for local AI agent visibility
 - [2026-05-17](digests/tools-and-open-source/2026-05-17.md) - Show HN: Codiff, a local diff review tool
 - [2026-05-16](digests/tools-and-open-source/2026-05-16.md) - “Too dangerous to release” or just too expensive?, Overseas fakers using AI videos to push a narrative of UK decline, BBC finds, Liquid AI releases fine-tuning harness for AI agents
 - [2026-05-14](digests/tools-and-open-source/2026-05-14.md) - Software Developers Say AI Is Rotting Their Brains, Show HN: Rotunda - A browser built for agents with simulated typing, AI is using our Open Source code to replace us. We need new licenses now
