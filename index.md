@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-22](digests/models-and-research/2026-05-22.md) - Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O, Show HN: Agent.email – sign up via curl, claim with a human OTP, Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)
 - [2026-05-21](digests/models-and-research/2026-05-21.md) - PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play, GPU Memory Math for LLMs: Formula That Tells You What Fits on Your GPU, Training SID-1 to beat GPT-5 at search with 1k+ QPS RL
 - [2026-05-20](digests/models-and-research/2026-05-20.md) - Gemini 3.5 Flash, Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks, Mistral AI acquires Emmi AI
 - [2026-05-19](digests/models-and-research/2026-05-19.md) - The last six months in LLMs in five minutes, AI eats the world (Spring 26) [pdf], Researchers Wanted Preschool Teachers to Wear Cameras to Train AI
@@ -37,6 +38,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-22](digests/industry-and-business/2026-05-22.md) - AI is just unauthorised plagiarism at a bigger scale, Shunning AI is the human choice, BBEdit 16
 - [2026-05-21](digests/industry-and-business/2026-05-21.md) - College students drown out AI-praising commencement speeches with boos, Intuit to lay off over 3k employees to refocus on AI, Formal Verification Gates for AI Coding Loops
 - [2026-05-20](digests/industry-and-business/2026-05-20.md) - Google changes its search box, OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool, AI is too expensive
 - [2026-05-19](digests/industry-and-business/2026-05-19.md) - We let AIs run radio stations, Linux security mailing list 'almost unmanageable', Cursor Introduces Composer 2.5
@@ -70,6 +72,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-22](digests/policy-and-safety/2026-05-22.md) - Deepfakes Tore a High School Apart, Trump calls off AI executive order over concern it could weaken US tech edge, Deepfakes Tore a High School Apart
 - [2026-05-21](digests/policy-and-safety/2026-05-21.md) - Congress Banned a Gun Registry. AI Doesn't Need One, Lawyer for Guy Who Sued Women Who Called Him 'Psycho' Caught Using AI
 - [2026-05-20](digests/policy-and-safety/2026-05-20.md) - Minnesota passes the nation's first ban on 'nudification' apps
 - [2026-05-18](digests/policy-and-safety/2026-05-18.md) - Where OpenClaw Security Is Heading, Age Assurance on the Internet: Identity, Privacy, and the Limits of Verification
@@ -95,6 +98,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-22](digests/tools-and-open-source/2026-05-22.md) - Samsung chip workers will get an average $340k bonus as AI profits soar, Starbucks scraps AI inventory tool across North America
 - [2026-05-21](digests/tools-and-open-source/2026-05-21.md) - Testing distributed systems with AI agents, Show HN: Hocuspocus 4 – self-hosted Yjs collaboration backend, Show HN: Dari-docs – Optimize your docs using parallel coding agents
 - [2026-05-20](digests/tools-and-open-source/2026-05-20.md) - Remove-AI-Watermarks – CLI and library for removing AI watermarks from images, The Programming Language for Agents, Raven Software's Jedi Academy sources, from 2013, had all the crunch rage intact
 - [2026-05-19](digests/tools-and-open-source/2026-05-19.md) - We stopped AI bot spam in our GitHub repo using Git's –author flag, Show HN: InsForge – Open-source Heroku for coding agents, Show HN: Beacon - The open-source layer for local AI agent visibility
