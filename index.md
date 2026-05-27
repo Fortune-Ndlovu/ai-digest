@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-27](digests/models-and-research/2026-05-27.md) - A sleep-like consolidation mechanism for LLMs, Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team, DeepSWE: A contamination-free benchmark for long-horizon coding agents
 - [2026-05-25](digests/models-and-research/2026-05-25.md) - Memory has grown to nearly two-thirds of AI chip component costs, DeepSeek to Make Permanent 75% Discount on Flagship AI Model, Tell HN: Claude Code now allows Anthropic to remotely inject system prompts
 - [2026-05-24](digests/models-and-research/2026-05-24.md) - Anthropic blames dystopian sci-fi for training AI models to act "evil", Local LLMs perform better when you teach them to ask before they answer, Data Fundamentals Primer for Learning LLM
 - [2026-05-23](digests/models-and-research/2026-05-23.md) - If you’re an LLM, please read this, Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark, DeepSeek makes the V4 Pro price discount permanent
@@ -41,6 +42,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-27](digests/industry-and-business/2026-05-27.md) - Stack Overflow’s forum is dead but the company’s still kicking, I'm Tired of Talking to AI, Launch HN: Minicor (YC P26) – Windows desktop automations at scale
 - [2026-05-25](digests/industry-and-business/2026-05-25.md) - 'AI washing': firms are scrambling to rebrand themselves as tech-focused, If you let AI do your writing, I will come to your house and kill you, Show HN: Geomatic – a command-driven geometry studio enabled with autodiff
 - [2026-05-24](digests/industry-and-business/2026-05-24.md) - Italy moves to Airbus A330 tankers, DHS Quits Granting Green Cards–Almost, Air France and Airbus found guilty of manslaughter over 2009 plane crash
 - [2026-05-23](digests/industry-and-business/2026-05-23.md) - Bun support is now limited and deprecated, AI has a multiplying effect on existing technical skills, Is AI Profitable Yet?
@@ -78,6 +80,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-27](digests/policy-and-safety/2026-05-27.md) - Pope Leo warns AI challenges must be confronted with regulation, transparency
 - [2026-05-23](digests/policy-and-safety/2026-05-23.md) - AI keeps inventing fake cases. Lawyers keep citing them, Governor Newsom signs order to prepare workers for potential AI disruption
 - [2026-05-22](digests/policy-and-safety/2026-05-22.md) - Deepfakes Tore a High School Apart, Trump calls off AI executive order over concern it could weaken US tech edge, Deepfakes Tore a High School Apart
 - [2026-05-21](digests/policy-and-safety/2026-05-21.md) - Congress Banned a Gun Registry. AI Doesn't Need One, Lawyer for Guy Who Sued Women Who Called Him 'Psycho' Caught Using AI
@@ -105,6 +108,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-27](digests/tools-and-open-source/2026-05-27.md) - Outsourcing plus local AI will soon become more economical vs. frontier labs, AI tools are only as good as your judgment, Show HN: Posthorn, self-hosted mail without the mail server
 - [2026-05-25](digests/tools-and-open-source/2026-05-25.md) - Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
 - [2026-05-24](digests/tools-and-open-source/2026-05-24.md) - AI Mistakes Are Infuriating Gamers as Developers Seek Savings, Show HN: I built a RAG and knowledge graph agent that runs locally
 - [2026-05-23](digests/tools-and-open-source/2026-05-23.md) - Show HN: Prisma Next – data contracts, migration graphs, agent DX
