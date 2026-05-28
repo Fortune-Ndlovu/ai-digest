@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-28](digests/models-and-research/2026-05-28.md) - Training our own AI models, Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction, Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU
 - [2026-05-27](digests/models-and-research/2026-05-27.md) - A sleep-like consolidation mechanism for LLMs, Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team, DeepSWE: A contamination-free benchmark for long-horizon coding agents
 - [2026-05-25](digests/models-and-research/2026-05-25.md) - Memory has grown to nearly two-thirds of AI chip component costs, DeepSeek to Make Permanent 75% Discount on Flagship AI Model, Tell HN: Claude Code now allows Anthropic to remotely inject system prompts
 - [2026-05-24](digests/models-and-research/2026-05-24.md) - Anthropic blames dystopian sci-fi for training AI models to act "evil", Local LLMs perform better when you teach them to ask before they answer, Data Fundamentals Primer for Learning LLM
@@ -42,6 +43,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-28](digests/industry-and-business/2026-05-28.md) - YouTube to automatically label AI-generated videos, DuckDuckGo search saw 28% more visits after Google said people love AI mode, Tech CEOs are apparently suffering from AI psychosis
 - [2026-05-27](digests/industry-and-business/2026-05-27.md) - Stack Overflow’s forum is dead but the company’s still kicking, I'm Tired of Talking to AI, Launch HN: Minicor (YC P26) – Windows desktop automations at scale
 - [2026-05-25](digests/industry-and-business/2026-05-25.md) - 'AI washing': firms are scrambling to rebrand themselves as tech-focused, If you let AI do your writing, I will come to your house and kill you, Show HN: Geomatic – a command-driven geometry studio enabled with autodiff
 - [2026-05-24](digests/industry-and-business/2026-05-24.md) - Italy moves to Airbus A330 tankers, DHS Quits Granting Green Cards–Almost, Air France and Airbus found guilty of manslaughter over 2009 plane crash
@@ -80,6 +82,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-28](digests/policy-and-safety/2026-05-28.md) - Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video], US law enforcement warns of "anti-tech extremism" as AI hatred grows, Illinois Lawmakers Just Passed America's Strongest AI Safety Bill
 - [2026-05-27](digests/policy-and-safety/2026-05-27.md) - Pope Leo warns AI challenges must be confronted with regulation, transparency
 - [2026-05-23](digests/policy-and-safety/2026-05-23.md) - AI keeps inventing fake cases. Lawyers keep citing them, Governor Newsom signs order to prepare workers for potential AI disruption
 - [2026-05-22](digests/policy-and-safety/2026-05-22.md) - Deepfakes Tore a High School Apart, Trump calls off AI executive order over concern it could weaken US tech edge, Deepfakes Tore a High School Apart
@@ -108,6 +111,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-28](digests/tools-and-open-source/2026-05-28.md) - Why AI Agents Cannot Change Software Systems, Show HN: VAEN – Package and import portable AI coding-agent Harnesses, Open-source developers are working themselves sick on AI bugs
 - [2026-05-27](digests/tools-and-open-source/2026-05-27.md) - Outsourcing plus local AI will soon become more economical vs. frontier labs, AI tools are only as good as your judgment, Show HN: Posthorn, self-hosted mail without the mail server
 - [2026-05-25](digests/tools-and-open-source/2026-05-25.md) - Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
 - [2026-05-24](digests/tools-and-open-source/2026-05-24.md) - AI Mistakes Are Infuriating Gamers as Developers Seek Savings, Show HN: I built a RAG and knowledge graph agent that runs locally
