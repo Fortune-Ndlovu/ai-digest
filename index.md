@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-05-29](digests/models-and-research/2026-05-29.md) - Disagreement among frontier LLMs on real-world fact-checks, Various LLM Smells, The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin
 - [2026-05-28](digests/models-and-research/2026-05-28.md) - Training our own AI models, Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction, Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU
 - [2026-05-27](digests/models-and-research/2026-05-27.md) - A sleep-like consolidation mechanism for LLMs, Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team, DeepSWE: A contamination-free benchmark for long-horizon coding agents
 - [2026-05-25](digests/models-and-research/2026-05-25.md) - Memory has grown to nearly two-thirds of AI chip component costs, DeepSeek to Make Permanent 75% Discount on Flagship AI Model, Tell HN: Claude Code now allows Anthropic to remotely inject system prompts
@@ -43,6 +44,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-05-29](digests/industry-and-business/2026-05-29.md) - SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims, Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions, Google Hates You
 - [2026-05-28](digests/industry-and-business/2026-05-28.md) - YouTube to automatically label AI-generated videos, DuckDuckGo search saw 28% more visits after Google said people love AI mode, Tech CEOs are apparently suffering from AI psychosis
 - [2026-05-27](digests/industry-and-business/2026-05-27.md) - Stack Overflow’s forum is dead but the company’s still kicking, I'm Tired of Talking to AI, Launch HN: Minicor (YC P26) – Windows desktop automations at scale
 - [2026-05-25](digests/industry-and-business/2026-05-25.md) - 'AI washing': firms are scrambling to rebrand themselves as tech-focused, If you let AI do your writing, I will come to your house and kill you, Show HN: Geomatic – a command-driven geometry studio enabled with autodiff
@@ -82,6 +84,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-05-29](digests/policy-and-safety/2026-05-29.md) - Why Tesla's AI trainers don't trust its self-driving tech – or its safety stats, CNN sues Perplexity over alleged AI copyright theft, Musk abandoned his own solar electric economy to burn gas for an unused AI chat
 - [2026-05-28](digests/policy-and-safety/2026-05-28.md) - Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video], US law enforcement warns of "anti-tech extremism" as AI hatred grows, Illinois Lawmakers Just Passed America's Strongest AI Safety Bill
 - [2026-05-27](digests/policy-and-safety/2026-05-27.md) - Pope Leo warns AI challenges must be confronted with regulation, transparency
 - [2026-05-23](digests/policy-and-safety/2026-05-23.md) - AI keeps inventing fake cases. Lawyers keep citing them, Governor Newsom signs order to prepare workers for potential AI disruption
@@ -111,6 +114,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-05-29](digests/tools-and-open-source/2026-05-29.md) - Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue, Undisclosed addition in jqwik instructed AI coding agents to delete app output, Show HN: LiteParse v2, now in Rust 100x faster
 - [2026-05-28](digests/tools-and-open-source/2026-05-28.md) - Why AI Agents Cannot Change Software Systems, Show HN: VAEN – Package and import portable AI coding-agent Harnesses, Open-source developers are working themselves sick on AI bugs
 - [2026-05-27](digests/tools-and-open-source/2026-05-27.md) - Outsourcing plus local AI will soon become more economical vs. frontier labs, AI tools are only as good as your judgment, Show HN: Posthorn, self-hosted mail without the mail server
 - [2026-05-25](digests/tools-and-open-source/2026-05-25.md) - Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
