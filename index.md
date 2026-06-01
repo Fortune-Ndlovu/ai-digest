@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-01](digests/models-and-research/2026-06-01.md) - LLMs Are Closer to Religion Than They Appear, Talk Is Cheap: The Operational Impact of LLM Use, Why are large language models so terrible at video games?
 - [2026-05-31](digests/models-and-research/2026-05-31.md) - Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM, 768GB Intel Optane DIMMs to run 1T-parameter LLM with single GPU at 4tps, Mystery company accidentally blew $500M on Claude AI in a single month
 - [2026-05-30](digests/models-and-research/2026-05-30.md) - Notes from the Mistral AI Now Summit, Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA, The literary world is sleepwalking into an AI disaster
 - [2026-05-29](digests/models-and-research/2026-05-29.md) - Disagreement among frontier LLMs on real-world fact-checks, Various LLM Smells, The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin
@@ -46,6 +47,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-01](digests/industry-and-business/2026-06-01.md) - The solution might be cancelling my AI subscription, Meta launches Instagram, Facebook, and WhatsApp subscriptions, The Speed of Prototyping in the Age of AI
 - [2026-05-31](digests/industry-and-business/2026-05-31.md) - OpenRouter raises $113M Series B, Anthropic surpasses OpenAI to become most valuable AI startup, Accenture to acquire Ookla
 - [2026-05-30](digests/industry-and-business/2026-05-30.md) - Please Use AI, Is AI causing a repeat of frontend’s lost decade?, Liquid AI reveals 8B-A1B MoE trained on 38T
 - [2026-05-29](digests/industry-and-business/2026-05-29.md) - SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims, Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions, Google Hates You
@@ -88,6 +90,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-01](digests/policy-and-safety/2026-06-01.md) - Unlawful by design: Exposing the human rights costs of generative AI, CT gov signs AI law to notify employees, Unlawful by design: Exposing the human rights costs of generative AI
 - [2026-05-31](digests/policy-and-safety/2026-05-31.md) - Starbucks Abandons Borked AI Inventory Tool That Couldn't Count, UC Berkeley Law blanket AI ban since summer 2026
 - [2026-05-30](digests/policy-and-safety/2026-05-30.md) - Tesla's AI trainers don't trust its self-driving tech – or its safety stats, An AI Audit of FreeBSD, HolaClaw: One-click secure OpenClaw on Mac
 - [2026-05-29](digests/policy-and-safety/2026-05-29.md) - Why Tesla's AI trainers don't trust its self-driving tech – or its safety stats, CNN sues Perplexity over alleged AI copyright theft, Musk abandoned his own solar electric economy to burn gas for an unused AI chat
@@ -120,6 +123,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-01](digests/tools-and-open-source/2026-06-01.md) - Odysseus – self-hosted AI workspace, Netflix Wiz creates app to slash AI bills, then open sources it, Netflix Wiz creates app to slash AI bills, then open sources it
 - [2026-05-31](digests/tools-and-open-source/2026-05-31.md) - 1M Ancient Greek fragments soon to be translated with the help of AI, Open source project contains hidden instruction for "AI" agents: delete my code, Ask HN: What are your worst war stories bringing agentic applications into prod
 - [2026-05-30](digests/tools-and-open-source/2026-05-30.md) - CAPTCHAs can still detect AI agents, Show HN: AISlop, a CLI for catching AI generated code smells, Reddit blocks JSON API access, which leaves read-only apps like RDX unusable
 - [2026-05-29](digests/tools-and-open-source/2026-05-29.md) - Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue, Undisclosed addition in jqwik instructed AI coding agents to delete app output, Show HN: LiteParse v2, now in Rust 100x faster
