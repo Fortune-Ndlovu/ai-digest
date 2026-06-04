@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-04](digests/models-and-research/2026-06-04.md) - Gemma 4 12B: A unified, encoder-free multimodal model, I built a vulnerable app and spent $1,500 seeing if LLMs could hack it, Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)
 - [2026-06-03](digests/models-and-research/2026-06-03.md) - U of T researchers demonstrate AI worm could target any online device, LLMs are not the black box you were promised, Testing Google's Gemini Spark AI agent: it's incredible, and creepy
 - [2026-06-02](digests/models-and-research/2026-06-02.md) - Qwen3.7-Plus: Multimodal Agent Intelligence, Remote work, not AI, has sidelined recent college graduates, research finds, Move over, AlphaFold: open-source model predicts shape of 1B proteins
 - [2026-06-01](digests/models-and-research/2026-06-01.md) - LLMs Are Closer to Religion Than They Appear, Talk Is Cheap: The Operational Impact of LLM Use, Why are large language models so terrible at video games?
@@ -49,6 +50,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-04](digests/industry-and-business/2026-06-04.md) - Artificial intelligence is not conscious – Ted Chiang, 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building, Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes
 - [2026-06-03](digests/industry-and-business/2026-06-03.md) - Please don't spam people looking for employment. It's just cruel, MAI-Code-1-Flash, CT scans of BYD car parts
 - [2026-06-02](digests/industry-and-business/2026-06-02.md) - The newest Instagram “exploit” is the goofiest I've seen, Anthropic confidentially submits draft S-1 to the SEC, DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms
 - [2026-06-01](digests/industry-and-business/2026-06-01.md) - The solution might be cancelling my AI subscription, Meta launches Instagram, Facebook, and WhatsApp subscriptions, The Speed of Prototyping in the Age of AI
@@ -94,6 +96,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-04](digests/policy-and-safety/2026-06-04.md) - A blueprint for democratic governance of frontier AI
 - [2026-06-03](digests/policy-and-safety/2026-06-03.md) - AI outperforms law professors in Stanford Law study, Show HN: Clor – give your agent claws, Trump Signs AI Executive Order to Increase Government Oversight
 - [2026-06-02](digests/policy-and-safety/2026-06-02.md) - Zig president bans AI code contributions: 'invariably garbage', Colorado Rolls Back Landmark AI Governance Law, SoftBank's Masayoshi Son: AI revolution is '50x bigger' than the dot-com boom
 - [2026-06-01](digests/policy-and-safety/2026-06-01.md) - Unlawful by design: Exposing the human rights costs of generative AI, CT gov signs AI law to notify employees, Unlawful by design: Exposing the human rights costs of generative AI
@@ -129,6 +132,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-04](digests/tools-and-open-source/2026-06-04.md) - Uber's $1,500/month AI limit is a useful signal for AI tool pricing, Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx, I Replaced My AI Agent's Flat Fact Store with a Graph Database
 - [2026-06-03](digests/tools-and-open-source/2026-06-03.md) - Agentic Mfw, How we index images for RAG, Now AI agents need what RSS does
 - [2026-06-02](digests/tools-and-open-source/2026-06-02.md) - AI Agent Guidelines for CS336 at Stanford, Angry devs vow to flee GitHub Copilot as metered billing takes hold, Build a Basic AI Agent from Scratch: Tools
 - [2026-06-01](digests/tools-and-open-source/2026-06-01.md) - Odysseus – self-hosted AI workspace, Netflix Wiz creates app to slash AI bills, then open sources it, Netflix Wiz creates app to slash AI bills, then open sources it
