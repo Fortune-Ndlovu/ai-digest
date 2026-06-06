@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-06](digests/models-and-research/2026-06-06.md) - Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency, Transformers are inherently succinct, Observing LLM Applications with OpenTelemetry
 - [2026-06-05](digests/models-and-research/2026-06-05.md) - KVarN: Native vLLM backend for KV-cache quantization by Huawei, The LLM warnings Google fired Timnit Gebru over have all come true, Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud
 - [2026-06-04](digests/models-and-research/2026-06-04.md) - Gemma 4 12B: A unified, encoder-free multimodal model, I built a vulnerable app and spent $1,500 seeing if LLMs could hack it, Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)
 - [2026-06-03](digests/models-and-research/2026-06-03.md) - U of T researchers demonstrate AI worm could target any online device, LLMs are not the black box you were promised, Testing Google's Gemini Spark AI agent: it's incredible, and creepy
@@ -51,6 +52,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-06](digests/industry-and-business/2026-06-06.md) - S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic, Astronauts told to return to ISS after sheltering over air leak repairs, Hacker News, Sans AI
 - [2026-06-05](digests/industry-and-business/2026-06-05.md) - When AI Builds Itself: Our progress toward recursive self-improvement, Anthropic's open-source framework for AI-powered vulnerability discovery, Google employees internally share memes about how its AI sucks
 - [2026-06-04](digests/industry-and-business/2026-06-04.md) - Artificial intelligence is not conscious – Ted Chiang, 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building, Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes
 - [2026-06-03](digests/industry-and-business/2026-06-03.md) - Please don't spam people looking for employment. It's just cruel, MAI-Code-1-Flash, CT scans of BYD car parts
@@ -98,6 +100,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-06](digests/policy-and-safety/2026-06-06.md) - AI must foster 'maternal instincts' or we risk extinction, warns Geoffrey Hinton
 - [2026-06-05](digests/policy-and-safety/2026-06-05.md) - Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk, Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk, Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk
 - [2026-06-04](digests/policy-and-safety/2026-06-04.md) - A blueprint for democratic governance of frontier AI
 - [2026-06-03](digests/policy-and-safety/2026-06-03.md) - AI outperforms law professors in Stanford Law study, Show HN: Clor – give your agent claws, Trump Signs AI Executive Order to Increase Government Oversight
@@ -135,6 +138,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-06](digests/tools-and-open-source/2026-06-06.md) - Show HN: I nerfed our coding agents on purpose, We Ditched Postgres for ClickHouse to Process 12B Caches per Day
 - [2026-06-05](digests/tools-and-open-source/2026-06-05.md) - Open Code Review – An AI-powered code review CLI tool, South Korean Forums Will Need to Scan Every Images with AI Censorship Tools, Machine learning using Clojure, libpython-clj2, and PyTorch
 - [2026-06-04](digests/tools-and-open-source/2026-06-04.md) - Uber's $1,500/month AI limit is a useful signal for AI tool pricing, Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx, I Replaced My AI Agent's Flat Fact Store with a Graph Database
 - [2026-06-03](digests/tools-and-open-source/2026-06-03.md) - Agentic Mfw, How we index images for RAG, Now AI agents need what RSS does
