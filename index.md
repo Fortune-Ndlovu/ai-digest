@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-08](digests/models-and-research/2026-06-08.md) - LLMs are eroding my software engineering career and I don't know what to do, If LLMs Have Human-Like Attributes, Then So Does Age of Empires II, Replies to comments on my "LLMs are eroding my career" post
 - [2026-06-07](digests/models-and-research/2026-06-07.md) - Human-Like Neural Nets by Catapulting, If LLMs Have Human-Like Attributes, Then So Does Age of Empires II, Show HN: Sub-Agent MCP: LLM delegation and sub-agent orchestration via MCP
 - [2026-06-06](digests/models-and-research/2026-06-06.md) - Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency, Transformers are inherently succinct, Observing LLM Applications with OpenTelemetry
 - [2026-06-05](digests/models-and-research/2026-06-05.md) - KVarN: Native vLLM backend for KV-cache quantization by Huawei, The LLM warnings Google fired Timnit Gebru over have all come true, Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud
@@ -53,6 +54,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-08](digests/industry-and-business/2026-06-08.md) - The OnlyFans Economy of American AI, Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began, SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students
 - [2026-06-07](digests/industry-and-business/2026-06-07.md) - Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot, Nvidia is proposing a beast of a CPU system for Windows PCs, Police in England and Wales told to halt AI use in court statements
 - [2026-06-06](digests/industry-and-business/2026-06-06.md) - S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic, Astronauts told to return to ISS after sheltering over air leak repairs, Hacker News, Sans AI
 - [2026-06-05](digests/industry-and-business/2026-06-05.md) - When AI Builds Itself: Our progress toward recursive self-improvement, Anthropic's open-source framework for AI-powered vulnerability discovery, Google employees internally share memes about how its AI sucks
@@ -141,6 +143,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-08](digests/tools-and-open-source/2026-06-08.md) - Show HN: Help SourceLibrary.org Translate the Renaissance, Show HN: Web Speed – A shared web-map registry for AI agents (MCP, open source), Agentic AI solved coding and exposed every other problem in SE
 - [2026-06-07](digests/tools-and-open-source/2026-06-07.md) - Meta Keeps Delaying the Release of Its New AI Model to Developers, Software developers admit that AI is rotting their brains
 - [2026-06-06](digests/tools-and-open-source/2026-06-06.md) - Show HN: I nerfed our coding agents on purpose, We Ditched Postgres for ClickHouse to Process 12B Caches per Day
 - [2026-06-05](digests/tools-and-open-source/2026-06-05.md) - Open Code Review – An AI-powered code review CLI tool, South Korean Forums Will Need to Scan Every Images with AI Censorship Tools, Machine learning using Clojure, libpython-clj2, and PyTorch
