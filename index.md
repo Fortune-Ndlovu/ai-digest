@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-10](digests/models-and-research/2026-06-10.md) - Ask HN: Are you still using a Vision Pro?, AWS Bedrock to require sharing data with Anthropic for Mythos and future models, Can LLMs Beat Classical Hyperparameter Optimization Algorithms?
 - [2026-06-09](digests/models-and-research/2026-06-09.md) - Apple reveals new AI architecture built around Google Gemini models, Show HN: Rayline routes Claude Code subagents to on-device and cheaper models, The Third Generation of Apple's Foundation Models
 - [2026-06-08](digests/models-and-research/2026-06-08.md) - LLMs are eroding my software engineering career and I don't know what to do, If LLMs Have Human-Like Attributes, Then So Does Age of Empires II, Replies to comments on my "LLMs are eroding my career" post
 - [2026-06-07](digests/models-and-research/2026-06-07.md) - Human-Like Neural Nets by Catapulting, If LLMs Have Human-Like Attributes, Then So Does Age of Empires II, Show HN: Sub-Agent MCP: LLM delegation and sub-agent orchestration via MCP
@@ -55,6 +56,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-10](digests/industry-and-business/2026-06-10.md) - CEOs who think AI replaces their employees are just bad CEOs, German ruling declares Google liable for false answers in AI Overviews, Apple decided not to roll out Siri in EU after denied request for exemption
 - [2026-06-09](digests/industry-and-business/2026-06-09.md) - Siri AI, AI is slowing down, Apple Core AI Framework
 - [2026-06-08](digests/industry-and-business/2026-06-08.md) - The OnlyFans Economy of American AI, Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began, SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students
 - [2026-06-07](digests/industry-and-business/2026-06-07.md) - Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot, Nvidia is proposing a beast of a CPU system for Windows PCs, Police in England and Wales told to halt AI use in court statements
@@ -106,6 +108,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-10](digests/policy-and-safety/2026-06-10.md) - Show HN: Claw Patrol, a security firewall for agents, Ottawa's bill regulating social media, AI expected to include age restrictions
 - [2026-06-09](digests/policy-and-safety/2026-06-09.md) - If HN policy disallows AI comments, why is linking to AI generated content ok?, Letting OpenClaw run wild in Simulation
 - [2026-06-07](digests/policy-and-safety/2026-06-07.md) - US House lawmakers release draft bill to prohibit state AI rules, Law Professors Prefer AI over Peer Answers
 - [2026-06-06](digests/policy-and-safety/2026-06-06.md) - AI must foster 'maternal instincts' or we risk extinction, warns Geoffrey Hinton
@@ -146,6 +149,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-10](digests/tools-and-open-source/2026-06-10.md) - Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted, US publishers tell Common Crawl to stop scraping and delete archive, Show HN: The agent that builds and operates its own SaaS tools
 - [2026-06-09](digests/tools-and-open-source/2026-06-09.md) - Ask HN: What are tools you have made for yourself since the advent of AI?, Microsoft's open source tools were hacked to steal passwords of AI developers, The weather and climate science AI revolution isn't revolutionary
 - [2026-06-08](digests/tools-and-open-source/2026-06-08.md) - Show HN: Help SourceLibrary.org Translate the Renaissance, Show HN: Web Speed – A shared web-map registry for AI agents (MCP, open source), Agentic AI solved coding and exposed every other problem in SE
 - [2026-06-07](digests/tools-and-open-source/2026-06-07.md) - Meta Keeps Delaying the Release of Its New AI Model to Developers, Software developers admit that AI is rotting their brains
