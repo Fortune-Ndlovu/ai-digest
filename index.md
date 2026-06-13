@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-13](digests/models-and-research/2026-06-13.md) - Shepherd's Dog: A Game by the Most Dangerous AI Model, Trump admin blocks foreign access to Anthropic's most powerful AI models, Anthropic disables top-tier AI models outside US
 - [2026-06-12](digests/models-and-research/2026-06-12.md) - Claude Fable is relentlessly proactive, Anthropic apologizes for invisible Claude Fable guardrails, MTG Bench: Testing how well LLMs can play Magic
 - [2026-06-11](digests/models-and-research/2026-06-11.md) - DiffusionGemma: 4x Faster Text Generation, Anthropic Walks Back Policy That Could Have 'Sabotaged' Researchers Using Claude, Show HN: Papermill Press – An AI-friendly markup language for PDF generation
 - [2026-06-10](digests/models-and-research/2026-06-10.md) - Ask HN: Are you still using a Vision Pro?, AWS Bedrock to require sharing data with Anthropic for Mythos and future models, Can LLMs Beat Classical Hyperparameter Optimization Algorithms?
@@ -58,6 +59,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-13](digests/industry-and-business/2026-06-13.md) - Slightly reducing the sloppiness of AI generated front end, Show HN: StackScope – I crawled over 40k indie launches to see what they ship, Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents
 - [2026-06-12](digests/industry-and-business/2026-06-12.md) - Workers are spending over 6 hours a week botsitting AI, fueling job frustration, Shall we play a game? My AI nuclear simulation, A jacket that harvests drinking water from the air
 - [2026-06-11](digests/industry-and-business/2026-06-11.md) - I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA, Show HN: Extend UI – open-source UI kit for modern document apps, Why AI hasn't replaced software engineers, and won't
 - [2026-06-10](digests/industry-and-business/2026-06-10.md) - CEOs who think AI replaces their employees are just bad CEOs, German ruling declares Google liable for false answers in AI Overviews, Apple decided not to roll out Siri in EU after denied request for exemption
@@ -112,6 +114,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-13](digests/policy-and-safety/2026-06-13.md) - Judge Punishes 4 Lawyers After Catching Both Sides Using A.I. In Lawsuit
 - [2026-06-12](digests/policy-and-safety/2026-06-12.md) - AI agent bankrupted their operator while trying to scan DN42, Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations
 - [2026-06-11](digests/policy-and-safety/2026-06-11.md) - A €0.01 bank transfer could compromise a banking AI agent, Policy on the AI Exponential, Ottawa moves to restrict social media for kids under 16
 - [2026-06-10](digests/policy-and-safety/2026-06-10.md) - Show HN: Claw Patrol, a security firewall for agents, Ottawa's bill regulating social media, AI expected to include age restrictions
@@ -155,6 +158,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-13](digests/tools-and-open-source/2026-06-13.md) - Open source AI must win, A dumpster arrived behind my university's library, Stages of AI engineering maturity: a framework for teams
 - [2026-06-12](digests/tools-and-open-source/2026-06-12.md) - The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug, I procrastinate by building tools to stop me from procrastinating: A sad story, Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains
 - [2026-06-11](digests/tools-and-open-source/2026-06-11.md) - AI agent runs amok in Fedora and elsewhere, Apache Burr: Build reliable AI agents and applications, Show HN: HelixDB – A graph database built on object storage
 - [2026-06-10](digests/tools-and-open-source/2026-06-10.md) - Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted, US publishers tell Common Crawl to stop scraping and delete archive, Show HN: The agent that builds and operates its own SaaS tools
