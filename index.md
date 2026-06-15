@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-15](digests/models-and-research/2026-06-15.md) - Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model, Show HN: Philosophy for Kids, Tell HN: Claude is completely unusable for biology
 - [2026-06-14](digests/models-and-research/2026-06-14.md) - LLMs aren't conscious (and thinking they are is culturally dangerous), Claude Fable 5 vs. GPT-5.5: Better Planning, Similar Execution, Ask HN: Which cheap Chinese LLM are you using?
 - [2026-06-13](digests/models-and-research/2026-06-13.md) - Shepherd's Dog: A Game by the Most Dangerous AI Model, Trump admin blocks foreign access to Anthropic's most powerful AI models, Anthropic disables top-tier AI models outside US
 - [2026-06-12](digests/models-and-research/2026-06-12.md) - Claude Fable is relentlessly proactive, Anthropic apologizes for invisible Claude Fable guardrails, MTG Bench: Testing how well LLMs can play Magic
@@ -60,6 +61,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-15](digests/industry-and-business/2026-06-15.md) - Not everyone is using AI for everything, Linux 7.1, Did Anthropic ask for this?
 - [2026-06-14](digests/industry-and-business/2026-06-14.md) - Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models, GLM 5.2 Is Out, Police officer investigated for using AI to 'create evidence' in multiple cases
 - [2026-06-13](digests/industry-and-business/2026-06-13.md) - Slightly reducing the sloppiness of AI generated front end, Show HN: StackScope – I crawled over 40k indie launches to see what they ship, Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents
 - [2026-06-12](digests/industry-and-business/2026-06-12.md) - Workers are spending over 6 hours a week botsitting AI, fueling job frustration, Shall we play a game? My AI nuclear simulation, A jacket that harvests drinking water from the air
@@ -116,6 +118,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-15](digests/policy-and-safety/2026-06-15.md) - Welcome to the AGI era of AI governance
 - [2026-06-14](digests/policy-and-safety/2026-06-14.md) - Chatbot teddies for three‑year‑olds? Why AI toys are risky for kids, How Israel's AI surveillance breakthrough in Iran is reshaping global intel
 - [2026-06-13](digests/policy-and-safety/2026-06-13.md) - Judge Punishes 4 Lawyers After Catching Both Sides Using A.I. In Lawsuit
 - [2026-06-12](digests/policy-and-safety/2026-06-12.md) - AI agent bankrupted their operator while trying to scan DN42, Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations
@@ -161,6 +164,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-15](digests/tools-and-open-source/2026-06-15.md) - Openrouter Fusion API, Ponytail – make your AI agent think like the laziest senior dev in the room, Oracle is changing free tier limits. Update by the 15th to avoid charges
 - [2026-06-14](digests/tools-and-open-source/2026-06-14.md) - AI OSS tool repo goes archived over night after raising $7.3M Seed, Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists, Show HN: Bastion – isolated Linux VMs for background coding agents
 - [2026-06-13](digests/tools-and-open-source/2026-06-13.md) - Open source AI must win, A dumpster arrived behind my university's library, Stages of AI engineering maturity: a framework for teams
 - [2026-06-12](digests/tools-and-open-source/2026-06-12.md) - The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug, I procrastinate by building tools to stop me from procrastinating: A sad story, Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains
