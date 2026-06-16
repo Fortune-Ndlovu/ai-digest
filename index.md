@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-16](digests/models-and-research/2026-06-16.md) - Can Europe train a frontier AI model on the compute it owns?, Launch HN: Drafted (YC P26) – Models for residential architecture, LLMs Will Replace 8-Track Duplication Engineers
 - [2026-06-15](digests/models-and-research/2026-06-15.md) - Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model, Show HN: Philosophy for Kids, Tell HN: Claude is completely unusable for biology
 - [2026-06-14](digests/models-and-research/2026-06-14.md) - LLMs aren't conscious (and thinking they are is culturally dangerous), Claude Fable 5 vs. GPT-5.5: Better Planning, Similar Execution, Ask HN: Which cheap Chinese LLM are you using?
 - [2026-06-13](digests/models-and-research/2026-06-13.md) - Shepherd's Dog: A Game by the Most Dangerous AI Model, Trump admin blocks foreign access to Anthropic's most powerful AI models, Anthropic disables top-tier AI models outside US
@@ -61,6 +62,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-16](digests/industry-and-business/2026-06-16.md) - My Homelab AI Dev Platform, Microsoft turns to AWS as GitHub faces AI capacity crunch, US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says
 - [2026-06-15](digests/industry-and-business/2026-06-15.md) - Not everyone is using AI for everything, Linux 7.1, Did Anthropic ask for this?
 - [2026-06-14](digests/industry-and-business/2026-06-14.md) - Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models, GLM 5.2 Is Out, Police officer investigated for using AI to 'create evidence' in multiple cases
 - [2026-06-13](digests/industry-and-business/2026-06-13.md) - Slightly reducing the sloppiness of AI generated front end, Show HN: StackScope – I crawled over 40k indie launches to see what they ship, Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents
@@ -118,6 +120,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-16](digests/policy-and-safety/2026-06-16.md) - Show HN: Veterinarian turned founder, AI lawn diagnosis, The US government's Anthropic models ban was never about an AI jailbreak
 - [2026-06-15](digests/policy-and-safety/2026-06-15.md) - Welcome to the AGI era of AI governance
 - [2026-06-14](digests/policy-and-safety/2026-06-14.md) - Chatbot teddies for three‑year‑olds? Why AI toys are risky for kids, How Israel's AI surveillance breakthrough in Iran is reshaping global intel
 - [2026-06-13](digests/policy-and-safety/2026-06-13.md) - Judge Punishes 4 Lawyers After Catching Both Sides Using A.I. In Lawsuit
@@ -164,6 +167,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-16](digests/tools-and-open-source/2026-06-16.md) - SpaceX to buy Cursor AI coding agent operator Anysphere for $60B, We're pausing the Agent SDK credit change (Anthropic), Show HN: Macro – unified system for email, chat, tasks, docs, agents (AGPL/Rust)
 - [2026-06-15](digests/tools-and-open-source/2026-06-15.md) - Openrouter Fusion API, Ponytail – make your AI agent think like the laziest senior dev in the room, Oracle is changing free tier limits. Update by the 15th to avoid charges
 - [2026-06-14](digests/tools-and-open-source/2026-06-14.md) - AI OSS tool repo goes archived over night after raising $7.3M Seed, Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists, Show HN: Bastion – isolated Linux VMs for background coding agents
 - [2026-06-13](digests/tools-and-open-source/2026-06-13.md) - Open source AI must win, A dumpster arrived behind my university's library, Stages of AI engineering maturity: a framework for teams
