@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-18](digests/models-and-research/2026-06-18.md) - A robot is sprinting towards you. Do you want it running on Claude or Grok?, ChatGPT's image generator can be manipulated to produce violent, sexual content, DeepSeek v4 Pro 1.6T model post-trained by Huawei on 1000 Ascend 910C chips
 - [2026-06-17](digests/models-and-research/2026-06-17.md) - GLM-5.2 is the new leading open weights model on Artificial Analysis, GPT‑NL: a sovereign language model for the Netherlands, Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence
 - [2026-06-16](digests/models-and-research/2026-06-16.md) - Can Europe train a frontier AI model on the compute it owns?, Launch HN: Drafted (YC P26) – Models for residential architecture, LLMs Will Replace 8-Track Duplication Engineers
 - [2026-06-15](digests/models-and-research/2026-06-15.md) - Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model, Show HN: Philosophy for Kids, Tell HN: Claude is completely unusable for biology
@@ -63,6 +64,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-18](digests/industry-and-business/2026-06-18.md) - Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, Want your images back? That'll be $5, AI demands more engineering discipline. Not less
 - [2026-06-17](digests/industry-and-business/2026-06-17.md) - Has AI already killed self-help nonfiction books?, Wolfram Language and Mathematica version 15, SubQ 1.1 Small
 - [2026-06-16](digests/industry-and-business/2026-06-16.md) - My Homelab AI Dev Platform, Microsoft turns to AWS as GitHub faces AI capacity crunch, US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says
 - [2026-06-15](digests/industry-and-business/2026-06-15.md) - Not everyone is using AI for everything, Linux 7.1, Did Anthropic ask for this?
@@ -122,6 +124,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-18](digests/policy-and-safety/2026-06-18.md) - The hacker sent by Anthropic to calm the government's nerves about AI safety, Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users), HPV jabs cut risk of dying from cervical cancer before 30 to almost zero
 - [2026-06-17](digests/policy-and-safety/2026-06-17.md) - Fable ban was never about a jailbreak?, Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines
 - [2026-06-16](digests/policy-and-safety/2026-06-16.md) - Show HN: Veterinarian turned founder, AI lawn diagnosis, The US government's Anthropic models ban was never about an AI jailbreak
 - [2026-06-15](digests/policy-and-safety/2026-06-15.md) - Welcome to the AGI era of AI governance
@@ -170,6 +173,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-18](digests/tools-and-open-source/2026-06-18.md) - Local Qwen isn't a worse Opus, it's a different tool, AI Compute Extensions (ACE) Specification, Show HN: Tyto – find where audio breaks your voice-agent calls
 - [2026-06-17](digests/tools-and-open-source/2026-06-17.md) - France to ditch Palantir's AI data tools in favour of domestic provider, AskHN:How do you handle skill atrophy from using coding agents?, The octopus architecture for AI agents
 - [2026-06-16](digests/tools-and-open-source/2026-06-16.md) - SpaceX to buy Cursor AI coding agent operator Anysphere for $60B, We're pausing the Agent SDK credit change (Anthropic), Show HN: Macro – unified system for email, chat, tasks, docs, agents (AGPL/Rust)
 - [2026-06-15](digests/tools-and-open-source/2026-06-15.md) - Openrouter Fusion API, Ponytail – make your AI agent think like the laziest senior dev in the room, Oracle is changing free tier limits. Update by the 15th to avoid charges
