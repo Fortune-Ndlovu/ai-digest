@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-20](digests/models-and-research/2026-06-20.md) - Is AI ruining our skills? Early results are in – and they're not good, GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2, LLMs Are Complicated Now
 - [2026-06-19](digests/models-and-research/2026-06-19.md) - Show HN: Are You in the Weights?, Datasette Apps: Host custom HTML applications inside Datasette, GLM-5.2: The Most Powerful Open Model yet and the Brutal Reality of Running It
 - [2026-06-18](digests/models-and-research/2026-06-18.md) - A robot is sprinting towards you. Do you want it running on Claude or Grok?, ChatGPT's image generator can be manipulated to produce violent, sexual content, DeepSeek v4 Pro 1.6T model post-trained by Huawei on 1000 Ascend 910C chips
 - [2026-06-17](digests/models-and-research/2026-06-17.md) - GLM-5.2 is the new leading open weights model on Artificial Analysis, GPT‑NL: a sovereign language model for the Netherlands, Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence
@@ -65,6 +66,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-20](digests/industry-and-business/2026-06-20.md) - AI Engineer Claims to Have Cracked Linear A, Iran requires insurance on ships using Strait of Hormuz, fees likely to follow, Companies rein in AI usage as costs strain budgets
 - [2026-06-19](digests/industry-and-business/2026-06-19.md) - The AirPods Effect, Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps, The AI Hate Progression
 - [2026-06-18](digests/industry-and-business/2026-06-18.md) - Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, Want your images back? That'll be $5, AI demands more engineering discipline. Not less
 - [2026-06-17](digests/industry-and-business/2026-06-17.md) - Has AI already killed self-help nonfiction books?, Wolfram Language and Mathematica version 15, SubQ 1.1 Small
@@ -126,6 +128,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-20](digests/policy-and-safety/2026-06-20.md) - Norway imposes near ban on AI in elementary school, Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died, A new bill takes aim at government pressure to silence lawful online speech
 - [2026-06-19](digests/policy-and-safety/2026-06-19.md) - US Supreme Court limits ban on gun ownership by marijuana users, AI Regulation Should Be Rational, Not Retaliatory, U.S. Demands to Access Africans' Data Raise Privacy, Sovereignty Concerns
 - [2026-06-18](digests/policy-and-safety/2026-06-18.md) - The hacker sent by Anthropic to calm the government's nerves about AI safety, Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users), HPV jabs cut risk of dying from cervical cancer before 30 to almost zero
 - [2026-06-17](digests/policy-and-safety/2026-06-17.md) - Fable ban was never about a jailbreak?, Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines
@@ -176,6 +179,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-20](digests/tools-and-open-source/2026-06-20.md) - Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs, Hide Secrets from AI Agents and NPM install using Airgap, Temporary Cloudflare Accounts for AI Agents
 - [2026-06-19](digests/tools-and-open-source/2026-06-19.md) - Ask HN: What tools are you using for AI-assisted code review?, Securing the Future of AI Agents, Memanto; open-source memory agent that remembers, recalls and answers
 - [2026-06-18](digests/tools-and-open-source/2026-06-18.md) - Local Qwen isn't a worse Opus, it's a different tool, AI Compute Extensions (ACE) Specification, Show HN: Tyto – find where audio breaks your voice-agent calls
 - [2026-06-17](digests/tools-and-open-source/2026-06-17.md) - France to ditch Palantir's AI data tools in favour of domestic provider, AskHN:How do you handle skill atrophy from using coding agents?, The octopus architecture for AI agents
