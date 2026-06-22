@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-22](digests/models-and-research/2026-06-22.md) - Apertus – Open Foundation Model for Sovereign AI, Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions, The early hiring funnel is now breaking on both ends
 - [2026-06-21](digests/models-and-research/2026-06-21.md) - Show HN: We post-trained a model that pen tests instead of refusing, Codex (GPT-5.5, Plus plan) – rate-limit cost per token jumped 10x+ since June 16
 - [2026-06-20](digests/models-and-research/2026-06-20.md) - Is AI ruining our skills? Early results are in – and they're not good, GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2, LLMs Are Complicated Now
 - [2026-06-19](digests/models-and-research/2026-06-19.md) - Show HN: Are You in the Weights?, Datasette Apps: Host custom HTML applications inside Datasette, GLM-5.2: The Most Powerful Open Model yet and the Brutal Reality of Running It
@@ -67,6 +68,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-22](digests/industry-and-business/2026-06-22.md) - GLM 5.2 vs. Opus, Sakana Fugu, Tech Workers Are Fighting Against Silicon Valley's AI Push
 - [2026-06-21](digests/industry-and-business/2026-06-21.md) - When I reject AI code even if it works, The 100k Whys of AI, UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence
 - [2026-06-20](digests/industry-and-business/2026-06-20.md) - AI Engineer Claims to Have Cracked Linear A, Iran requires insurance on ships using Strait of Hormuz, fees likely to follow, Companies rein in AI usage as costs strain budgets
 - [2026-06-19](digests/industry-and-business/2026-06-19.md) - The AirPods Effect, Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps, The AI Hate Progression
@@ -130,6 +132,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-22](digests/policy-and-safety/2026-06-22.md) - GitHub Banned All CI for Our (OSS) Org Because of Bad Drive-By Contributors
 - [2026-06-21](digests/policy-and-safety/2026-06-21.md) - SUV buyers undeterred by warnings of risk to pedestrians
 - [2026-06-20](digests/policy-and-safety/2026-06-20.md) - Norway imposes near ban on AI in elementary school, Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died, A new bill takes aim at government pressure to silence lawful online speech
 - [2026-06-19](digests/policy-and-safety/2026-06-19.md) - US Supreme Court limits ban on gun ownership by marijuana users, AI Regulation Should Be Rational, Not Retaliatory, U.S. Demands to Access Africans' Data Raise Privacy, Sovereignty Concerns
@@ -182,6 +185,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-22](digests/tools-and-open-source/2026-06-22.md) - Refloow Photo Studio – A local, offline photo editor with on-device AI, Securing the Future of AI Agents, Two AI judges scored our agent's answer 0.85, but it never opened the file
 - [2026-06-21](digests/tools-and-open-source/2026-06-21.md) - Building reliable agentic AI systems, Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT), AutoJack: A single page can RCE the host running your AI agent
 - [2026-06-20](digests/tools-and-open-source/2026-06-20.md) - Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs, Hide Secrets from AI Agents and NPM install using Airgap, Temporary Cloudflare Accounts for AI Agents
 - [2026-06-19](digests/tools-and-open-source/2026-06-19.md) - Ask HN: What tools are you using for AI-assisted code review?, Securing the Future of AI Agents, Memanto; open-source memory agent that remembers, recalls and answers
