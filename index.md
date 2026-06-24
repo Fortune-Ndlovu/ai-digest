@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-24](digests/models-and-research/2026-06-24.md) - Mistral OCR 4, 'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly, How to Passive-Aggressively Shame People Who Use LLMs Selfishly
 - [2026-06-23](digests/models-and-research/2026-06-23.md) - Meta pauses AI training program tracking employee keystrokes after internal leak, Five Eyes warns AI models capable of toppling governments are months away, Gemini models increasingly stucking in thinking loop
 - [2026-06-22](digests/models-and-research/2026-06-22.md) - Apertus – Open Foundation Model for Sovereign AI, Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions, The early hiring funnel is now breaking on both ends
 - [2026-06-21](digests/models-and-research/2026-06-21.md) - Show HN: We post-trained a model that pen tests instead of refusing, Codex (GPT-5.5, Plus plan) – rate-limit cost per token jumped 10x+ since June 16
@@ -69,6 +70,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-24](digests/industry-and-business/2026-06-24.md) - Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX, AI's Affordability Crisis, California AB 2047 makes 3D printers off-limits to students, educators, business
 - [2026-06-23](digests/industry-and-business/2026-06-23.md) - Nvidia Halos, AI Built a Nuke and Still Lost, AI Has Already Killed Academia as We Know It
 - [2026-06-22](digests/industry-and-business/2026-06-22.md) - GLM 5.2 vs. Opus, Sakana Fugu, Tech Workers Are Fighting Against Silicon Valley's AI Push
 - [2026-06-21](digests/industry-and-business/2026-06-21.md) - When I reject AI code even if it works, The 100k Whys of AI, UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence
@@ -188,6 +190,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-24](digests/tools-and-open-source/2026-06-24.md) - GitHub Is Becoming a Giant AI Code Dump, Show HN: RLM-based local debugger for AI agent traces
 - [2026-06-23](digests/tools-and-open-source/2026-06-23.md) - GLM-5.2 – How to Run Locally, Show HN: Selector Forge – browser extension for AI-generated resilient selectors, I built Ponytrail, a local audit trail for AI coding-agent edits
 - [2026-06-22](digests/tools-and-open-source/2026-06-22.md) - Refloow Photo Studio – A local, offline photo editor with on-device AI, Securing the Future of AI Agents, Two AI judges scored our agent's answer 0.85, but it never opened the file
 - [2026-06-21](digests/tools-and-open-source/2026-06-21.md) - Building reliable agentic AI systems, Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT), AutoJack: A single page can RCE the host running your AI agent
