@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-27](digests/models-and-research/2026-06-27.md) - U.S. government will decide who gets to use GPT-5.6, The gap between open weights LLMs and closed source LLMs, Show HN: Smart model routing directly in Claude, Codex and Cursor
 - [2026-06-26](digests/models-and-research/2026-06-26.md) - Political bias in AI: Where the AI models stand, Why current LLM costs are not sustainable, OpenAI will delay GPT-5.6 after Trump administration request
 - [2026-06-25](digests/models-and-research/2026-06-25.md) - Anthropic says Alibaba illicitly extracted Claude AI model capabilities, RubyLLM: A Ruby framework for all major AI providers, Computer use in Gemini 3.5 Flash
 - [2026-06-24](digests/models-and-research/2026-06-24.md) - Mistral OCR 4, 'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly, How to Passive-Aggressively Shame People Who Use LLMs Selfishly
@@ -72,6 +73,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-27](digests/industry-and-business/2026-06-27.md) - U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations, AI in mathematics is forcing big questions, The AI industry is pouring millions into US elections
 - [2026-06-26](digests/industry-and-business/2026-06-26.md) - Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors, Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line, Zig's new bitCast semantics and LLVM back end improvements
 - [2026-06-25](digests/industry-and-business/2026-06-25.md) - 45°C cooling design cuts data center water use to near zero, Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck', Qualcomm to Acquire Modular
 - [2026-06-24](digests/industry-and-business/2026-06-24.md) - Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX, AI's Affordability Crisis, California AB 2047 makes 3D printers off-limits to students, educators, business
@@ -140,6 +142,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-27](digests/policy-and-safety/2026-06-27.md) - Ask HN: Is "no source code was copied" still a sufficient copyright defense?
 - [2026-06-26](digests/policy-and-safety/2026-06-26.md) - Ask HN: Norway bans AI in elementary schools, AI Surveillance: Age Verification Meets Your Chat Logs, America's data-centre backlash puts the AI boom at risk
 - [2026-06-25](digests/policy-and-safety/2026-06-25.md) - Are AI chatbots politically biased?, Talk of a bubble is 'blasphemy against AI' says SoftBank's Son, Show HN: Lumli – Privacy-first image tools that run entirely in your browser
 - [2026-06-23](digests/policy-and-safety/2026-06-23.md) - Facial recognition on public buses sparks debate over security and privacy, The AI shift in cyber risk: why leaders must act now, HR consultant wins English court case using AI lawyer in apparent legal first
