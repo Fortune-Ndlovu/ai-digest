@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-28](digests/models-and-research/2026-06-28.md) - Wayfinder Router: deterministic routing of queries between local and hosted LLM, Ask HN: Running local LLMs? What's your model and hardware, Ornith-1.0: A family of open-source LLMs specialized for agentic coding
 - [2026-06-27](digests/models-and-research/2026-06-27.md) - U.S. government will decide who gets to use GPT-5.6, The gap between open weights LLMs and closed source LLMs, Show HN: Smart model routing directly in Claude, Codex and Cursor
 - [2026-06-26](digests/models-and-research/2026-06-26.md) - Political bias in AI: Where the AI models stand, Why current LLM costs are not sustainable, OpenAI will delay GPT-5.6 after Trump administration request
 - [2026-06-25](digests/models-and-research/2026-06-25.md) - Anthropic says Alibaba illicitly extracted Claude AI model capabilities, RubyLLM: A Ruby framework for all major AI providers, Computer use in Gemini 3.5 Flash
@@ -73,6 +74,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-28](digests/industry-and-business/2026-06-28.md) - Asian AI startups launch Mythos-like models, The best response to AI slop and online noise is from Robin Williams, Ford hired AI and sacked humans. It backfired badly
 - [2026-06-27](digests/industry-and-business/2026-06-27.md) - U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations, AI in mathematics is forcing big questions, The AI industry is pouring millions into US elections
 - [2026-06-26](digests/industry-and-business/2026-06-26.md) - Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors, Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line, Zig's new bitCast semantics and LLVM back end improvements
 - [2026-06-25](digests/industry-and-business/2026-06-25.md) - 45°C cooling design cuts data center water use to near zero, Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck', Qualcomm to Acquire Modular
@@ -199,6 +201,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-28](digests/tools-and-open-source/2026-06-28.md) - Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work, Show HN: Better Graphs – Teach agents to stop making plain Matplotlib slop
 - [2026-06-26](digests/tools-and-open-source/2026-06-26.md) - Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion, Show HN: Polygraph – Let AI agents see cross repo and maintain session memory, Most of an agent codebase is not the agent
 - [2026-06-25](digests/tools-and-open-source/2026-06-25.md) - Haystack: Open-Source AI Framework for Production Ready Agents, RAG
 - [2026-06-24](digests/tools-and-open-source/2026-06-24.md) - GitHub Is Becoming a Giant AI Code Dump, Show HN: RLM-based local debugger for AI agent traces
