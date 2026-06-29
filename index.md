@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-06-29](digests/models-and-research/2026-06-29.md) - GLM 5.2 beats Claude in our benchmarks, Google limits Meta's use of its Gemini AI models, Do LLMs pass the mirror test?
 - [2026-06-28](digests/models-and-research/2026-06-28.md) - Wayfinder Router: deterministic routing of queries between local and hosted LLM, Ask HN: Running local LLMs? What's your model and hardware, Ornith-1.0: A family of open-source LLMs specialized for agentic coding
 - [2026-06-27](digests/models-and-research/2026-06-27.md) - U.S. government will decide who gets to use GPT-5.6, The gap between open weights LLMs and closed source LLMs, Show HN: Smart model routing directly in Claude, Codex and Cursor
 - [2026-06-26](digests/models-and-research/2026-06-26.md) - Political bias in AI: Where the AI models stand, Why current LLM costs are not sustainable, OpenAI will delay GPT-5.6 after Trump administration request
@@ -74,6 +75,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-06-29](digests/industry-and-business/2026-06-29.md) - Professor denounces mass AI fraud on an exam at Brown, Librepods: AirPods liberated, Ford rehires 'gray beard' engineers after AI falls short
 - [2026-06-28](digests/industry-and-business/2026-06-28.md) - Asian AI startups launch Mythos-like models, The best response to AI slop and online noise is from Robin Williams, Ford hired AI and sacked humans. It backfired badly
 - [2026-06-27](digests/industry-and-business/2026-06-27.md) - U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations, AI in mathematics is forcing big questions, The AI industry is pouring millions into US elections
 - [2026-06-26](digests/industry-and-business/2026-06-26.md) - Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors, Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line, Zig's new bitCast semantics and LLVM back end improvements
@@ -144,6 +146,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-06-29](digests/policy-and-safety/2026-06-29.md) - AI boom risks global financial crash, warn central bankers, AI 'exuberance' risks ending in lengthy investment bust
 - [2026-06-27](digests/policy-and-safety/2026-06-27.md) - Ask HN: Is "no source code was copied" still a sufficient copyright defense?
 - [2026-06-26](digests/policy-and-safety/2026-06-26.md) - Ask HN: Norway bans AI in elementary schools, AI Surveillance: Age Verification Meets Your Chat Logs, America's data-centre backlash puts the AI boom at risk
 - [2026-06-25](digests/policy-and-safety/2026-06-25.md) - Are AI chatbots politically biased?, Talk of a bubble is 'blasphemy against AI' says SoftBank's Son, Show HN: Lumli – Privacy-first image tools that run entirely in your browser
@@ -201,6 +204,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-06-29](digests/tools-and-open-source/2026-06-29.md) - Working around dragons with the Lemote Yeeloong laptop and OpenBSD, AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI
 - [2026-06-28](digests/tools-and-open-source/2026-06-28.md) - Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work, Show HN: Better Graphs – Teach agents to stop making plain Matplotlib slop
 - [2026-06-26](digests/tools-and-open-source/2026-06-26.md) - Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion, Show HN: Polygraph – Let AI agents see cross repo and maintain session memory, Most of an agent codebase is not the agent
 - [2026-06-25](digests/tools-and-open-source/2026-06-25.md) - Haystack: Open-Source AI Framework for Production Ready Agents, RAG
