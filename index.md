@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-01](digests/models-and-research/2026-07-01.md) - Words Are a Byproduct of Consciousness. For LLMs, It's Backwards, Claude Sonnet 5 – benchmark results, Trump to lift limits on Anthropic's Fable model
 - [2026-06-30](digests/models-and-research/2026-06-30.md) - Ornith-1.0: self-improving open-source models for agentic coding, DeepSeek V4 Peak Valley Pricing Change, A Berkeley AI professor makes provocative argument for decelerating AI research
 - [2026-06-29](digests/models-and-research/2026-06-29.md) - GLM 5.2 beats Claude in our benchmarks, Google limits Meta's use of its Gemini AI models, Do LLMs pass the mirror test?
 - [2026-06-28](digests/models-and-research/2026-06-28.md) - Wayfinder Router: deterministic routing of queries between local and hosted LLM, Ask HN: Running local LLMs? What's your model and hardware, Ornith-1.0: A family of open-source LLMs specialized for agentic coding
@@ -76,6 +77,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-01](digests/industry-and-business/2026-07-01.md) - Leanstral 1.5, Godot will no longer accept AI-authored code contributions, From brain waves to words: a new path to communication without surgery
 - [2026-06-30](digests/industry-and-business/2026-06-30.md) - South Korea to spend $1T on more memory chip production and humanoid robots, Working With AI: A concrete example, Popping the GPU Bubble
 - [2026-06-29](digests/industry-and-business/2026-06-29.md) - Professor denounces mass AI fraud on an exam at Brown, Librepods: AirPods liberated, Ford rehires 'gray beard' engineers after AI falls short
 - [2026-06-28](digests/industry-and-business/2026-06-28.md) - Asian AI startups launch Mythos-like models, The best response to AI slop and online noise is from Robin Williams, Ford hired AI and sacked humans. It backfired badly
@@ -148,6 +150,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-01](digests/policy-and-safety/2026-07-01.md) - Supreme Court rejects Trump bid to restrict birthright citizenship, The lawyer who beat Elon Musk, twice
 - [2026-06-30](digests/policy-and-safety/2026-06-30.md) - Tidal AI Policy, AI 'exuberance' risks ending in lengthy investment bust, BIS warns
 - [2026-06-29](digests/policy-and-safety/2026-06-29.md) - AI boom risks global financial crash, warn central bankers, AI 'exuberance' risks ending in lengthy investment bust
 - [2026-06-27](digests/policy-and-safety/2026-06-27.md) - Ask HN: Is "no source code was copied" still a sufficient copyright defense?
@@ -207,6 +210,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-01](digests/tools-and-open-source/2026-07-01.md) - Show HN: 143.dev – we open-sourced our internal coding-agent infrastructure, Show HN: Scaffold a BigQuery and dbt and Cube project an AI agent can operate, Show HN: Morph Reflexes – Multi-head classifiers for agent traces
 - [2026-06-30](digests/tools-and-open-source/2026-06-30.md) - Micro-Agent: Beat Frontier Models with Collaboration Inside Model API, Ask HN: Homeless, Former Software Developer, What Now?, Show HN: Agentic Orchestrator, a TUI for long-running coding agents
 - [2026-06-29](digests/tools-and-open-source/2026-06-29.md) - Working around dragons with the Lemote Yeeloong laptop and OpenBSD, AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI
 - [2026-06-28](digests/tools-and-open-source/2026-06-28.md) - Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work, Show HN: Better Graphs – Teach agents to stop making plain Matplotlib slop
