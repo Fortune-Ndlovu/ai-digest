@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-02](digests/models-and-research/2026-07-02.md) - ZCode: Claude Code from the Makers of GLM, Meta caps internal AI token spending, Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers
 - [2026-07-01](digests/models-and-research/2026-07-01.md) - Words Are a Byproduct of Consciousness. For LLMs, It's Backwards, Claude Sonnet 5 – benchmark results, Trump to lift limits on Anthropic's Fable model
 - [2026-06-30](digests/models-and-research/2026-06-30.md) - Ornith-1.0: self-improving open-source models for agentic coding, DeepSeek V4 Peak Valley Pricing Change, A Berkeley AI professor makes provocative argument for decelerating AI research
 - [2026-06-29](digests/models-and-research/2026-06-29.md) - GLM 5.2 beats Claude in our benchmarks, Google limits Meta's use of its Gemini AI models, Do LLMs pass the mirror test?
@@ -77,6 +78,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-02](digests/industry-and-business/2026-07-02.md) - ZCode – Harness for GLM-5.2, Ask HN: Who is hiring? (July 2026), Ask HN: Who wants to be hired? (July 2026)
 - [2026-07-01](digests/industry-and-business/2026-07-01.md) - Leanstral 1.5, Godot will no longer accept AI-authored code contributions, From brain waves to words: a new path to communication without surgery
 - [2026-06-30](digests/industry-and-business/2026-06-30.md) - South Korea to spend $1T on more memory chip production and humanoid robots, Working With AI: A concrete example, Popping the GPU Bubble
 - [2026-06-29](digests/industry-and-business/2026-06-29.md) - Professor denounces mass AI fraud on an exam at Brown, Librepods: AirPods liberated, Ford rehires 'gray beard' engineers after AI falls short
@@ -150,6 +152,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-02](digests/policy-and-safety/2026-07-02.md) - Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance, Welcome to the Dual State of AI Regulation, The Canary magazine has been debanked by Lloyds Bank in the UK
 - [2026-07-01](digests/policy-and-safety/2026-07-01.md) - Supreme Court rejects Trump bid to restrict birthright citizenship, The lawyer who beat Elon Musk, twice
 - [2026-06-30](digests/policy-and-safety/2026-06-30.md) - Tidal AI Policy, AI 'exuberance' risks ending in lengthy investment bust, BIS warns
 - [2026-06-29](digests/policy-and-safety/2026-06-29.md) - AI boom risks global financial crash, warn central bankers, AI 'exuberance' risks ending in lengthy investment bust
@@ -210,6 +213,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-02](digests/tools-and-open-source/2026-07-02.md) - OpenWiki: CLI that writes and maintains agent documentation for your codebase, Weird Al declined 'a nice pile of money' to star in AI ad, Stealing 50 Years of Database Ideas for AI Agents
 - [2026-07-01](digests/tools-and-open-source/2026-07-01.md) - Show HN: 143.dev – we open-sourced our internal coding-agent infrastructure, Show HN: Scaffold a BigQuery and dbt and Cube project an AI agent can operate, Show HN: Morph Reflexes – Multi-head classifiers for agent traces
 - [2026-06-30](digests/tools-and-open-source/2026-06-30.md) - Micro-Agent: Beat Frontier Models with Collaboration Inside Model API, Ask HN: Homeless, Former Software Developer, What Now?, Show HN: Agentic Orchestrator, a TUI for long-running coding agents
 - [2026-06-29](digests/tools-and-open-source/2026-06-29.md) - Working around dragons with the Lemote Yeeloong laptop and OpenBSD, AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI
