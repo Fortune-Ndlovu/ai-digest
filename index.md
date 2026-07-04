@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-04](digests/models-and-research/2026-07-04.md) - Jamesob's guide to running SOTA LLMs locally, New serious vulnerabilities spiked around release of Claude Mythos Preview, Dispersion loss counteracts embedding condensation in small language models
 - [2026-07-03](digests/models-and-research/2026-07-03.md) - Claude-real-video － any LLM can watch a video, OpenAI ‘in early talks to give 5% stake to US government’, No LLM Code in Dependencies
 - [2026-07-02](digests/models-and-research/2026-07-02.md) - ZCode: Claude Code from the Makers of GLM, Meta caps internal AI token spending, Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers
 - [2026-07-01](digests/models-and-research/2026-07-01.md) - Words Are a Byproduct of Consciousness. For LLMs, It's Backwards, Claude Sonnet 5 – benchmark results, Trump to lift limits on Anthropic's Fable model
@@ -79,6 +80,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-04](digests/industry-and-business/2026-07-04.md) - Performance per dollar is getting faster and cheaper, The bottleneck might be the air in the room, Leanstral 1.5: Proof abundance for all
 - [2026-07-03](digests/industry-and-business/2026-07-03.md) - AI can't be listed as inventor on patent applications, Japan's top court rules, AI fake news complaining about how AI fake news is the death of real news, The short leash AI coding method for beating Fable
 - [2026-07-02](digests/industry-and-business/2026-07-02.md) - ZCode – Harness for GLM-5.2, Ask HN: Who is hiring? (July 2026), Ask HN: Who wants to be hired? (July 2026)
 - [2026-07-01](digests/industry-and-business/2026-07-01.md) - Leanstral 1.5, Godot will no longer accept AI-authored code contributions, From brain waves to words: a new path to communication without surgery
@@ -154,6 +156,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-04](digests/policy-and-safety/2026-07-04.md) - Instead of banning AI, I made a classroom contract with my students, AI First: How the Federal Government Is Prioritizing AI over People and Planet, Godot bans "vibe-coded" code contributions
 - [2026-07-03](digests/policy-and-safety/2026-07-03.md) - Show HN: Declaw Arena – a CTF-style challenge to break an AI agent in a microVM
 - [2026-07-02](digests/policy-and-safety/2026-07-02.md) - Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance, Welcome to the Dual State of AI Regulation, The Canary magazine has been debanked by Lloyds Bank in the UK
 - [2026-07-01](digests/policy-and-safety/2026-07-01.md) - Supreme Court rejects Trump bid to restrict birthright citizenship, The lawyer who beat Elon Musk, twice
@@ -216,6 +219,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-04](digests/tools-and-open-source/2026-07-04.md) - Agentic coding notes from Galapagos Island, Show HN: Kontext – Move an AI chat's full context to another AI in one click, Show HN: Updated my landing page with Fable (retro pixel style)
 - [2026-07-03](digests/tools-and-open-source/2026-07-03.md) - Show HN: Bramble – Local-first password manager, Zuckerberg says AI agent development going slower than expected, Show HN: QUALITY.md – open format/specification, agent skill, and CLI
 - [2026-07-02](digests/tools-and-open-source/2026-07-02.md) - OpenWiki: CLI that writes and maintains agent documentation for your codebase, Weird Al declined 'a nice pile of money' to star in AI ad, Stealing 50 Years of Database Ideas for AI Agents
 - [2026-07-01](digests/tools-and-open-source/2026-07-01.md) - Show HN: 143.dev – we open-sourced our internal coding-agent infrastructure, Show HN: Scaffold a BigQuery and dbt and Cube project an AI agent can operate, Show HN: Morph Reflexes – Multi-head classifiers for agent traces
