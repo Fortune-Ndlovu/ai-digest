@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-05](digests/models-and-research/2026-07-05.md) - Protocol Prying: Vulnerability Research in AirDrop and Quick Share, Mapping with In-Memory Layers to Reduce LLM Overload, OpenScience: Workbench for scientific research using custom LLMs
 - [2026-07-04](digests/models-and-research/2026-07-04.md) - Jamesob's guide to running SOTA LLMs locally, New serious vulnerabilities spiked around release of Claude Mythos Preview, Dispersion loss counteracts embedding condensation in small language models
 - [2026-07-03](digests/models-and-research/2026-07-03.md) - Claude-real-video － any LLM can watch a video, OpenAI ‘in early talks to give 5% stake to US government’, No LLM Code in Dependencies
 - [2026-07-02](digests/models-and-research/2026-07-02.md) - ZCode: Claude Code from the Makers of GLM, Meta caps internal AI token spending, Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers
@@ -80,6 +81,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-05](digests/industry-and-business/2026-07-05.md) - "Beyond the limit": Satellites and mirrors in space pose threat to the night sky, AI has torched the market for junior programmers, President pardons 9 for Clean Air violations for 'fixing their car'
 - [2026-07-04](digests/industry-and-business/2026-07-04.md) - Performance per dollar is getting faster and cheaper, The bottleneck might be the air in the room, Leanstral 1.5: Proof abundance for all
 - [2026-07-03](digests/industry-and-business/2026-07-03.md) - AI can't be listed as inventor on patent applications, Japan's top court rules, AI fake news complaining about how AI fake news is the death of real news, The short leash AI coding method for beating Fable
 - [2026-07-02](digests/industry-and-business/2026-07-02.md) - ZCode – Harness for GLM-5.2, Ask HN: Who is hiring? (July 2026), Ask HN: Who wants to be hired? (July 2026)
@@ -219,6 +221,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-05](digests/tools-and-open-source/2026-07-05.md) - Mouse: Precision Editing Tools for AI Coding Agents, Damo Academy unveils an AI agent able to discover superconductors, AI-powered mass emails are warping local politics
 - [2026-07-04](digests/tools-and-open-source/2026-07-04.md) - Agentic coding notes from Galapagos Island, Show HN: Kontext – Move an AI chat's full context to another AI in one click, Show HN: Updated my landing page with Fable (retro pixel style)
 - [2026-07-03](digests/tools-and-open-source/2026-07-03.md) - Show HN: Bramble – Local-first password manager, Zuckerberg says AI agent development going slower than expected, Show HN: QUALITY.md – open format/specification, agent skill, and CLI
 - [2026-07-02](digests/tools-and-open-source/2026-07-02.md) - OpenWiki: CLI that writes and maintains agent documentation for your codebase, Weird Al declined 'a nice pile of money' to star in AI ad, Stealing 50 Years of Database Ideas for AI Agents
