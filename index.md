@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-06](digests/models-and-research/2026-07-06.md) - A sociotechnical threat model for AI-driven smart home devices, Tell HN: don't trust Bigco AI agents with AI research IP, The Mental Models I Use to Work with AI
 - [2026-07-05](digests/models-and-research/2026-07-05.md) - Protocol Prying: Vulnerability Research in AirDrop and Quick Share, Mapping with In-Memory Layers to Reduce LLM Overload, OpenScience: Workbench for scientific research using custom LLMs
 - [2026-07-04](digests/models-and-research/2026-07-04.md) - Jamesob's guide to running SOTA LLMs locally, New serious vulnerabilities spiked around release of Claude Mythos Preview, Dispersion loss counteracts embedding condensation in small language models
 - [2026-07-03](digests/models-and-research/2026-07-03.md) - Claude-real-video － any LLM can watch a video, OpenAI ‘in early talks to give 5% stake to US government’, No LLM Code in Dependencies
@@ -81,6 +82,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-06](digests/industry-and-business/2026-07-06.md) - New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf], Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills, Delta flight hit by firework while landing at Midway Airport on Fourth of July
 - [2026-07-05](digests/industry-and-business/2026-07-05.md) - "Beyond the limit": Satellites and mirrors in space pose threat to the night sky, AI has torched the market for junior programmers, President pardons 9 for Clean Air violations for 'fixing their car'
 - [2026-07-04](digests/industry-and-business/2026-07-04.md) - Performance per dollar is getting faster and cheaper, The bottleneck might be the air in the room, Leanstral 1.5: Proof abundance for all
 - [2026-07-03](digests/industry-and-business/2026-07-03.md) - AI can't be listed as inventor on patent applications, Japan's top court rules, AI fake news complaining about how AI fake news is the death of real news, The short leash AI coding method for beating Fable
@@ -221,6 +223,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-06](digests/tools-and-open-source/2026-07-06.md) - Mark Zuckerberg tells staff that AI agents haven't progressed enough, ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom, Context graphs: how AI agents can store and use past decisions
 - [2026-07-05](digests/tools-and-open-source/2026-07-05.md) - Mouse: Precision Editing Tools for AI Coding Agents, Damo Academy unveils an AI agent able to discover superconductors, AI-powered mass emails are warping local politics
 - [2026-07-04](digests/tools-and-open-source/2026-07-04.md) - Agentic coding notes from Galapagos Island, Show HN: Kontext – Move an AI chat's full context to another AI in one click, Show HN: Updated my landing page with Fable (retro pixel style)
 - [2026-07-03](digests/tools-and-open-source/2026-07-03.md) - Show HN: Bramble – Local-first password manager, Zuckerberg says AI agent development going slower than expected, Show HN: QUALITY.md – open format/specification, agent skill, and CLI
