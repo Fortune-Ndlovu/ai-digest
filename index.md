@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-07](digests/models-and-research/2026-07-07.md) - Small AI Models Gain Traction In places with unreliable networks, Show HN: Pulpie – Models for Cleaning the Web, Google Chrome Installed a 4GB AI Model on Your PC
 - [2026-07-06](digests/models-and-research/2026-07-06.md) - A sociotechnical threat model for AI-driven smart home devices, Tell HN: don't trust Bigco AI agents with AI research IP, The Mental Models I Use to Work with AI
 - [2026-07-05](digests/models-and-research/2026-07-05.md) - Protocol Prying: Vulnerability Research in AirDrop and Quick Share, Mapping with In-Memory Layers to Reduce LLM Overload, OpenScience: Workbench for scientific research using custom LLMs
 - [2026-07-04](digests/models-and-research/2026-07-04.md) - Jamesob's guide to running SOTA LLMs locally, New serious vulnerabilities spiked around release of Claude Mythos Preview, Dispersion loss counteracts embedding condensation in small language models
@@ -82,6 +83,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-07](digests/industry-and-business/2026-07-07.md) - GLM 5.2 and the coming AI margin collapse, AMD Ryzen AI Halo – $4k AI Dev Kit, Road to Elm 1.0
 - [2026-07-06](digests/industry-and-business/2026-07-06.md) - New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf], Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills, Delta flight hit by firework while landing at Midway Airport on Fourth of July
 - [2026-07-05](digests/industry-and-business/2026-07-05.md) - "Beyond the limit": Satellites and mirrors in space pose threat to the night sky, AI has torched the market for junior programmers, President pardons 9 for Clean Air violations for 'fixing their car'
 - [2026-07-04](digests/industry-and-business/2026-07-04.md) - Performance per dollar is getting faster and cheaper, The bottleneck might be the air in the room, Leanstral 1.5: Proof abundance for all
@@ -160,6 +162,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-07](digests/policy-and-safety/2026-07-07.md) - Even banks and hyperscalers are now sounding the alarm about the AI bubble, Wisk, Boeing Sued over eVTOL Software Safety Claims, AI surveillance is being supercharged – and it will chill social progress
 - [2026-07-04](digests/policy-and-safety/2026-07-04.md) - Instead of banning AI, I made a classroom contract with my students, AI First: How the Federal Government Is Prioritizing AI over People and Planet, Godot bans "vibe-coded" code contributions
 - [2026-07-03](digests/policy-and-safety/2026-07-03.md) - Show HN: Declaw Arena – a CTF-style challenge to break an AI agent in a microVM
 - [2026-07-02](digests/policy-and-safety/2026-07-02.md) - Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance, Welcome to the Dual State of AI Regulation, The Canary magazine has been debanked by Lloyds Bank in the UK
@@ -223,6 +226,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-07](digests/tools-and-open-source/2026-07-07.md) - OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files, Pruning RAG context down to what the answer actually needs, Show HN: Scan your AI agents for dangerous capabilities
 - [2026-07-06](digests/tools-and-open-source/2026-07-06.md) - Mark Zuckerberg tells staff that AI agents haven't progressed enough, ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom, Context graphs: how AI agents can store and use past decisions
 - [2026-07-05](digests/tools-and-open-source/2026-07-05.md) - Mouse: Precision Editing Tools for AI Coding Agents, Damo Academy unveils an AI agent able to discover superconductors, AI-powered mass emails are warping local politics
 - [2026-07-04](digests/tools-and-open-source/2026-07-04.md) - Agentic coding notes from Galapagos Island, Show HN: Kontext – Move an AI chat's full context to another AI in one click, Show HN: Updated my landing page with Fable (retro pixel style)
