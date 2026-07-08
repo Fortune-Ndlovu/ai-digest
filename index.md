@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-08](digests/models-and-research/2026-07-08.md) - Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop, The revenge of the philosophy majors, Beijing is looking at curbing overseas access to China's top AI models
 - [2026-07-07](digests/models-and-research/2026-07-07.md) - Small AI Models Gain Traction In places with unreliable networks, Show HN: Pulpie – Models for Cleaning the Web, Google Chrome Installed a 4GB AI Model on Your PC
 - [2026-07-06](digests/models-and-research/2026-07-06.md) - A sociotechnical threat model for AI-driven smart home devices, Tell HN: don't trust Bigco AI agents with AI research IP, The Mental Models I Use to Work with AI
 - [2026-07-05](digests/models-and-research/2026-07-05.md) - Protocol Prying: Vulnerability Research in AirDrop and Quick Share, Mapping with In-Memory Layers to Reduce LLM Overload, OpenScience: Workbench for scientific research using custom LLMs
@@ -83,6 +84,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-08](digests/industry-and-business/2026-07-08.md) - We charge $10k a week to delete AI-generated code, Automating AI Away, AI Meets Cryptography 1: What AI Found in Cloudflare's Circl
 - [2026-07-07](digests/industry-and-business/2026-07-07.md) - GLM 5.2 and the coming AI margin collapse, AMD Ryzen AI Halo – $4k AI Dev Kit, Road to Elm 1.0
 - [2026-07-06](digests/industry-and-business/2026-07-06.md) - New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf], Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills, Delta flight hit by firework while landing at Midway Airport on Fourth of July
 - [2026-07-05](digests/industry-and-business/2026-07-05.md) - "Beyond the limit": Satellites and mirrors in space pose threat to the night sky, AI has torched the market for junior programmers, President pardons 9 for Clean Air violations for 'fixing their car'
@@ -226,6 +228,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-08](digests/tools-and-open-source/2026-07-08.md) - GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos, Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents, Show HN: Context Warp Drive – Deterministic context folding for AI agents
 - [2026-07-07](digests/tools-and-open-source/2026-07-07.md) - OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files, Pruning RAG context down to what the answer actually needs, Show HN: Scan your AI agents for dangerous capabilities
 - [2026-07-06](digests/tools-and-open-source/2026-07-06.md) - Mark Zuckerberg tells staff that AI agents haven't progressed enough, ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom, Context graphs: how AI agents can store and use past decisions
 - [2026-07-05](digests/tools-and-open-source/2026-07-05.md) - Mouse: Precision Editing Tools for AI Coding Agents, Damo Academy unveils an AI agent able to discover superconductors, AI-powered mass emails are warping local politics
