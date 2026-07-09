@@ -84,6 +84,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-09](digests/industry-and-business/2026-07-09.md) - digest
 - [2026-07-08](digests/industry-and-business/2026-07-08.md) - We charge $10k a week to delete AI-generated code, Automating AI Away, AI Meets Cryptography 1: What AI Found in Cloudflare's Circl
 - [2026-07-07](digests/industry-and-business/2026-07-07.md) - GLM 5.2 and the coming AI margin collapse, AMD Ryzen AI Halo – $4k AI Dev Kit, Road to Elm 1.0
 - [2026-07-06](digests/industry-and-business/2026-07-06.md) - New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf], Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills, Delta flight hit by firework while landing at Midway Airport on Fourth of July
