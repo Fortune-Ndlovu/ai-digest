@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-10](digests/models-and-research/2026-07-10.md) - GLM 5.2 is nearly as accurate as a human book keeper, DeepSeek aims to make its own AI chip, The next era of AI is about infrastructure, not just models
 - [2026-07-08](digests/models-and-research/2026-07-08.md) - Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop, The revenge of the philosophy majors, Beijing is looking at curbing overseas access to China's top AI models
 - [2026-07-07](digests/models-and-research/2026-07-07.md) - Small AI Models Gain Traction In places with unreliable networks, Show HN: Pulpie – Models for Cleaning the Web, Google Chrome Installed a 4GB AI Model on Your PC
 - [2026-07-06](digests/models-and-research/2026-07-06.md) - A sociotechnical threat model for AI-driven smart home devices, Tell HN: don't trust Bigco AI agents with AI research IP, The Mental Models I Use to Work with AI
@@ -84,6 +85,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-10](digests/industry-and-business/2026-07-10.md) - Muse Spark 1.1, AI content is everywhere on social media, especially LinkedIn, Launch HN: Context.dev (YC S26) – API to get structured data from any website
 - [2026-07-09](digests/industry-and-business/2026-07-09.md) - digest
 - [2026-07-08](digests/industry-and-business/2026-07-08.md) - We charge $10k a week to delete AI-generated code, Automating AI Away, AI Meets Cryptography 1: What AI Found in Cloudflare's Circl
 - [2026-07-07](digests/industry-and-business/2026-07-07.md) - GLM 5.2 and the coming AI margin collapse, AMD Ryzen AI Halo – $4k AI Dev Kit, Road to Elm 1.0
@@ -165,6 +167,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-10](digests/policy-and-safety/2026-07-10.md) - France to ban advertising for fossil fuels, What the New Executive Order Means for Secure Software Delivery in Government, Kaiser nurses say surveillance of them is undermining healthcare
 - [2026-07-07](digests/policy-and-safety/2026-07-07.md) - Even banks and hyperscalers are now sounding the alarm about the AI bubble, Wisk, Boeing Sued over eVTOL Software Safety Claims, AI surveillance is being supercharged – and it will chill social progress
 - [2026-07-04](digests/policy-and-safety/2026-07-04.md) - Instead of banning AI, I made a classroom contract with my students, AI First: How the Federal Government Is Prioritizing AI over People and Planet, Godot bans "vibe-coded" code contributions
 - [2026-07-03](digests/policy-and-safety/2026-07-03.md) - Show HN: Declaw Arena – a CTF-style challenge to break an AI agent in a microVM
@@ -229,6 +232,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-10](digests/tools-and-open-source/2026-07-10.md) - Show HN: FableCut – A browser video editor AI agents can drive (zero deps), Show HN: Devthropology – Better Insights for GitHub Repos, Show HN: Reverse-engineering web apps into agent tools
 - [2026-07-08](digests/tools-and-open-source/2026-07-08.md) - GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos, Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents, Show HN: Context Warp Drive – Deterministic context folding for AI agents
 - [2026-07-07](digests/tools-and-open-source/2026-07-07.md) - OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files, Pruning RAG context down to what the answer actually needs, Show HN: Scan your AI agents for dangerous capabilities
 - [2026-07-06](digests/tools-and-open-source/2026-07-06.md) - Mark Zuckerberg tells staff that AI agents haven't progressed enough, ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom, Context graphs: how AI agents can store and use past decisions
