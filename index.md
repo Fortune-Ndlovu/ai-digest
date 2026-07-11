@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-11](digests/models-and-research/2026-07-11.md) - Please don't discontinue Gemini 2.5 Flash, China's Open AI Models Are Advancing Its Global Soft Power, Ask HN: What was the last task where only a frontier model could do it?
 - [2026-07-10](digests/models-and-research/2026-07-10.md) - GLM 5.2 is nearly as accurate as a human book keeper, DeepSeek aims to make its own AI chip, The next era of AI is about infrastructure, not just models
 - [2026-07-08](digests/models-and-research/2026-07-08.md) - Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop, The revenge of the philosophy majors, Beijing is looking at curbing overseas access to China's top AI models
 - [2026-07-07](digests/models-and-research/2026-07-07.md) - Small AI Models Gain Traction In places with unreliable networks, Show HN: Pulpie – Models for Cleaning the Web, Google Chrome Installed a 4GB AI Model on Your PC
@@ -85,6 +86,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-11](digests/industry-and-business/2026-07-11.md) - How the terrorist group Boko Haram uses frontier AI, GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years, Meta pulls new AI image feature after days of backlash
 - [2026-07-10](digests/industry-and-business/2026-07-10.md) - Muse Spark 1.1, AI content is everywhere on social media, especially LinkedIn, Launch HN: Context.dev (YC S26) – API to get structured data from any website
 - [2026-07-09](digests/industry-and-business/2026-07-09.md) - digest
 - [2026-07-08](digests/industry-and-business/2026-07-08.md) - We charge $10k a week to delete AI-generated code, Automating AI Away, AI Meets Cryptography 1: What AI Found in Cloudflare's Circl
@@ -232,6 +234,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-11](digests/tools-and-open-source/2026-07-11.md) - Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach
 - [2026-07-10](digests/tools-and-open-source/2026-07-10.md) - Show HN: FableCut – A browser video editor AI agents can drive (zero deps), Show HN: Devthropology – Better Insights for GitHub Repos, Show HN: Reverse-engineering web apps into agent tools
 - [2026-07-08](digests/tools-and-open-source/2026-07-08.md) - GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos, Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents, Show HN: Context Warp Drive – Deterministic context folding for AI agents
 - [2026-07-07](digests/tools-and-open-source/2026-07-07.md) - OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files, Pruning RAG context down to what the answer actually needs, Show HN: Scan your AI agents for dangerous capabilities
