@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-14](digests/models-and-research/2026-07-14.md) - Samsung Health app threatens data deletion if users opt out AI training, Building Food Metadata with LLM Juries, MIT's New Method Flags AI Models Trained on CASM Without Generating It
 - [2026-07-13](digests/models-and-research/2026-07-13.md) - Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k, I love LLMs, I hate hype, Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper
 - [2026-07-12](digests/models-and-research/2026-07-12.md) - Mesh LLM: distributed AI computing on iroh, Stop Telling Me to Ask an LLM, Soofi: European sovereign LLM trained in 2 months
 - [2026-07-11](digests/models-and-research/2026-07-11.md) - Please don't discontinue Gemini 2.5 Flash, China's Open AI Models Are Advancing Its Global Soft Power, Ask HN: What was the last task where only a frontier model could do it?
@@ -88,6 +89,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-14](digests/industry-and-business/2026-07-14.md) - What will be left for us to work on?, Show HN: Jacquard, a programming language for AI-written, human-reviewed code, Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder
 - [2026-07-13](digests/industry-and-business/2026-07-13.md) - Ask HN: Add flag for AI-generated articles, Against Usefulness, W11 Copilot tells you what's slowing down your PC, while using 1GB RAM itself
 - [2026-07-12](digests/industry-and-business/2026-07-12.md) - Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom, AI 2040 and the cult of intelligence, Reverse centaurs are the answer to the AI paradox (2025)
 - [2026-07-11](digests/industry-and-business/2026-07-11.md) - How the terrorist group Boko Haram uses frontier AI, GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years, Meta pulls new AI image feature after days of backlash
@@ -239,6 +241,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-14](digests/tools-and-open-source/2026-07-14.md) - AI is a bad tool, Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents, The AI Whale Fall and Open Source
 - [2026-07-13](digests/tools-and-open-source/2026-07-13.md) - Show HN: Skillscript – A declarative, sandboxed language for tool orchestration
 - [2026-07-12](digests/tools-and-open-source/2026-07-12.md) - Who manages the agents?, I built TradingSpy: local, privacy-first AI trading assistant(First Open Source), AI coding agents read your code perfectly and understand your team not at all
 - [2026-07-11](digests/tools-and-open-source/2026-07-11.md) - Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach
