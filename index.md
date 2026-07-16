@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-16](digests/models-and-research/2026-07-16.md) - Inkling: Our Open-Weights Model, Inkling – Open-Weights 975B Parameter LLM, LLM Networking with MikroTik
 - [2026-07-15](digests/models-and-research/2026-07-15.md) - Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k), LeMario: Training a JEPA World Model on Super Mario Bros, Guardian Angels: LLM Personalization for Productivity and Security
 - [2026-07-14](digests/models-and-research/2026-07-14.md) - Samsung Health app threatens data deletion if users opt out AI training, Building Food Metadata with LLM Juries, MIT's New Method Flags AI Models Trained on CASM Without Generating It
 - [2026-07-13](digests/models-and-research/2026-07-13.md) - Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k, I love LLMs, I hate hype, Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper
@@ -90,6 +91,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-16](digests/industry-and-business/2026-07-16.md) - We don't use AI in any of our design or production processes, Speculative Growth and the AI "Bubble" [pdf], Linus Torvalds tells AI haters to fork off
 - [2026-07-15](digests/industry-and-business/2026-07-15.md) - Are we offloading too much of our thinking to AI?, Cursor 0day: When Full Disclosure Becomes the Only Protection Left, Proof of care in the age of AI
 - [2026-07-14](digests/industry-and-business/2026-07-14.md) - What will be left for us to work on?, Show HN: Jacquard, a programming language for AI-written, human-reviewed code, Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder
 - [2026-07-13](digests/industry-and-business/2026-07-13.md) - Ask HN: Add flag for AI-generated articles, Against Usefulness, W11 Copilot tells you what's slowing down your PC, while using 1GB RAM itself
@@ -177,6 +179,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-16](digests/policy-and-safety/2026-07-16.md) - Governments, companies, nonprofits should invest in free, open source AI [pdf], Three governments agree on something the AI industry doesn't want to hear, 'We decided not to limit VPNs': UK government U-turns on age-gating VPNs
 - [2026-07-15](digests/policy-and-safety/2026-07-15.md) - U of Chicago law school bans laptops from classes amid AI backlash, DOGE Used AI for Housing Policy. The Government Won't Say How
 - [2026-07-13](digests/policy-and-safety/2026-07-13.md) - New NSF policy would ban almost all collaborations with Chinese scientists
 - [2026-07-10](digests/policy-and-safety/2026-07-10.md) - France to ban advertising for fossil fuels, What the New Executive Order Means for Secure Software Delivery in Government, Kaiser nurses say surveillance of them is undermining healthcare
@@ -244,6 +247,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-16](digests/tools-and-open-source/2026-07-16.md) - Stop saying that AI is just a tool and it only matters how it is used, Launch HN: Coasty (YC S26) – An API for computer-use agents, Grok Build is open source
 - [2026-07-15](digests/tools-and-open-source/2026-07-15.md) - Legal AI, not a coding agent with scaffolding, A Framework for Frontier AI and the Dawning of a New Age
 - [2026-07-14](digests/tools-and-open-source/2026-07-14.md) - AI is a bad tool, Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents, The AI Whale Fall and Open Source
 - [2026-07-13](digests/tools-and-open-source/2026-07-13.md) - Show HN: Skillscript – A declarative, sandboxed language for tool orchestration
