@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-19](digests/models-and-research/2026-07-19.md) - LLM-Integrated Multivariable Calculus Course, Perforce charges $500 for training training videos.. and it's AI narrated, Overtraining as the path to human-like AI
 - [2026-07-18](digests/models-and-research/2026-07-18.md) - Time-Series Language Models for Reasoning over Multivariate Data at Scale (ICML), Fable gone – Usage credits are required for this model
 - [2026-07-17](digests/models-and-research/2026-07-17.md) - NotebookLM is now Gemini Notebook, $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol, LM Studio Bionic: the AI agent for open models
 - [2026-07-16](digests/models-and-research/2026-07-16.md) - Inkling: Our Open-Weights Model, Inkling – Open-Weights 975B Parameter LLM, LLM Networking with MikroTik
@@ -93,6 +94,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-19](digests/industry-and-business/2026-07-19.md) - NYC may require landlords and realtors to disclose the use of AI in listings, Why do AI company logos look like buttholes? (2025), What AI did to stackoverflow in a graph
 - [2026-07-18](digests/industry-and-business/2026-07-18.md) - Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars, FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again, AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM
 - [2026-07-17](digests/industry-and-business/2026-07-17.md) - Kimi K3: Open Frontier Intelligence, We're Building Postgres in Rust. Using the LLVM of Databases, Show HN: Leaves – A text-UI disk usage treemap visualizer
 - [2026-07-16](digests/industry-and-business/2026-07-16.md) - We don't use AI in any of our design or production processes, Speculative Growth and the AI "Bubble" [pdf], Linus Torvalds tells AI haters to fork off
@@ -183,6 +185,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-19](digests/policy-and-safety/2026-07-19.md) - Lawyers risk being sued for failing to use AI
 - [2026-07-18](digests/policy-and-safety/2026-07-18.md) - Kaiser nurses say AI, surveillance are making their jobs and patient care worse, MLB restricts using dugout iPads for AI-assisted in-game strategy
 - [2026-07-17](digests/policy-and-safety/2026-07-17.md) - Truth Social to sell banks 'fastest' access to Trump's posts, Show HN: AI Law Tracker – one audited API for US, EU and global AI law
 - [2026-07-16](digests/policy-and-safety/2026-07-16.md) - Governments, companies, nonprofits should invest in free, open source AI [pdf], Three governments agree on something the AI industry doesn't want to hear, 'We decided not to limit VPNs': UK government U-turns on age-gating VPNs
@@ -253,6 +256,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-19](digests/tools-and-open-source/2026-07-19.md) - I built a browser-based P2P file transfer tool using WebRTC
 - [2026-07-18](digests/tools-and-open-source/2026-07-18.md) - The state of open source AI, VulnHunter: Capital One's agentic AI code security tool, Open Source Parametric DIY Air Purifier Builder
 - [2026-07-17](digests/tools-and-open-source/2026-07-17.md) - Show HN: Ratel, give agents unlimited tools and skills without context bloat, Show HN: Libretto PR agents – Automatically fix failing playwright scripts, Building scalable AI agents with modular prompt transpilation
 - [2026-07-16](digests/tools-and-open-source/2026-07-16.md) - Stop saying that AI is just a tool and it only matters how it is used, Launch HN: Coasty (YC S26) – An API for computer-use agents, Grok Build is open source
