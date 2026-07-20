@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-20](digests/models-and-research/2026-07-20.md) - LLMs aren't remotely like compilers or power tools, Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video], Forget the model. When it comes to cybersecurity, it's all about the harness
 - [2026-07-19](digests/models-and-research/2026-07-19.md) - LLM-Integrated Multivariable Calculus Course, Perforce charges $500 for training training videos.. and it's AI narrated, Overtraining as the path to human-like AI
 - [2026-07-18](digests/models-and-research/2026-07-18.md) - Time-Series Language Models for Reasoning over Multivariate Data at Scale (ICML), Fable gone – Usage credits are required for this model
 - [2026-07-17](digests/models-and-research/2026-07-17.md) - NotebookLM is now Gemini Notebook, $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol, LM Studio Bionic: the AI agent for open models
@@ -94,6 +95,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-20](digests/industry-and-business/2026-07-20.md) - AI advice made people less accurate but more confident – sudy, Moonshot AI suspends new subscriptions due to Kimi K3 demand, Ask HN: What are your favorite blogs not about AI?
 - [2026-07-19](digests/industry-and-business/2026-07-19.md) - NYC may require landlords and realtors to disclose the use of AI in listings, Why do AI company logos look like buttholes? (2025), What AI did to stackoverflow in a graph
 - [2026-07-18](digests/industry-and-business/2026-07-18.md) - Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars, FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again, AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM
 - [2026-07-17](digests/industry-and-business/2026-07-17.md) - Kimi K3: Open Frontier Intelligence, We're Building Postgres in Rust. Using the LLVM of Databases, Show HN: Leaves – A text-UI disk usage treemap visualizer
@@ -256,6 +258,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-20](digests/tools-and-open-source/2026-07-20.md) - I argued with the father of open source for 2 years Now the AI fight is the same
 - [2026-07-19](digests/tools-and-open-source/2026-07-19.md) - I built a browser-based P2P file transfer tool using WebRTC
 - [2026-07-18](digests/tools-and-open-source/2026-07-18.md) - The state of open source AI, VulnHunter: Capital One's agentic AI code security tool, Open Source Parametric DIY Air Purifier Builder
 - [2026-07-17](digests/tools-and-open-source/2026-07-17.md) - Show HN: Ratel, give agents unlimited tools and skills without context bloat, Show HN: Libretto PR agents – Automatically fix failing playwright scripts, Building scalable AI agents with modular prompt transpilation
