@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-21](digests/models-and-research/2026-07-21.md) - China’s open-weights AI strategy is winning, How we measured AI writing across arXiv, and where the measurement breaks, Controlling Reasoning Effort in LLMs
 - [2026-07-20](digests/models-and-research/2026-07-20.md) - LLMs aren't remotely like compilers or power tools, Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video], Forget the model. When it comes to cybersecurity, it's all about the harness
 - [2026-07-19](digests/models-and-research/2026-07-19.md) - LLM-Integrated Multivariable Calculus Course, Perforce charges $500 for training training videos.. and it's AI narrated, Overtraining as the path to human-like AI
 - [2026-07-18](digests/models-and-research/2026-07-18.md) - Time-Series Language Models for Reasoning over Multivariate Data at Scale (ICML), Fable gone – Usage credits are required for this model
@@ -95,6 +96,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-21](digests/industry-and-business/2026-07-21.md) - Five US tech giants' hidden debts soar to $1.65T on opaque AI funding, Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge, Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
 - [2026-07-20](digests/industry-and-business/2026-07-20.md) - AI advice made people less accurate but more confident – sudy, Moonshot AI suspends new subscriptions due to Kimi K3 demand, Ask HN: What are your favorite blogs not about AI?
 - [2026-07-19](digests/industry-and-business/2026-07-19.md) - NYC may require landlords and realtors to disclose the use of AI in listings, Why do AI company logos look like buttholes? (2025), What AI did to stackoverflow in a graph
 - [2026-07-18](digests/industry-and-business/2026-07-18.md) - Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars, FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again, AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM
@@ -187,6 +189,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-21](digests/policy-and-safety/2026-07-21.md) - AI consciousness is a red herring in the safety debate, The head of the US AI safety agency has resigned, Flathub's AI slop ban looks like it was the right call
 - [2026-07-19](digests/policy-and-safety/2026-07-19.md) - Lawyers risk being sued for failing to use AI
 - [2026-07-18](digests/policy-and-safety/2026-07-18.md) - Kaiser nurses say AI, surveillance are making their jobs and patient care worse, MLB restricts using dugout iPads for AI-assisted in-game strategy
 - [2026-07-17](digests/policy-and-safety/2026-07-17.md) - Truth Social to sell banks 'fastest' access to Trump's posts, Show HN: AI Law Tracker – one audited API for US, EU and global AI law
@@ -258,6 +261,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-21](digests/tools-and-open-source/2026-07-21.md) - Show HN: The0 – self-hosted runtime for trading bots, bring your own language, We used Gemma to detect AI text locally on iPhone, Haystack 3.0: Agents with hooks, skills, and built-in introspection
 - [2026-07-20](digests/tools-and-open-source/2026-07-20.md) - I argued with the father of open source for 2 years Now the AI fight is the same
 - [2026-07-19](digests/tools-and-open-source/2026-07-19.md) - I built a browser-based P2P file transfer tool using WebRTC
 - [2026-07-18](digests/tools-and-open-source/2026-07-18.md) - The state of open source AI, VulnHunter: Capital One's agentic AI code security tool, Open Source Parametric DIY Air Purifier Builder
