@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-22](digests/models-and-research/2026-07-22.md) - Judge approves $1.5B Anthropic settlement for pirated books used to train Claude, "Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok, Meta's AI models are powering the first wave of Genesis Mission projects
 - [2026-07-21](digests/models-and-research/2026-07-21.md) - China’s open-weights AI strategy is winning, How we measured AI writing across arXiv, and where the measurement breaks, Controlling Reasoning Effort in LLMs
 - [2026-07-20](digests/models-and-research/2026-07-20.md) - LLMs aren't remotely like compilers or power tools, Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video], Forget the model. When it comes to cybersecurity, it's all about the harness
 - [2026-07-19](digests/models-and-research/2026-07-19.md) - LLM-Integrated Multivariable Calculus Course, Perforce charges $500 for training training videos.. and it's AI narrated, Overtraining as the path to human-like AI
@@ -96,6 +97,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-22](digests/industry-and-business/2026-07-22.md) - Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA, Laguna S 2.1, Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting
 - [2026-07-21](digests/industry-and-business/2026-07-21.md) - Five US tech giants' hidden debts soar to $1.65T on opaque AI funding, Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge, Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
 - [2026-07-20](digests/industry-and-business/2026-07-20.md) - AI advice made people less accurate but more confident – sudy, Moonshot AI suspends new subscriptions due to Kimi K3 demand, Ask HN: What are your favorite blogs not about AI?
 - [2026-07-19](digests/industry-and-business/2026-07-19.md) - NYC may require landlords and realtors to disclose the use of AI in listings, Why do AI company logos look like buttholes? (2025), What AI did to stackoverflow in a graph
@@ -261,6 +263,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-22](digests/tools-and-open-source/2026-07-22.md) - AI Agent – TRMNL, The Sandboxing Manifesto for Agentic Execution, Show HN: Fractal – recursive agent loops for complex, multi-step work
 - [2026-07-21](digests/tools-and-open-source/2026-07-21.md) - Show HN: The0 – self-hosted runtime for trading bots, bring your own language, We used Gemma to detect AI text locally on iPhone, Haystack 3.0: Agents with hooks, skills, and built-in introspection
 - [2026-07-20](digests/tools-and-open-source/2026-07-20.md) - I argued with the father of open source for 2 years Now the AI fight is the same
 - [2026-07-19](digests/tools-and-open-source/2026-07-19.md) - I built a browser-based P2P file transfer tool using WebRTC
