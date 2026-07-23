@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-23](digests/models-and-research/2026-07-23.md) - Petals: Run LLMs at home, BitTorrent-style, Can a MUD evaluate LLMs? A $99 proof of concept, Protecting our FLOSS commons from LLMs
 - [2026-07-22](digests/models-and-research/2026-07-22.md) - Judge approves $1.5B Anthropic settlement for pirated books used to train Claude, "Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok, Meta's AI models are powering the first wave of Genesis Mission projects
 - [2026-07-21](digests/models-and-research/2026-07-21.md) - China’s open-weights AI strategy is winning, How we measured AI writing across arXiv, and where the measurement breaks, Controlling Reasoning Effort in LLMs
 - [2026-07-20](digests/models-and-research/2026-07-20.md) - LLMs aren't remotely like compilers or power tools, Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video], Forget the model. When it comes to cybersecurity, it's all about the harness
@@ -97,6 +98,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-23](digests/industry-and-business/2026-07-23.md) - Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab), Are AI labs pelicanmaxxing?, Quality non-fiction books are the antithesis of AI slop
 - [2026-07-22](digests/industry-and-business/2026-07-22.md) - Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA, Laguna S 2.1, Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting
 - [2026-07-21](digests/industry-and-business/2026-07-21.md) - Five US tech giants' hidden debts soar to $1.65T on opaque AI funding, Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge, Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
 - [2026-07-20](digests/industry-and-business/2026-07-20.md) - AI advice made people less accurate but more confident – sudy, Moonshot AI suspends new subscriptions due to Kimi K3 demand, Ask HN: What are your favorite blogs not about AI?
@@ -191,6 +193,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-23](digests/policy-and-safety/2026-07-23.md) - A privacy-first macOS meeting-notes and writing app that runs on-device
 - [2026-07-21](digests/policy-and-safety/2026-07-21.md) - AI consciousness is a red herring in the safety debate, The head of the US AI safety agency has resigned, Flathub's AI slop ban looks like it was the right call
 - [2026-07-19](digests/policy-and-safety/2026-07-19.md) - Lawyers risk being sued for failing to use AI
 - [2026-07-18](digests/policy-and-safety/2026-07-18.md) - Kaiser nurses say AI, surveillance are making their jobs and patient care worse, MLB restricts using dugout iPads for AI-assisted in-game strategy
@@ -263,6 +266,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-23](digests/tools-and-open-source/2026-07-23.md) - Full Scale Foldable Wing Extensions, Show HN: Agent in 9 Lines Python, Show HN: AgentNest, self-hosted sandboxes for AI agents
 - [2026-07-22](digests/tools-and-open-source/2026-07-22.md) - AI Agent – TRMNL, The Sandboxing Manifesto for Agentic Execution, Show HN: Fractal – recursive agent loops for complex, multi-step work
 - [2026-07-21](digests/tools-and-open-source/2026-07-21.md) - Show HN: The0 – self-hosted runtime for trading bots, bring your own language, We used Gemma to detect AI text locally on iPhone, Haystack 3.0: Agents with hooks, skills, and built-in introspection
 - [2026-07-20](digests/tools-and-open-source/2026-07-20.md) - I argued with the father of open source for 2 years Now the AI fight is the same
