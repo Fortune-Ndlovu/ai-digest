@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-24](digests/models-and-research/2026-07-24.md) - Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models, Flux 3 X Mimic: The Next Generation of Video-Action Models, Flux 3: One multi-modal model for Image, Video, Audio and Action-Prediction
 - [2026-07-23](digests/models-and-research/2026-07-23.md) - Petals: Run LLMs at home, BitTorrent-style, Can a MUD evaluate LLMs? A $99 proof of concept, Protecting our FLOSS commons from LLMs
 - [2026-07-22](digests/models-and-research/2026-07-22.md) - Judge approves $1.5B Anthropic settlement for pirated books used to train Claude, "Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok, Meta's AI models are powering the first wave of Genesis Mission projects
 - [2026-07-21](digests/models-and-research/2026-07-21.md) - China’s open-weights AI strategy is winning, How we measured AI writing across arXiv, and where the measurement breaks, Controlling Reasoning Effort in LLMs
@@ -98,6 +99,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-24](digests/industry-and-business/2026-07-24.md) - Startup founders urge U.S. government not to shut off Chinese open weight AI, AI Companies Are Trying to Hide a Staggering Amount of Debt, Flux 3
 - [2026-07-23](digests/industry-and-business/2026-07-23.md) - Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab), Are AI labs pelicanmaxxing?, Quality non-fiction books are the antithesis of AI slop
 - [2026-07-22](digests/industry-and-business/2026-07-22.md) - Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA, Laguna S 2.1, Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting
 - [2026-07-21](digests/industry-and-business/2026-07-21.md) - Five US tech giants' hidden debts soar to $1.65T on opaque AI funding, Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge, Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
@@ -193,6 +195,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-24](digests/policy-and-safety/2026-07-24.md) - Dog Photographer Loses Copyright Case over AI-Generated Version of Her Image
 - [2026-07-23](digests/policy-and-safety/2026-07-23.md) - A privacy-first macOS meeting-notes and writing app that runs on-device
 - [2026-07-21](digests/policy-and-safety/2026-07-21.md) - AI consciousness is a red herring in the safety debate, The head of the US AI safety agency has resigned, Flathub's AI slop ban looks like it was the right call
 - [2026-07-19](digests/policy-and-safety/2026-07-19.md) - Lawyers risk being sued for failing to use AI
@@ -266,6 +269,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-24](digests/tools-and-open-source/2026-07-24.md) - The arguments against open source AI are bad, Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents, Show HN: Mumble Dictation – local dictation that learns your vocabulary
 - [2026-07-23](digests/tools-and-open-source/2026-07-23.md) - Full Scale Foldable Wing Extensions, Show HN: Agent in 9 Lines Python, Show HN: AgentNest, self-hosted sandboxes for AI agents
 - [2026-07-22](digests/tools-and-open-source/2026-07-22.md) - AI Agent – TRMNL, The Sandboxing Manifesto for Agentic Execution, Show HN: Fractal – recursive agent loops for complex, multi-step work
 - [2026-07-21](digests/tools-and-open-source/2026-07-21.md) - Show HN: The0 – self-hosted runtime for trading bots, bring your own language, We used Gemma to detect AI text locally on iPhone, Haystack 3.0: Agents with hooks, skills, and built-in introspection
