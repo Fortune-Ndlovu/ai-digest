@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-26](digests/models-and-research/2026-07-26.md) - Running a 28.9M parameter LLM on an $8 microcontroller, LLM Usage in Debian: Three Proposals, Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits
 - [2026-07-25](digests/models-and-research/2026-07-25.md) - Open Weights and American AI Leadership [pdf], AMD and Cerebras Launch AI Inference Solution, LLMs Are Still Toxic, Stuck in the Past, and Bad at Math
 - [2026-07-24](digests/models-and-research/2026-07-24.md) - Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models, Flux 3 X Mimic: The Next Generation of Video-Action Models, Flux 3: One multi-modal model for Image, Video, Audio and Action-Prediction
 - [2026-07-23](digests/models-and-research/2026-07-23.md) - Petals: Run LLMs at home, BitTorrent-style, Can a MUD evaluate LLMs? A $99 proof of concept, Protecting our FLOSS commons from LLMs
@@ -100,6 +101,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-26](digests/industry-and-business/2026-07-26.md) - Open-weight AI is having its Kubernetes moment, Show HN: Brolly, a plain-text weather forecast site, Cloudflare's new AI traffic options for customers
 - [2026-07-25](digests/industry-and-business/2026-07-25.md) - Nvidia, Microsoft, Meta warn against overregulating open-weight models, Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard, I Tried Building a Real App with AI. It Took a Year
 - [2026-07-24](digests/industry-and-business/2026-07-24.md) - Startup founders urge U.S. government not to shut off Chinese open weight AI, AI Companies Are Trying to Hide a Staggering Amount of Debt, Flux 3
 - [2026-07-23](digests/industry-and-business/2026-07-23.md) - Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab), Are AI labs pelicanmaxxing?, Quality non-fiction books are the antithesis of AI slop
@@ -197,6 +199,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-26](digests/policy-and-safety/2026-07-26.md) - MIT to become hotbed of AI video surveillance
 - [2026-07-24](digests/policy-and-safety/2026-07-24.md) - Dog Photographer Loses Copyright Case over AI-Generated Version of Her Image
 - [2026-07-23](digests/policy-and-safety/2026-07-23.md) - A privacy-first macOS meeting-notes and writing app that runs on-device
 - [2026-07-21](digests/policy-and-safety/2026-07-21.md) - AI consciousness is a red herring in the safety debate, The head of the US AI safety agency has resigned, Flathub's AI slop ban looks like it was the right call
@@ -271,6 +274,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-26](digests/tools-and-open-source/2026-07-26.md) - I scanned my AI agent framework for destructive/consequential actions, and wow, Ask HN: What do you do when your AI agents are working?, The AI Boom Made Average People More Interesting
 - [2026-07-25](digests/tools-and-open-source/2026-07-25.md) - The front end framework for correctness: built on Effect, architected like Elm, Turn And Face The Strange: Fly.io is betting on computers for AI agents, Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC
 - [2026-07-24](digests/tools-and-open-source/2026-07-24.md) - The arguments against open source AI are bad, Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents, Show HN: Mumble Dictation – local dictation that learns your vocabulary
 - [2026-07-23](digests/tools-and-open-source/2026-07-23.md) - Full Scale Foldable Wing Extensions, Show HN: Agent in 9 Lines Python, Show HN: AgentNest, self-hosted sandboxes for AI agents
