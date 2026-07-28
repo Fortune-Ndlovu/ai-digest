@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-07-28](digests/models-and-research/2026-07-28.md) - Show HN: FeyNoBg – Automatic background removal model and training library, Kimi K3 Now Available via Telnyx Inference API, Jensen Huang's first post on Twitter is in defense of open access to AI models
 - [2026-07-27](digests/models-and-research/2026-07-27.md) - Show HN: Distill and serve models with frontier quality for half the cost, Ask HN: What are the most promising RL fields for a new master student?, What if LLMs escape through inferences itself? This is fiction. For now
 - [2026-07-26](digests/models-and-research/2026-07-26.md) - Running a 28.9M parameter LLM on an $8 microcontroller, LLM Usage in Debian: Three Proposals, Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits
 - [2026-07-25](digests/models-and-research/2026-07-25.md) - Open Weights and American AI Leadership [pdf], AMD and Cerebras Launch AI Inference Solution, LLMs Are Still Toxic, Stuck in the Past, and Bad at Math
@@ -102,6 +103,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-07-28](digests/industry-and-business/2026-07-28.md) - AI companies are shredding rare books, How is the Bun rewrite in Rust going?, AI companies spend record sums on Washington lobbying
 - [2026-07-27](digests/industry-and-business/2026-07-27.md) - US citizen charged after GrapheneOS phone wipes during airport search, London Gatwick has launched a robotic airport parking service, The New AI Superpowers: Focus and Followthrough
 - [2026-07-26](digests/industry-and-business/2026-07-26.md) - Open-weight AI is having its Kubernetes moment, Show HN: Brolly, a plain-text weather forecast site, Cloudflare's new AI traffic options for customers
 - [2026-07-25](digests/industry-and-business/2026-07-25.md) - Nvidia, Microsoft, Meta warn against overregulating open-weight models, Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard, I Tried Building a Real App with AI. It Took a Year
@@ -201,6 +203,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-07-28](digests/policy-and-safety/2026-07-28.md) - The AI risk is inside the labs
 - [2026-07-26](digests/policy-and-safety/2026-07-26.md) - MIT to become hotbed of AI video surveillance
 - [2026-07-24](digests/policy-and-safety/2026-07-24.md) - Dog Photographer Loses Copyright Case over AI-Generated Version of Her Image
 - [2026-07-23](digests/policy-and-safety/2026-07-23.md) - A privacy-first macOS meeting-notes and writing app that runs on-device
@@ -276,6 +279,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-07-28](digests/tools-and-open-source/2026-07-28.md) - Show HN: Call Me, your AI agents ring you with no extra carrier costs, Docker alternatives for AI agents: Podman, bwrap and Firejail, Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues
 - [2026-07-27](digests/tools-and-open-source/2026-07-27.md) - Please ship APIs, not AI, SP/1.0: deterministic, reproducible verdicts for AI-agent decisions
 - [2026-07-26](digests/tools-and-open-source/2026-07-26.md) - I scanned my AI agent framework for destructive/consequential actions, and wow, Ask HN: What do you do when your AI agents are working?, The AI Boom Made Average People More Interesting
 - [2026-07-25](digests/tools-and-open-source/2026-07-25.md) - The front end framework for correctness: built on Effect, architected like Elm, Turn And Face The Strange: Fly.io is betting on computers for AI agents, Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC
