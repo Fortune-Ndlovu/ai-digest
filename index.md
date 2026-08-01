@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-01](digests/models-and-research/2026-08-01.md) - Is AI reasoning right for the wrong reasons?, Everyone is building LLM routers, we deprecated ours, Predictive Speculative KV Replication for Bursty LLM Inference
 - [2026-07-31](digests/models-and-research/2026-07-31.md) - Gemini Robotics 2 brings whole body intelligence to robots, I flagged two research papers for fake authors and both were accepted as orals, Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it
 - [2026-07-30](digests/models-and-research/2026-07-30.md) - AI's top startups are barely publishing their research, LLM Honeypot, GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?
 - [2026-07-29](digests/models-and-research/2026-07-29.md) - Now is the time to give LLMs access to the ACM digital library, Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs, "Uncensored" open LLMs are measurably more optimistic than their base models
@@ -106,6 +107,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-01](digests/industry-and-business/2026-08-01.md) - Situational Awareness down 67% in July in AI stock rout, Flint: A Visualization Language for the AI Era, Show HN: I worked on a new browser for 2 years, today it passed Acid 3
 - [2026-07-31](digests/industry-and-business/2026-07-31.md) - The AI Aesthetic, The Economic Benefit of Refactoring, The AI trade now runs on borrowed money, and the lenders are repricing it
 - [2026-07-30](digests/industry-and-business/2026-07-30.md) - Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac, Document-borne AI worms can self-propagate through Copilot for Word, After the AI Crash
 - [2026-07-29](digests/industry-and-business/2026-07-29.md) - LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences, Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code, Chip stocks slide in US and Asia as AI jitters rattle investors
@@ -209,6 +211,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-01](digests/policy-and-safety/2026-08-01.md) - Australia's Social Media Ban for Under-16s Has Had Limited Impact So Far
 - [2026-07-31](digests/policy-and-safety/2026-07-31.md) - Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents, Flock surveillance cameras can pose a crash risk for drivers, US experts say, xAI sues Minnesota over law banning AI 'nudification' tech
 - [2026-07-30](digests/policy-and-safety/2026-07-30.md) - AI Doomsday Bullshit Is Getting Tired, xAI sues Minnesota over its law banning 'nudification' technology, Mark Zuckerberg says US should not ban Chinese AI
 - [2026-07-29](digests/policy-and-safety/2026-07-29.md) - Banning AI will not make it go away, Trump administration to ban new Chinese humanoid robots, AI company employees petition US Government for regulation
@@ -288,6 +291,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-01](digests/tools-and-open-source/2026-08-01.md) - Show HN: How to build and self-host a code review agent, Show HN: I built a cross-browser extension that controls fingerprinting surfaces
 - [2026-07-31](digests/tools-and-open-source/2026-07-31.md) - Show HN: What should the GUI for AI agents look like?, Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib), Git worktrees are not an isolation boundary for coding agents
 - [2026-07-30](digests/tools-and-open-source/2026-07-30.md) - Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution, Show HN: A local merge queue for parallel Claude Code agents, Show HN: Dreeve, a self-hosted dashboard for your sports and fitness data
 - [2026-07-29](digests/tools-and-open-source/2026-07-29.md) - Scientific computing in the age of agentic AI, Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure, Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code
