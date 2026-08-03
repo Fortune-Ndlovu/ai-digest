@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-03](digests/models-and-research/2026-08-03.md) - My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”, Prevent cognitive debt by manually retyping LLM-generated code, EU rules on AI models become enforceable. What's going to change?
 - [2026-08-02](digests/models-and-research/2026-08-02.md) - AI's real threat to jobs isn't job loss, it's lower paychecks, new research says, Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets, Don't credit the LLM
 - [2026-08-01](digests/models-and-research/2026-08-01.md) - Is AI reasoning right for the wrong reasons?, Everyone is building LLM routers, we deprecated ours, Predictive Speculative KV Replication for Bursty LLM Inference
 - [2026-07-31](digests/models-and-research/2026-07-31.md) - Gemini Robotics 2 brings whole body intelligence to robots, I flagged two research papers for fake authors and both were accepted as orals, Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it
@@ -108,6 +109,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-03](digests/industry-and-business/2026-08-03.md) - Qwen3.8-Max: A New Bar for Coding and Cowork, OpenAI's super PAC is funding AI-generated news site attacking industry critics, AI poster wins Ohio State Fair contest
 - [2026-08-02](digests/industry-and-business/2026-08-02.md) - AI financial advice is surprisingly good, especially if you ask right questions, On the non-use of AI in my writing process, Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
 - [2026-08-01](digests/industry-and-business/2026-08-01.md) - Situational Awareness down 67% in July in AI stock rout, Flint: A Visualization Language for the AI Era, Show HN: I worked on a new browser for 2 years, today it passed Acid 3
 - [2026-07-31](digests/industry-and-business/2026-07-31.md) - The AI Aesthetic, The Economic Benefit of Refactoring, The AI trade now runs on borrowed money, and the lenders are repricing it
@@ -213,6 +215,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-03](digests/policy-and-safety/2026-08-03.md) - Negative social ties as risks for faster aging, inflammation, and multimorbidity
 - [2026-08-01](digests/policy-and-safety/2026-08-01.md) - Australia's Social Media Ban for Under-16s Has Had Limited Impact So Far
 - [2026-07-31](digests/policy-and-safety/2026-07-31.md) - Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents, Flock surveillance cameras can pose a crash risk for drivers, US experts say, xAI sues Minnesota over law banning AI 'nudification' tech
 - [2026-07-30](digests/policy-and-safety/2026-07-30.md) - AI Doomsday Bullshit Is Getting Tired, xAI sues Minnesota over its law banning 'nudification' technology, Mark Zuckerberg says US should not ban Chinese AI
@@ -293,6 +296,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-03](digests/tools-and-open-source/2026-08-03.md) - Show HN: Sprocket – The Best AI Agent for Hardware and Software Development, Mozilla's Inaugural 'State of Open Source AI' Report Is Here, Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust
 - [2026-08-02](digests/tools-and-open-source/2026-08-02.md) - Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators, Ask HN: I still don't understand why AI agents need "skills", The Greenhouse and the Lens: Two Modes of Agentic AI Work
 - [2026-08-01](digests/tools-and-open-source/2026-08-01.md) - Show HN: How to build and self-host a code review agent, Show HN: I built a cross-browser extension that controls fingerprinting surfaces
 - [2026-07-31](digests/tools-and-open-source/2026-07-31.md) - Show HN: What should the GUI for AI agents look like?, Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib), Git worktrees are not an isolation boundary for coding agents
