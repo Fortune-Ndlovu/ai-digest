@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-04](digests/models-and-research/2026-08-04.md) - LLMs reward expertise, SQLite Critical CVEs or LLM Slop?, AirLLM 70B inference with single 4GB GPU
 - [2026-08-03](digests/models-and-research/2026-08-03.md) - My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”, Prevent cognitive debt by manually retyping LLM-generated code, EU rules on AI models become enforceable. What's going to change?
 - [2026-08-02](digests/models-and-research/2026-08-02.md) - AI's real threat to jobs isn't job loss, it's lower paychecks, new research says, Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets, Don't credit the LLM
 - [2026-08-01](digests/models-and-research/2026-08-01.md) - Is AI reasoning right for the wrong reasons?, Everyone is building LLM routers, we deprecated ours, Predictive Speculative KV Replication for Bursty LLM Inference
@@ -109,6 +110,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-04](digests/industry-and-business/2026-08-04.md) - Smaller, faster, safer: running Kimi and GLM at scale, Ask HN: Who is hiring? (August 2026), AI's debt binge can't last, hidden borrowing reaches $1.65T
 - [2026-08-03](digests/industry-and-business/2026-08-03.md) - Qwen3.8-Max: A New Bar for Coding and Cowork, OpenAI's super PAC is funding AI-generated news site attacking industry critics, AI poster wins Ohio State Fair contest
 - [2026-08-02](digests/industry-and-business/2026-08-02.md) - AI financial advice is surprisingly good, especially if you ask right questions, On the non-use of AI in my writing process, Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
 - [2026-08-01](digests/industry-and-business/2026-08-01.md) - Situational Awareness down 67% in July in AI stock rout, Flint: A Visualization Language for the AI Era, Show HN: I worked on a new browser for 2 years, today it passed Acid 3
@@ -296,6 +298,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-04](digests/tools-and-open-source/2026-08-04.md) - Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone, Stanford CS329A: Self-Improving AI Agents, Tell HN: Pretending not to use AI has made me a better developer
 - [2026-08-03](digests/tools-and-open-source/2026-08-03.md) - Show HN: Sprocket – The Best AI Agent for Hardware and Software Development, Mozilla's Inaugural 'State of Open Source AI' Report Is Here, Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust
 - [2026-08-02](digests/tools-and-open-source/2026-08-02.md) - Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators, Ask HN: I still don't understand why AI agents need "skills", The Greenhouse and the Lens: Two Modes of Agentic AI Work
 - [2026-08-01](digests/tools-and-open-source/2026-08-01.md) - Show HN: How to build and self-host a code review agent, Show HN: I built a cross-browser extension that controls fingerprinting surfaces
