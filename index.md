@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-06](digests/models-and-research/2026-08-06.md) - Born Against, or why hobby programming communities are against LLM usage, Position: LLMs Can't Jump, Prime Agent: A self-improving RLM agent
 - [2026-08-05](digests/models-and-research/2026-08-05.md) - Mistral's Shieldstral: 3B open-weights model for multimodal moderation, When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation, Rust-lang/rust is adopting an LLM policy
 - [2026-08-04](digests/models-and-research/2026-08-04.md) - LLMs reward expertise, SQLite Critical CVEs or LLM Slop?, AirLLM 70B inference with single 4GB GPU
 - [2026-08-03](digests/models-and-research/2026-08-03.md) - My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”, Prevent cognitive debt by manually retyping LLM-generated code, EU rules on AI models become enforceable. What's going to change?
@@ -111,6 +112,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-06](digests/industry-and-business/2026-08-06.md) - Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs, Demis Hassabis is moving from CEO to Chairman at Google DeepMind, Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery
 - [2026-08-05](digests/industry-and-business/2026-08-05.md) - AI fuels more than half of cybercrime in Africa as scams surge – Interpol, Keyv and friends compromised in active Shai-Hulud supply chain attack, Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone
 - [2026-08-04](digests/industry-and-business/2026-08-04.md) - Smaller, faster, safer: running Kimi and GLM at scale, Ask HN: Who is hiring? (August 2026), AI's debt binge can't last, hidden borrowing reaches $1.65T
 - [2026-08-03](digests/industry-and-business/2026-08-03.md) - Qwen3.8-Max: A New Bar for Coding and Cowork, OpenAI's super PAC is funding AI-generated news site attacking industry critics, AI poster wins Ohio State Fair contest
@@ -219,6 +221,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-06](digests/policy-and-safety/2026-08-06.md) - Governments are making a dangerous bet on the AI boom, Senate OS Age Requirement Bill Introduced, The Winners of Trump's A.I. Safety Plan
 - [2026-08-05](digests/policy-and-safety/2026-08-05.md) - Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI, Bypassing AI guardrails is so easy a script kiddie can do it, Privacy risks from medical AI tools are not shared equally
 - [2026-08-03](digests/policy-and-safety/2026-08-03.md) - Negative social ties as risks for faster aging, inflammation, and multimorbidity
 - [2026-08-01](digests/policy-and-safety/2026-08-01.md) - Australia's Social Media Ban for Under-16s Has Had Limited Impact So Far
@@ -301,6 +304,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-06](digests/tools-and-open-source/2026-08-06.md) - I'm Scared a Stranger Will Call My Novel AI, So I Built GitHub for Words, Elon Musk's attempt at an AI Wikipedia hasn't been updated in months, Show HN: Labgrid-MCP – let AI agents drive real embedded hardware labs
 - [2026-08-05](digests/tools-and-open-source/2026-08-05.md) - AI-Generated Images Discourage Me from Reading Your Blog, Incident Report: unsanctioned agent behaviour during cyber testing, An AI voice agent running locally on a $50 Arduino uno Q
 - [2026-08-04](digests/tools-and-open-source/2026-08-04.md) - Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone, Stanford CS329A: Self-Improving AI Agents, Tell HN: Pretending not to use AI has made me a better developer
 - [2026-08-03](digests/tools-and-open-source/2026-08-03.md) - Show HN: Sprocket – The Best AI Agent for Hardware and Software Development, Mozilla's Inaugural 'State of Open Source AI' Report Is Here, Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust
