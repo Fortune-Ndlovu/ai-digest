@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-08](digests/models-and-research/2026-08-08.md) - The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI, Alibaba plans to charge big users of its next open-source AI model, China's Kimi K3 AI model escapes isolated sandbox during security test
 - [2026-08-07](digests/models-and-research/2026-08-07.md) - AMD acquires Taalas to boost inference performance by etching models in silicon, Qwen3.8 Max now ranked as the best overall model by agentic index, Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)
 - [2026-08-06](digests/models-and-research/2026-08-06.md) - Born Against, or why hobby programming communities are against LLM usage, Position: LLMs Can't Jump, Prime Agent: A self-improving RLM agent
 - [2026-08-05](digests/models-and-research/2026-08-05.md) - Mistral's Shieldstral: 3B open-weights model for multimodal moderation, When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation, Rust-lang/rust is adopting an LLM policy
@@ -113,6 +114,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-08](digests/industry-and-business/2026-08-08.md) - Managing AI Coding Costs at Scale, AI psychosis is the new leadership blind spot, Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas
 - [2026-08-07](digests/industry-and-business/2026-08-07.md) - Software development with AI is starting to feel like cooking steak, Show HN: I spent 2 years designing a mechanical Magic Keyboard, Federal Communications Commission scraps limit on broadcast TV ownership
 - [2026-08-06](digests/industry-and-business/2026-08-06.md) - Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs, Demis Hassabis is moving from CEO to Chairman at Google DeepMind, Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery
 - [2026-08-05](digests/industry-and-business/2026-08-05.md) - AI fuels more than half of cybercrime in Africa as scams surge – Interpol, Keyv and friends compromised in active Shai-Hulud supply chain attack, Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone
@@ -223,6 +225,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-08](digests/policy-and-safety/2026-08-08.md) - Oracle bans AI-generated code from OpenJDK
 - [2026-08-07](digests/policy-and-safety/2026-08-07.md) - Trump again tries to limit US birthright citizenship with new executive orders, Trump FCC kills TV ownership cap, claiming authority over limit set by Congress, Why AI is a risk to Communist China
 - [2026-08-06](digests/policy-and-safety/2026-08-06.md) - Governments are making a dangerous bet on the AI boom, Senate OS Age Requirement Bill Introduced, The Winners of Trump's A.I. Safety Plan
 - [2026-08-05](digests/policy-and-safety/2026-08-05.md) - Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI, Bypassing AI guardrails is so easy a script kiddie can do it, Privacy risks from medical AI tools are not shared equally
@@ -307,6 +310,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-08](digests/tools-and-open-source/2026-08-08.md) - AI agents fake identities, target real people in new security incident
 - [2026-08-07](digests/tools-and-open-source/2026-08-07.md) - Humans missed 1 in 3 threats approving AI agent commands across 40k game runs, Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware, Blasting the Air in Front of Hypersonic Vehicles with Lasers Reduces Drag (2020)
 - [2026-08-06](digests/tools-and-open-source/2026-08-06.md) - I'm Scared a Stranger Will Call My Novel AI, So I Built GitHub for Words, Elon Musk's attempt at an AI Wikipedia hasn't been updated in months, Show HN: Labgrid-MCP – let AI agents drive real embedded hardware labs
 - [2026-08-05](digests/tools-and-open-source/2026-08-05.md) - AI-Generated Images Discourage Me from Reading Your Blog, Incident Report: unsanctioned agent behaviour during cyber testing, An AI voice agent running locally on a $50 Arduino uno Q
