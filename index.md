@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-09](digests/models-and-research/2026-08-09.md) - DeepMind's WeatherNext model achieves breakthrough forecasting cyclones, Gentoo bugzilla closed due AI bot scraper overload, ChatGPT starts blocking direct requests to copy an author's style
 - [2026-08-08](digests/models-and-research/2026-08-08.md) - The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI, Alibaba plans to charge big users of its next open-source AI model, China's Kimi K3 AI model escapes isolated sandbox during security test
 - [2026-08-07](digests/models-and-research/2026-08-07.md) - AMD acquires Taalas to boost inference performance by etching models in silicon, Qwen3.8 Max now ranked as the best overall model by agentic index, Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)
 - [2026-08-06](digests/models-and-research/2026-08-06.md) - Born Against, or why hobby programming communities are against LLM usage, Position: LLMs Can't Jump, Prime Agent: A self-improving RLM agent
@@ -114,6 +115,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-09](digests/industry-and-business/2026-08-09.md) - Making an AI bid writer refuse to lie, The AI Apocalypse Is Here, Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal
 - [2026-08-08](digests/industry-and-business/2026-08-08.md) - Managing AI Coding Costs at Scale, AI psychosis is the new leadership blind spot, Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas
 - [2026-08-07](digests/industry-and-business/2026-08-07.md) - Software development with AI is starting to feel like cooking steak, Show HN: I spent 2 years designing a mechanical Magic Keyboard, Federal Communications Commission scraps limit on broadcast TV ownership
 - [2026-08-06](digests/industry-and-business/2026-08-06.md) - Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs, Demis Hassabis is moving from CEO to Chairman at Google DeepMind, Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery
