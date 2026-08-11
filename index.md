@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-11](digests/models-and-research/2026-08-11.md) - Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows, Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models, Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots
 - [2026-08-10](digests/models-and-research/2026-08-10.md) - How I use LLMs to learn complex topics, The Philippines' big offshoring industry is growing despite AI, Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space
 - [2026-08-09](digests/models-and-research/2026-08-09.md) - DeepMind's WeatherNext model achieves breakthrough forecasting cyclones, Gentoo bugzilla closed due AI bot scraper overload, ChatGPT starts blocking direct requests to copy an author's style
 - [2026-08-08](digests/models-and-research/2026-08-08.md) - The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI, Alibaba plans to charge big users of its next open-source AI model, China's Kimi K3 AI model escapes isolated sandbox during security test
@@ -116,6 +117,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-11](digests/industry-and-business/2026-08-11.md) - As AI eats the web, the internet’s collective memory is disappearing, Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints, Tech leaders say AI means less work – staff say they work up to 90 hours a week
 - [2026-08-10](digests/industry-and-business/2026-08-10.md) - Everything you do is being recorded, The Alpha 21264 CPU: NT's Greatest RISC (1998), Show HN: Voice driven murder mystery, Interview AI suspects with your voice
 - [2026-08-09](digests/industry-and-business/2026-08-09.md) - Making an AI bid writer refuse to lie, The AI Apocalypse Is Here, Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal
 - [2026-08-08](digests/industry-and-business/2026-08-08.md) - Managing AI Coding Costs at Scale, AI psychosis is the new leadership blind spot, Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas
@@ -229,6 +231,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-11](digests/policy-and-safety/2026-08-11.md) - Letter to Governor Abbott on responsible AI infrastructure in Texas, Banking AI XSS: The exploit is in the payment reference, Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI
 - [2026-08-10](digests/policy-and-safety/2026-08-10.md) - Banksy works cost public almost £150k, Lawyers using "AI" could face sanctions including costs for fake citations, The AI safety test is becoming a safety risk
 - [2026-08-08](digests/policy-and-safety/2026-08-08.md) - Oracle bans AI-generated code from OpenJDK
 - [2026-08-07](digests/policy-and-safety/2026-08-07.md) - Trump again tries to limit US birthright citizenship with new executive orders, Trump FCC kills TV ownership cap, claiming authority over limit set by Congress, Why AI is a risk to Communist China
@@ -315,6 +318,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-11](digests/tools-and-open-source/2026-08-11.md) - Meta's new open-weight model targets local agentic AI, Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status, Linus Torvalds says AI has made Linux kernel updates the new normal
 - [2026-08-10](digests/tools-and-open-source/2026-08-10.md) - Docker Sandboxes – Disposable, isolated sandboxes for AI agents, The tragedy of the commons, AI edition, Human vs. AI – Diff-based line-level provenance for text under agentic editing
 - [2026-08-08](digests/tools-and-open-source/2026-08-08.md) - AI agents fake identities, target real people in new security incident
 - [2026-08-07](digests/tools-and-open-source/2026-08-07.md) - Humans missed 1 in 3 threats approving AI agent commands across 40k game runs, Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware, Blasting the Air in Front of Hypersonic Vehicles with Lasers Reduces Drag (2020)
