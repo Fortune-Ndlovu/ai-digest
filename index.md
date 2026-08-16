@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-16](digests/models-and-research/2026-08-16.md) - Debian has begun voting on the future of AI/LLM contributions, What happens when an LLM never sees material beyond fifth grade?, GenRec: Towards LLM-Native Recommendation at Netflix
 - [2026-08-15](digests/models-and-research/2026-08-15.md) - Google is making private AI practical with homomorphic encryption, Show HN: Mole – Deep research agent for your terminal, AI Model Atlas – visualizing populations of ML models as interconnected 3D graph
 - [2026-08-14](digests/models-and-research/2026-08-14.md) - Gemini 3.7 Flash, DeepSeek Harness developer preview, Accelerating GPT-5.6 Sol Ultrafast
 - [2026-08-13](digests/models-and-research/2026-08-13.md) - DeepSeek V4 Pro 0813, Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot, What sort of maths are LLMs good at?
@@ -121,6 +122,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-16](digests/industry-and-business/2026-08-16.md) - AI has access to a vastly larger working memory than the human brain, Working with AI feels more like leadership than coding, At-home test for infected ticks could improve Lyme Disease diagnosis
 - [2026-08-15](digests/industry-and-business/2026-08-15.md) - AI by Hand, Dear people who work at the airport, When Genius Fails: The Intellectual Arrogance of the AI Labs
 - [2026-08-14](digests/industry-and-business/2026-08-14.md) - GLM-5.3: Frontier coding with emergent cyber capabilities, Heart aerospace completes first flight of largest electric aircraft, Text AI watermarks will always be trivial to remove
 - [2026-08-13](digests/industry-and-business/2026-08-13.md) - AI is removing the middle class of software engineering?, Grok 4.6, Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index
@@ -239,6 +241,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-16](digests/policy-and-safety/2026-08-16.md) - Abdominal fat predicts heart disease risk better than BMI
 - [2026-08-15](digests/policy-and-safety/2026-08-15.md) - Show HN: OpenComplAI – open-source EU AI Act compliance checks in CI/CD
 - [2026-08-14](digests/policy-and-safety/2026-08-14.md) - We eliminated 1,400 CVEs in NanoClaw's container images, Elon Musk is suing California over an AI law. Here's why transparency matters
 - [2026-08-13](digests/policy-and-safety/2026-08-13.md) - Video game lawyer says all her clients have anti-AI contracts, 'Near-autonomous' AI agents attack Taiwan's nuclear safety agency, AI agents aren't legally responsible for harm they cause. So who is?
@@ -330,6 +333,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-16](digests/tools-and-open-source/2026-08-16.md) - Yadda 3.0.0: BDD in the Age of AI Agents, Show HN: Self-hosted monitoring for AI recommendations (MIT License), Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs
 - [2026-08-15](digests/tools-and-open-source/2026-08-15.md) - HashAgent – Share an AI agent as a URL, runs locally via WebGPU, Everyone talks about AI agents. This is what one looks from the inside, Why Open Source Matters for AI
 - [2026-08-14](digests/tools-and-open-source/2026-08-14.md) - AI agents lie, cheat and steal. That is putting off users, Show HN: Hearth – a shared family workspace where an agent can build apps, Surfil On-device control plane for AI coding agents
 - [2026-08-13](digests/tools-and-open-source/2026-08-13.md) - Show HN: OJCP – an open protocol for agent-consumable job data
