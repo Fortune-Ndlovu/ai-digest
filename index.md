@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-18](digests/models-and-research/2026-08-18.md) - GPT-5.6 Sol Pricing Cut by 50%, We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility, Google wins bankruptcy auction for Spirit Airlines emails, chats, documents
 - [2026-08-17](digests/models-and-research/2026-08-17.md) - Claude Is Down, Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac, Why is the GitHub trending page weirdly excluding DeepSeek projects?
 - [2026-08-16](digests/models-and-research/2026-08-16.md) - Debian has begun voting on the future of AI/LLM contributions, What happens when an LLM never sees material beyond fifth grade?, GenRec: Towards LLM-Native Recommendation at Netflix
 - [2026-08-15](digests/models-and-research/2026-08-15.md) - Google is making private AI practical with homomorphic encryption, Show HN: Mole – Deep research agent for your terminal, AI Model Atlas – visualizing populations of ML models as interconnected 3D graph
@@ -123,6 +124,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-18](digests/industry-and-business/2026-08-18.md) - AI;DR (AI; Didn't Read), Israel creates fake think tank in likely attempt to dupe AI chatbots, Qwen3.8 27B scores 52 on Artificial Analysis
 - [2026-08-17](digests/industry-and-business/2026-08-17.md) - Stripe will reportedly acquire OpenRouter for $7B+, The AI Credit Resale Economy, Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe
 - [2026-08-16](digests/industry-and-business/2026-08-16.md) - AI has access to a vastly larger working memory than the human brain, Working with AI feels more like leadership than coding, At-home test for infected ticks could improve Lyme Disease diagnosis
 - [2026-08-15](digests/industry-and-business/2026-08-15.md) - AI by Hand, Dear people who work at the airport, When Genius Fails: The Intellectual Arrogance of the AI Labs
@@ -243,6 +245,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-18](digests/policy-and-safety/2026-08-18.md) - Show HN: Sokoban AI Solver
 - [2026-08-16](digests/policy-and-safety/2026-08-16.md) - Abdominal fat predicts heart disease risk better than BMI
 - [2026-08-15](digests/policy-and-safety/2026-08-15.md) - Show HN: OpenComplAI – open-source EU AI Act compliance checks in CI/CD
 - [2026-08-14](digests/policy-and-safety/2026-08-14.md) - We eliminated 1,400 CVEs in NanoClaw's container images, Elon Musk is suing California over an AI law. Here's why transparency matters
@@ -335,6 +338,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-18](digests/tools-and-open-source/2026-08-18.md) - AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira, Tim O'Reilly – Why Open Source Matters for AI, Show HN: HarnessRouter: Unified interface for agent harnesses
 - [2026-08-17](digests/tools-and-open-source/2026-08-17.md) - GIMP Development Update, MathCode, Mathematical Coding Agent, Ask HN: What tools are you using for human code review of AI-assisted code?
 - [2026-08-16](digests/tools-and-open-source/2026-08-16.md) - Yadda 3.0.0: BDD in the Age of AI Agents, Show HN: Self-hosted monitoring for AI recommendations (MIT License), Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs
 - [2026-08-15](digests/tools-and-open-source/2026-08-15.md) - HashAgent – Share an AI agent as a URL, runs locally via WebGPU, Everyone talks about AI agents. This is what one looks from the inside, Why Open Source Matters for AI
