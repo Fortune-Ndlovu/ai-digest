@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-21](digests/models-and-research/2026-08-21.md) - Vomit: Clean up Claude 5's token output with a separate LLM, Micron announces $10B research hub in Boise, Guess which of these LLM outputs is watermarked
 - [2026-08-20](digests/models-and-research/2026-08-20.md) - Extensible Software in the age of LLMs, Japan to require AI firms to disclose training data, Ask HN: Has anyone shipped a self-modifying application with LLMs?
 - [2026-08-19](digests/models-and-research/2026-08-19.md) - Google has acquired the data of failed US airline Spirit, Claude Code May–August 2026 weekly limits promotion, GLM-5.3 Artificial Analysis Benchmarks
 - [2026-08-18](digests/models-and-research/2026-08-18.md) - GPT-5.6 Sol Pricing Cut by 50%, We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility, Google wins bankruptcy auction for Spirit Airlines emails, chats, documents
@@ -126,6 +127,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-21](digests/industry-and-business/2026-08-21.md) - AI companies destroy physical books – let's scan rare books before it's too late, Show HN: Huzzah – a novel approach to coding with AI, Anti-AI fonts are useless and harmful
 - [2026-08-20](digests/industry-and-business/2026-08-20.md) - OpenRouter is joining Stripe, Air Theremin – A browser theremin you play by waving at your webcam, Ornith-1.5: From Self-Scaffolding to Self-Improvement
 - [2026-08-19](digests/industry-and-business/2026-08-19.md) - Field measurements of neighborhood-scale air temperature impacts of data centers, Cerebras CS-4, AI usage patterns in software teams
 - [2026-08-18](digests/industry-and-business/2026-08-18.md) - AI;DR (AI; Didn't Read), Israel creates fake think tank in likely attempt to dupe AI chatbots, Qwen3.8 27B scores 52 on Artificial Analysis
@@ -249,6 +251,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-21](digests/policy-and-safety/2026-08-21.md) - Copyright does not protect AI-generated content in EU, Artificial Intelligence Policy, AI Alignment as a Thought-Terminating Cliche
 - [2026-08-19](digests/policy-and-safety/2026-08-19.md) - AI Alignment as a Thought-Terminating Cliche, State Farm defense lawyers admit AI generated fake cases in LA lawsuit
 - [2026-08-18](digests/policy-and-safety/2026-08-18.md) - Show HN: Sokoban AI Solver
 - [2026-08-16](digests/policy-and-safety/2026-08-16.md) - Abdominal fat predicts heart disease risk better than BMI
@@ -343,6 +346,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-21](digests/tools-and-open-source/2026-08-21.md) - Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents, Study reveals that almost 40% of music released globally in July 2026 used AI, Index of the best vibe coding tools
 - [2026-08-20](digests/tools-and-open-source/2026-08-20.md) - Unsloth Dynamic 3.0 GGUFs, Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams, Flock Has a Powerful New AI Tool for Police. We Got Its Code
 - [2026-08-19](digests/tools-and-open-source/2026-08-19.md) - Show HN: I canceled my AI code reviewer and wrote a free local one, The Capital Cycle Theory, AI to help planes avoid climate-warming 'sky graffiti'
 - [2026-08-18](digests/tools-and-open-source/2026-08-18.md) - AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira, Tim O'Reilly – Why Open Source Matters for AI, Show HN: HarnessRouter: Unified interface for agent harnesses
