@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-22](digests/models-and-research/2026-08-22.md) - How I came to write that paper with Leslie Lamport, LLMs are proof that Unix won, Teen Boys Are Using Meta Glasses to Harass and Bully Girls at High Schools
 - [2026-08-21](digests/models-and-research/2026-08-21.md) - Vomit: Clean up Claude 5's token output with a separate LLM, Micron announces $10B research hub in Boise, Guess which of these LLM outputs is watermarked
 - [2026-08-20](digests/models-and-research/2026-08-20.md) - Extensible Software in the age of LLMs, Japan to require AI firms to disclose training data, Ask HN: Has anyone shipped a self-modifying application with LLMs?
 - [2026-08-19](digests/models-and-research/2026-08-19.md) - Google has acquired the data of failed US airline Spirit, Claude Code May–August 2026 weekly limits promotion, GLM-5.3 Artificial Analysis Benchmarks
@@ -127,6 +128,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-22](digests/industry-and-business/2026-08-22.md) - AI companies destroy physical books – let's scan rare books before it's too late, I'm becoming AI-blind, AI boosted homework scores, then exam scores dropped: Study
 - [2026-08-21](digests/industry-and-business/2026-08-21.md) - AI companies destroy physical books – let's scan rare books before it's too late, Show HN: Huzzah – a novel approach to coding with AI, Anti-AI fonts are useless and harmful
 - [2026-08-20](digests/industry-and-business/2026-08-20.md) - OpenRouter is joining Stripe, Air Theremin – A browser theremin you play by waving at your webcam, Ornith-1.5: From Self-Scaffolding to Self-Improvement
 - [2026-08-19](digests/industry-and-business/2026-08-19.md) - Field measurements of neighborhood-scale air temperature impacts of data centers, Cerebras CS-4, AI usage patterns in software teams
@@ -346,6 +348,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-22](digests/tools-and-open-source/2026-08-22.md) - Building an (almost) fully self-hosted, sandboxed, agentic software factory, Show HN: OzBrain, a shared brain for knowledge between agents and your team, Show HN: Proliferate- open-source, self-hostable Codex for any coding agent
 - [2026-08-21](digests/tools-and-open-source/2026-08-21.md) - Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents, Study reveals that almost 40% of music released globally in July 2026 used AI, Index of the best vibe coding tools
 - [2026-08-20](digests/tools-and-open-source/2026-08-20.md) - Unsloth Dynamic 3.0 GGUFs, Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams, Flock Has a Powerful New AI Tool for Police. We Got Its Code
 - [2026-08-19](digests/tools-and-open-source/2026-08-19.md) - Show HN: I canceled my AI code reviewer and wrote a free local one, The Capital Cycle Theory, AI to help planes avoid climate-warming 'sky graffiti'
