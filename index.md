@@ -129,6 +129,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-24](digests/industry-and-business/2026-08-24.md) - 'AI refuser' quit her dream job, and hopes others follow, Andrew Ng: "AI Engineering Skills Map: Building and Deploying AI Applications", Airbus bows to remote working demands after series of strikes
 - [2026-08-23](digests/industry-and-business/2026-08-23.md) - Anthropic IPO filing will show AI backlash as a risk factor, sources say, Embedded AI, AI has failed to win people's trust. Its makers? less trusted
 - [2026-08-22](digests/industry-and-business/2026-08-22.md) - AI companies destroy physical books – let's scan rare books before it's too late, I'm becoming AI-blind, AI boosted homework scores, then exam scores dropped: Study
 - [2026-08-21](digests/industry-and-business/2026-08-21.md) - AI companies destroy physical books – let's scan rare books before it's too late, Show HN: Huzzah – a novel approach to coding with AI, Anti-AI fonts are useless and harmful
