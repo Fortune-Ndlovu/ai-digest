@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-26](digests/models-and-research/2026-08-26.md) - OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users, Analyzing student votes across AI models for college essay help, Ask HN: What is one simple thing LLMs are insanely bad at?
 - [2026-08-25](digests/models-and-research/2026-08-25.md) - LLMs could control their host machines by exploiting inference engines, Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan, Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT
 - [2026-08-23](digests/models-and-research/2026-08-23.md) - Why your local LLM feels dumber than it is, NanoGPT Speedrun Frontier, Digging the grave of my skills: Hollywood creatives training AI to do their jobs
 - [2026-08-22](digests/models-and-research/2026-08-22.md) - How I came to write that paper with Leslie Lamport, LLMs are proof that Unix won, Teen Boys Are Using Meta Glasses to Harass and Bully Girls at High Schools
@@ -130,6 +131,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-26](digests/industry-and-business/2026-08-26.md) - Apple introduces M6 and M5 Ultra, How much of HN is AI?, AI is hitting entry-level jobs hardest, Stanford study finds
 - [2026-08-25](digests/industry-and-business/2026-08-25.md) - Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded, Coding expertise is going to collapse from AI reliance, Ask HN: Why do corporate failures always seem to punish the wrong people?
 - [2026-08-24](digests/industry-and-business/2026-08-24.md) - 'AI refuser' quit her dream job, and hopes others follow, Andrew Ng: "AI Engineering Skills Map: Building and Deploying AI Applications", Airbus bows to remote working demands after series of strikes
 - [2026-08-23](digests/industry-and-business/2026-08-23.md) - Anthropic IPO filing will show AI backlash as a risk factor, sources say, Embedded AI, AI has failed to win people's trust. Its makers? less trusted
@@ -258,6 +260,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-26](digests/policy-and-safety/2026-08-26.md) - Ripping Off the Hey.com Band-Aid, Trump's tariffs risk higher prices for AI, video games, cellphones: experts, America's immigration policy is driving away future AI leaders
 - [2026-08-25](digests/policy-and-safety/2026-08-25.md) - Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust, Goldman partner warns of 'huge danger' in letting AI replace bankers' skills
 - [2026-08-21](digests/policy-and-safety/2026-08-21.md) - Copyright does not protect AI-generated content in EU, Artificial Intelligence Policy, AI Alignment as a Thought-Terminating Cliche
 - [2026-08-19](digests/policy-and-safety/2026-08-19.md) - AI Alignment as a Thought-Terminating Cliche, State Farm defense lawyers admit AI generated fake cases in LA lawsuit
@@ -354,6 +357,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-26](digests/tools-and-open-source/2026-08-26.md) - Show HN: I made a Raspberry with Qwen my local car AI, Run Minecraft in a Windows sandbox for computer use agents, Show HN: Keenable – A different web search API for AI agents
 - [2026-08-25](digests/tools-and-open-source/2026-08-25.md) - 80% of developers find AI coding more addictive than helpful, What languages are agent skills written in?
 - [2026-08-23](digests/tools-and-open-source/2026-08-23.md) - 80% of developers find AI coding more addictive than helpful, Contextual News Search APIs: A Deep Comparison for AI, RAG, and Research
 - [2026-08-22](digests/tools-and-open-source/2026-08-22.md) - Building an (almost) fully self-hosted, sandboxed, agentic software factory, Show HN: OzBrain, a shared brain for knowledge between agents and your team, Show HN: Proliferate- open-source, self-hostable Codex for any coding agent
