@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-30](digests/models-and-research/2026-08-30.md) - vLLM v0.28.0, LLMs are making me lose my savviness, Claude Code is going reduce limits by 25% from September 14
 - [2026-08-29](digests/models-and-research/2026-08-29.md) - I accidentally turned LLM memory into program analysis, Show HN: Conduct, open-source guardrails for LLM and MCP tool calls, Debian has published the official results for the 2026 GR on LLM usage
 - [2026-08-28](digests/models-and-research/2026-08-28.md) - Show HN: We built open OpenRouter that turns usage into a better model, Terminal-Bench-Science: Evaluating AI agents on scientific research workflows, LLM Cliché Highlighter
 - [2026-08-27](digests/models-and-research/2026-08-27.md) - Laion Big Video Dataset, MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training, Changes to Sourcehut's terms of service regarding LLMs
@@ -134,6 +135,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-30](digests/industry-and-business/2026-08-30.md) - Good Culture Is the Biggest Productivity Hack, Not AI, The growing divide between AI hype and software engineering reality, Fair Work Commission condemns 'plain wrong' AI legal advice
 - [2026-08-29](digests/industry-and-business/2026-08-29.md) - Identifying fake cosmetics using AI, I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI, OpenAI and Anthropic are ruining San Francisco
 - [2026-08-28](digests/industry-and-business/2026-08-28.md) - GLM-5.3 is now open-weight, Luanti removed from Google Play due to baseless AI copyright notice, Please stop flooding our projects with AI slop to furnish your CV
 - [2026-08-27](digests/industry-and-business/2026-08-27.md) - Air Conditioning Is Not a Luxury, It Is a Necessity, Harness Engineering, Two German airport workers die of malaria after 'mosquito arrives on plane'
@@ -266,6 +268,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-30](digests/policy-and-safety/2026-08-30.md) - Debian votes to allow "responsible use of generative AI"
 - [2026-08-29](digests/policy-and-safety/2026-08-29.md) - Debian Votes to Allow "Responsible Use of Generative AI", Unsafe at any speed: AI optimists are turning cautious as safety concerns mount
 - [2026-08-28](digests/policy-and-safety/2026-08-28.md) - AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning, Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount
 - [2026-08-27](digests/policy-and-safety/2026-08-27.md) - Australia Bans Generative A.I. From Official Music Charts, Show HN: We built the smallest dual-band aircraft tracker
@@ -366,6 +369,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-30](digests/tools-and-open-source/2026-08-30.md) - Open Oscar Server: open-source server compatible with AIM and ICQ clients, China is fueling America's data center rage, Show HN: AI Agents for Osint/Sigint
 - [2026-08-29](digests/tools-and-open-source/2026-08-29.md) - StemDeck, a free, open-source and local AI stem separator, Anti-AI Populism is Reshaping American Politics
 - [2026-08-28](digests/tools-and-open-source/2026-08-28.md) - AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab, AI Agent Has Root, Your AGENTS.md file doesn't do anything
 - [2026-08-27](digests/tools-and-open-source/2026-08-27.md) - CEO fired developers to make room for AI. Developers create open source AI CEO, Six months of writing code exclusively with agents, AC2 Protocol: The missing security layer for AI agents
