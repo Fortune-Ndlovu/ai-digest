@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-08-31](digests/models-and-research/2026-08-31.md) - Continuous Diffusion Language Models (CDLM's), Claude Code reduces it's weekly limit by 17% – compared to today, Meta Security Researcher's AI Agent Accidentally Deleted Her Emails
 - [2026-08-30](digests/models-and-research/2026-08-30.md) - vLLM v0.28.0, LLMs are making me lose my savviness, Claude Code is going reduce limits by 25% from September 14
 - [2026-08-29](digests/models-and-research/2026-08-29.md) - I accidentally turned LLM memory into program analysis, Show HN: Conduct, open-source guardrails for LLM and MCP tool calls, Debian has published the official results for the 2026 GR on LLM usage
 - [2026-08-28](digests/models-and-research/2026-08-28.md) - Show HN: We built open OpenRouter that turns usage into a better model, Terminal-Bench-Science: Evaluating AI agents on scientific research workflows, LLM Cliché Highlighter
@@ -135,6 +136,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-08-31](digests/industry-and-business/2026-08-31.md) - Why do I lose my passion and want to do nothing?, Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio, AI-Written Code Is Still *Your* Code. Are You OK with That?
 - [2026-08-30](digests/industry-and-business/2026-08-30.md) - Good Culture Is the Biggest Productivity Hack, Not AI, The growing divide between AI hype and software engineering reality, Fair Work Commission condemns 'plain wrong' AI legal advice
 - [2026-08-29](digests/industry-and-business/2026-08-29.md) - Identifying fake cosmetics using AI, I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI, OpenAI and Anthropic are ruining San Francisco
 - [2026-08-28](digests/industry-and-business/2026-08-28.md) - GLM-5.3 is now open-weight, Luanti removed from Google Play due to baseless AI copyright notice, Please stop flooding our projects with AI slop to furnish your CV
@@ -268,6 +270,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-08-31](digests/policy-and-safety/2026-08-31.md) - OpenClaw 2.0, Accidentally, Advanced AI threatens global financial stability, says Bank of England boss
 - [2026-08-30](digests/policy-and-safety/2026-08-30.md) - Debian votes to allow "responsible use of generative AI"
 - [2026-08-29](digests/policy-and-safety/2026-08-29.md) - Debian Votes to Allow "Responsible Use of Generative AI", Unsafe at any speed: AI optimists are turning cautious as safety concerns mount
 - [2026-08-28](digests/policy-and-safety/2026-08-28.md) - AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning, Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount
@@ -369,6 +372,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-08-31](digests/tools-and-open-source/2026-08-31.md) - DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books, Agentic Trust Controls, Show HN: Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing
 - [2026-08-30](digests/tools-and-open-source/2026-08-30.md) - Open Oscar Server: open-source server compatible with AIM and ICQ clients, China is fueling America's data center rage, Show HN: AI Agents for Osint/Sigint
 - [2026-08-29](digests/tools-and-open-source/2026-08-29.md) - StemDeck, a free, open-source and local AI stem separator, Anti-AI Populism is Reshaping American Politics
 - [2026-08-28](digests/tools-and-open-source/2026-08-28.md) - AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab, AI Agent Has Root, Your AGENTS.md file doesn't do anything
