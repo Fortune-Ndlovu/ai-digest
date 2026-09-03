@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-09-03](digests/models-and-research/2026-09-03.md) - Gemini 3.8 Flash and 3.8 Flash Cyber, WebLLM: high-performance in-browser LLM inference engine, LLMs: Intelligence vs. Cost
 - [2026-09-02](digests/models-and-research/2026-09-02.md) - Atlas: A World Model for Spatial Intelligence, The efficient frontier of LLM inference, Quasar 438B: Europe's Leading AI Model
 - [2026-09-01](digests/models-and-research/2026-09-01.md) - ArXiv has almost 600 submissions today and most are AI slop, Stanisław Lem foretold the current LLM mania in 1964, Claude Code now appends a link to a Claude session in every commit
 - [2026-08-31](digests/models-and-research/2026-08-31.md) - Continuous Diffusion Language Models (CDLM's), Claude Code reduces it's weekly limit by 17% – compared to today, Meta Security Researcher's AI Agent Accidentally Deleted Her Emails
@@ -138,6 +139,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-09-03](digests/industry-and-business/2026-09-03.md) - Muse Spark 1.3, Three sites made 215,128 “best software” pages for AI. Perplexity cites them, Six curl CVEs after OpenAI and Anthropic came back with zero
 - [2026-09-02](digests/industry-and-business/2026-09-02.md) - How accurate have Ed Zitron's AI skeptic predictions been?, Dwarf Fortress' creator says the industry's in shambles over AI, Ask HN: Who is hiring? (September 2026)
 - [2026-09-01](digests/industry-and-business/2026-09-01.md) - The safest job from AI may be writing, AI Can Make You Suck Faster Too, Marx, Keynes, and AI
 - [2026-08-31](digests/industry-and-business/2026-08-31.md) - Why do I lose my passion and want to do nothing?, Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio, AI-Written Code Is Still *Your* Code. Are You OK with That?
@@ -274,6 +276,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-09-03](digests/policy-and-safety/2026-09-03.md) - Mamdani Bans AI in NYC Schools, AI Policy, US Government worried that AI companies can't innovate without legal theft
 - [2026-09-02](digests/policy-and-safety/2026-09-02.md) - OpenAI to Restrict Astra Model After Rating It 'Critical' Cyber Risk, AI safety is designed in the West, and failing users everywhere
 - [2026-09-01](digests/policy-and-safety/2026-09-01.md) - California Lawmakers Pass Plug-In Solar Bill, EFF to Courts: Don't Rewrite Copyright over AI Hype
 - [2026-08-31](digests/policy-and-safety/2026-08-31.md) - OpenClaw 2.0, Accidentally, Advanced AI threatens global financial stability, says Bank of England boss
@@ -378,6 +381,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-09-03](digests/tools-and-open-source/2026-09-03.md) - AI Agents and the Refactoring That Never Happens, Climate crisis is creating hellish conditions for waste pickers at Nairobi dump, Z: Local-first search layer for humans and agents
 - [2026-09-02](digests/tools-and-open-source/2026-09-02.md) - Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos, AI Coding Agent Skills for Real Engineers, Show HN: Orthogonal – One integration for agents to discover and pay for APIs
 - [2026-09-01](digests/tools-and-open-source/2026-09-01.md) - Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude, AI ruined some of my most precious accessibility tools
 - [2026-08-31](digests/tools-and-open-source/2026-08-31.md) - DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books, Agentic Trust Controls, Show HN: Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing
