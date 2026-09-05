@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-09-05](digests/models-and-research/2026-09-05.md) - GPT-6 Astra on OpenRouter, “Next-token predictor” is the wrong mental model for LLMs, Project HydraFusion: Frontier quality via multi-model orchestration
 - [2026-09-04](digests/models-and-research/2026-09-04.md) - Qwen 3.8 27B available on Cerebras at 1500 tokens/s, Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?, Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly
 - [2026-09-03](digests/models-and-research/2026-09-03.md) - Gemini 3.8 Flash and 3.8 Flash Cyber, WebLLM: high-performance in-browser LLM inference engine, LLMs: Intelligence vs. Cost
 - [2026-09-02](digests/models-and-research/2026-09-02.md) - Atlas: A World Model for Spatial Intelligence, The efficient frontier of LLM inference, Quasar 438B: Europe's Leading AI Model
@@ -140,6 +141,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-09-05](digests/industry-and-business/2026-09-05.md) - Google AI Mode shows same products 21.6% more expensive than traditional search, Corporate America is getting hooked on open-source AI, Show HN: Open-Source eInk Bike Computer
 - [2026-09-04](digests/industry-and-business/2026-09-04.md) - Grok outage, OpenAI agents hijacked German website in previously undisclosed AI breakout, Microsoft Announces Change to Xbox Cloud Gaming, Switches to Monthly Hour Limits
 - [2026-09-03](digests/industry-and-business/2026-09-03.md) - Muse Spark 1.3, Three sites made 215,128 “best software” pages for AI. Perplexity cites them, Six curl CVEs after OpenAI and Anthropic came back with zero
 - [2026-09-02](digests/industry-and-business/2026-09-02.md) - How accurate have Ed Zitron's AI skeptic predictions been?, Dwarf Fortress' creator says the industry's in shambles over AI, Ask HN: Who is hiring? (September 2026)
@@ -278,6 +280,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-09-05](digests/policy-and-safety/2026-09-05.md) - Los Angeles District Bans Most A.I. For Students
 - [2026-09-04](digests/policy-and-safety/2026-09-04.md) - Sanders introduces bill to ban artificial superintelligence and pause AI, NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade, Pause AI Development Now
 - [2026-09-03](digests/policy-and-safety/2026-09-03.md) - Mamdani Bans AI in NYC Schools, AI Policy, US Government worried that AI companies can't innovate without legal theft
 - [2026-09-02](digests/policy-and-safety/2026-09-02.md) - OpenAI to Restrict Astra Model After Rating It 'Critical' Cyber Risk, AI safety is designed in the West, and failing users everywhere
@@ -384,6 +387,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-09-05](digests/tools-and-open-source/2026-09-05.md) - Artificial Analysis Intelligence Index v4.2, Show HN: Moadim.io – A scheduler for agents, Show HN: SiteTweak – a browser extension to modify any website
 - [2026-09-04](digests/tools-and-open-source/2026-09-04.md) - Show HN: Ardent, a code-first agent for non-engineering work, Climbers rescued from Mount Shasta after relying on AI chatbot to plan trip, Show HN: MCP Tool Definition Quality Score (TDQS) Spec
 - [2026-09-03](digests/tools-and-open-source/2026-09-03.md) - AI Agents and the Refactoring That Never Happens, Climate crisis is creating hellish conditions for waste pickers at Nairobi dump, Z: Local-first search layer for humans and agents
 - [2026-09-02](digests/tools-and-open-source/2026-09-02.md) - Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos, AI Coding Agent Skills for Real Engineers, Show HN: Orthogonal – One integration for agents to discover and pay for APIs
