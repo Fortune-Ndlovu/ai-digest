@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-09-07](digests/models-and-research/2026-09-07.md) - Speculative Decoding in vLLM on AMD GPUs, 10-task GLM 5.3 harness bench: Claude, OpenCode, pi, zcode, Hermes and 3code
 - [2026-09-06](digests/models-and-research/2026-09-06.md) - LLMs as a Cognitive Virus, Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training
 - [2026-09-05](digests/models-and-research/2026-09-05.md) - GPT-6 Astra on OpenRouter, “Next-token predictor” is the wrong mental model for LLMs, Project HydraFusion: Frontier quality via multi-model orchestration
 - [2026-09-04](digests/models-and-research/2026-09-04.md) - Qwen 3.8 27B available on Cerebras at 1500 tokens/s, Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?, Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly
@@ -142,6 +143,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-09-07](digests/industry-and-business/2026-09-07.md) - A/I shuts down, How I feel about AI, I refused to train the AI that could replace me
 - [2026-09-06](digests/industry-and-business/2026-09-06.md) - Global warming will exceed 1.5-degree limit, UN says, Learn Programming with OCaml, There's No Limit to How Bad Code Can Get
 - [2026-09-05](digests/industry-and-business/2026-09-05.md) - Google AI Mode shows same products 21.6% more expensive than traditional search, Corporate America is getting hooked on open-source AI, Show HN: Open-Source eInk Bike Computer
 - [2026-09-04](digests/industry-and-business/2026-09-04.md) - Grok outage, OpenAI agents hijacked German website in previously undisclosed AI breakout, Microsoft Announces Change to Xbox Cloud Gaming, Switches to Monthly Hour Limits
@@ -282,6 +284,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-09-07](digests/policy-and-safety/2026-09-07.md) - US Republicans revolt against Flock AI surveillance as backlash intensifies, Pivot to AI safety, I beg you
 - [2026-09-06](digests/policy-and-safety/2026-09-06.md) - America's two largest school districts impose AI moratoriums, AI push is putting banks at mercy of tech firms, warns Moody's
 - [2026-09-05](digests/policy-and-safety/2026-09-05.md) - Los Angeles District Bans Most A.I. For Students
 - [2026-09-04](digests/policy-and-safety/2026-09-04.md) - Sanders introduces bill to ban artificial superintelligence and pause AI, NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade, Pause AI Development Now
@@ -390,6 +393,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-09-07](digests/tools-and-open-source/2026-09-07.md) - Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs, Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads, ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI
 - [2026-09-06](digests/tools-and-open-source/2026-09-06.md) - AI, Tools and Transformation, OKF Agent Memory – Git-native persistent memory for AI coding agents, Using Blender with coding agents on macOS
 - [2026-09-05](digests/tools-and-open-source/2026-09-05.md) - Artificial Analysis Intelligence Index v4.2, Show HN: Moadim.io – A scheduler for agents, Show HN: SiteTweak – a browser extension to modify any website
 - [2026-09-04](digests/tools-and-open-source/2026-09-04.md) - Show HN: Ardent, a code-first agent for non-engineering work, Climbers rescued from Mount Shasta after relying on AI chatbot to plan trip, Show HN: MCP Tool Definition Quality Score (TDQS) Spec
