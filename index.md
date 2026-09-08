@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-09-08](digests/models-and-research/2026-09-08.md) - Mistral raises €3B, AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200, Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics
 - [2026-09-07](digests/models-and-research/2026-09-07.md) - Speculative Decoding in vLLM on AMD GPUs, 10-task GLM 5.3 harness bench: Claude, OpenCode, pi, zcode, Hermes and 3code
 - [2026-09-06](digests/models-and-research/2026-09-06.md) - LLMs as a Cognitive Virus, Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training
 - [2026-09-05](digests/models-and-research/2026-09-05.md) - GPT-6 Astra on OpenRouter, “Next-token predictor” is the wrong mental model for LLMs, Project HydraFusion: Frontier quality via multi-model orchestration
@@ -143,6 +144,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-09-08](digests/industry-and-business/2026-09-08.md) - Emacs Bedrock 2.0, Tell HN: OpenAI brings back 5 hour limit for plus and business standard users, AI Cold Showers
 - [2026-09-07](digests/industry-and-business/2026-09-07.md) - A/I shuts down, How I feel about AI, I refused to train the AI that could replace me
 - [2026-09-06](digests/industry-and-business/2026-09-06.md) - Global warming will exceed 1.5-degree limit, UN says, Learn Programming with OCaml, There's No Limit to How Bad Code Can Get
 - [2026-09-05](digests/industry-and-business/2026-09-05.md) - Google AI Mode shows same products 21.6% more expensive than traditional search, Corporate America is getting hooked on open-source AI, Show HN: Open-Source eInk Bike Computer
@@ -393,6 +395,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-09-08](digests/tools-and-open-source/2026-09-08.md) - Multi-Agents LLM Financial Trading Framework, Secure temporary file sharing for AI agents and humans, Show HN: Send flowers from your AI agent and make your mum happy
 - [2026-09-07](digests/tools-and-open-source/2026-09-07.md) - Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs, Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads, ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI
 - [2026-09-06](digests/tools-and-open-source/2026-09-06.md) - AI, Tools and Transformation, OKF Agent Memory – Git-native persistent memory for AI coding agents, Using Blender with coding agents on macOS
 - [2026-09-05](digests/tools-and-open-source/2026-09-05.md) - Artificial Analysis Intelligence Index v4.2, Show HN: Moadim.io – A scheduler for agents, Show HN: SiteTweak – a browser extension to modify any website
