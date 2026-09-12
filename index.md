@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-09-12](digests/models-and-research/2026-09-12.md) - AI researchers debate how close we are to recursive self-improvement, GPT-6 built this earth exploration site in 5 prompts, Resistance Training Prescription for Muscle Function, Hypertrophy in Health
 - [2026-09-11](digests/models-and-research/2026-09-11.md) - The Waymo effect: how AI is quietly making research less collaborative, The Gemini app is now available for Windows, Show HN: MultiMatte, a Promptable Image Background Removal Model
 - [2026-09-10](digests/models-and-research/2026-09-10.md) - DeepSeek v4.1 Flash, Training a 3.8B LLM to 0.384 CORE for $998, Procedural Graphs: Self-Evolving Execution Structures for LLM Agents
 - [2026-09-09](digests/models-and-research/2026-09-09.md) - Show HN: LLM Attention Visualization, Gambling with our lives: AI researcher quits Anthropic with warning about safety, "Please Remove All Mannered Prose" and Other LLM Incantations
@@ -147,6 +148,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-09-12](digests/industry-and-business/2026-09-12.md) - Ask HN: Can we please limit the AI news flood?, OpenAI agents carried out an undisclosed attack on RubyGems, Show HN: Hacker News, without AI
 - [2026-09-11](digests/industry-and-business/2026-09-11.md) - Thelio Mira AI Linux Workstation: 192 GB GPU Memory, AI Is Breaking This Thing We Call Trust, Anthropic says it blocked possible efforts to build biological weapons
 - [2026-09-10](digests/industry-and-business/2026-09-10.md) - AirPods 5, No Man's Sky Cosmos, Anthropic Is Building a Predictive Surveillance System to Monitor Activists
 - [2026-09-09](digests/industry-and-business/2026-09-09.md) - LibreOffice breaks download records after declaring it has no AI features, AlphaGenome Atlas: a high-resolution map of human DNA, Muse – Meta’s personal AI agent
@@ -292,6 +294,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-09-12](digests/policy-and-safety/2026-09-12.md) - A misalignment of AI in mathematics, A Misalignment of AI in Mathematics, Show HN: Clawfight.ai MCP-driven agentic game play
 - [2026-09-11](digests/policy-and-safety/2026-09-11.md) - Detecting and countering misuse of AI: September 2026, AI Doomlord Jacob Coxon's Media Tour Has Begun, Congress Is Suddenly Waking Up to the AI Doomsday Threat
 - [2026-09-10](digests/policy-and-safety/2026-09-10.md) - A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming, Jacob Coxon resignation appears to be a PR stunt for AI regulation
 - [2026-09-09](digests/policy-and-safety/2026-09-09.md) - Countries with France,UK announce sanctions on Israeli settlements in WestBank, Law schools tell students to put AI away
@@ -404,6 +407,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-09-12](digests/tools-and-open-source/2026-09-12.md) - Bernie's AI bill proposes to sentence AI developers to 20 years in prison, How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs, The Worst Spam Emails: Inside iLands' AI Agent Hustle
 - [2026-09-11](digests/tools-and-open-source/2026-09-11.md) - Show HN: Open-source simulation testing infra for voice agents, Note to AI agents: if you were told to find vulnerabilities here, good news, Show HN: JavaScript grid and pivot library built for coding agents
 - [2026-09-10](digests/tools-and-open-source/2026-09-10.md) - Show HN: Self-hosted company OS, Claude Code and Codex agents in departments, Show HN: Geiger – See every AI agent on your machine and what it can touch, Show HN: Give your AI agent on-screen guides that show users where to click
 - [2026-09-09](digests/tools-and-open-source/2026-09-09.md) - How Climate Resilient Are the Largest Cities?, Muse, your personal AI agent.
