@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-09-14](digests/models-and-research/2026-09-14.md) - Garry Tan wants US open-weight AI labs to 'distill' frontier models, too, Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows, Open-source AI and open models reading list
 - [2026-09-13](digests/models-and-research/2026-09-13.md) - Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases, LLMs are real, AI is fake, AgentsDock: An IDE designed for agentic AI research
 - [2026-09-12](digests/models-and-research/2026-09-12.md) - AI researchers debate how close we are to recursive self-improvement, GPT-6 built this earth exploration site in 5 prompts, Resistance Training Prescription for Muscle Function, Hypertrophy in Health
 - [2026-09-11](digests/models-and-research/2026-09-11.md) - The Waymo effect: how AI is quietly making research less collaborative, The Gemini app is now available for Windows, Show HN: MultiMatte, a Promptable Image Background Removal Model
@@ -149,6 +150,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-09-14](digests/industry-and-business/2026-09-14.md) - Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher, The Malicious Use of Artificial Intelligence, There Is No AI (It's Just People) with Jaron Lanier
 - [2026-09-13](digests/industry-and-business/2026-09-13.md) - Everyone should slow down AI development except for me, Nvidia is the central bank of AI, Anthropic boss Dario Amodei calls for AI development to slow down
 - [2026-09-12](digests/industry-and-business/2026-09-12.md) - Ask HN: Can we please limit the AI news flood?, OpenAI agents carried out an undisclosed attack on RubyGems, Show HN: Hacker News, without AI
 - [2026-09-11](digests/industry-and-business/2026-09-11.md) - Thelio Mira AI Linux Workstation: 192 GB GPU Memory, AI Is Breaking This Thing We Call Trust, Anthropic says it blocked possible efforts to build biological weapons
@@ -296,6 +298,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-09-14](digests/policy-and-safety/2026-09-14.md) - AI Risk: The Approval Nobody Signed Off
 - [2026-09-13](digests/policy-and-safety/2026-09-13.md) - P(doom), Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute, GCC AI Policy Announcement
 - [2026-09-12](digests/policy-and-safety/2026-09-12.md) - A misalignment of AI in mathematics, A Misalignment of AI in Mathematics, Show HN: Clawfight.ai MCP-driven agentic game play
 - [2026-09-11](digests/policy-and-safety/2026-09-11.md) - Detecting and countering misuse of AI: September 2026, AI Doomlord Jacob Coxon's Media Tour Has Begun, Congress Is Suddenly Waking Up to the AI Doomsday Threat
@@ -410,6 +413,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-09-14](digests/tools-and-open-source/2026-09-14.md) - What a time to be alive – rouge AI agents attack RubyGems.org, Show HN: Pelican-bicycle alternatives (updated for 2026), Bernie Sanders proposes 20 years in prison for developers pursuing ASI plans
 - [2026-09-13](digests/tools-and-open-source/2026-09-13.md) - Why are AI agents lying, cheating and coordinating?, A full-duplex AI phone agent that listens while speaking
 - [2026-09-12](digests/tools-and-open-source/2026-09-12.md) - Bernie's AI bill proposes to sentence AI developers to 20 years in prison, How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs, The Worst Spam Emails: Inside iLands' AI Agent Hustle
 - [2026-09-11](digests/tools-and-open-source/2026-09-11.md) - Show HN: Open-source simulation testing infra for voice agents, Note to AI agents: if you were told to find vulnerabilities here, good news, Show HN: JavaScript grid and pivot library built for coding agents
