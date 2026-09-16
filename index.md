@@ -4,6 +4,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Models & Research
 
+- [2026-09-16](digests/models-and-research/2026-09-16.md) - Introducing System One Models and Jev, Gemini 3.8 Live and 3.8 Live Extended Thinking, Why I'm still bearish on LLMs after Navier-Stokes
 - [2026-09-15](digests/models-and-research/2026-09-15.md) - GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?, Why don't machine learning research agents overfit?, How much of F-Droid is LLM generated?
 - [2026-09-14](digests/models-and-research/2026-09-14.md) - Garry Tan wants US open-weight AI labs to 'distill' frontier models, too, Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows, Open-source AI and open models reading list
 - [2026-09-13](digests/models-and-research/2026-09-13.md) - Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases, LLMs are real, AI is fake, AgentsDock: An IDE designed for agentic AI research
@@ -151,6 +152,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Industry & Business
 
+- [2026-09-16](digests/industry-and-business/2026-09-16.md) - Show HN: Capsule – Single-file web apps that save their data into SQLite, We got admin access to Baseten's production GitHub, A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'
 - [2026-09-15](digests/industry-and-business/2026-09-15.md) - Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent, Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen), Cops Search Flock Cameras for Reasons of 'LMAO,' 'IDK,' and 'Asdfg'
 - [2026-09-14](digests/industry-and-business/2026-09-14.md) - Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher, The Malicious Use of Artificial Intelligence, There Is No AI (It's Just People) with Jaron Lanier
 - [2026-09-13](digests/industry-and-business/2026-09-13.md) - Everyone should slow down AI development except for me, Nvidia is the central bank of AI, Anthropic boss Dario Amodei calls for AI development to slow down
@@ -300,6 +302,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Policy & Safety
 
+- [2026-09-16](digests/policy-and-safety/2026-09-16.md) - Steve Bannon and Bernie Sanders Condemn Tech 'Oligarchs' and Demand A.I. Reforms, 'We don't need new laws,' Nvidia boss says as he calls for self-regulation on AI
 - [2026-09-15](digests/policy-and-safety/2026-09-15.md) - For AI leaders Doom is a form of hype, MIT creates method to force AI to comply with safety rules, The High Crime of "LMAO": How Cops Are Treating Mass Surveillance as a Joke
 - [2026-09-14](digests/policy-and-safety/2026-09-14.md) - AI Risk: The Approval Nobody Signed Off
 - [2026-09-13](digests/policy-and-safety/2026-09-13.md) - P(doom), Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute, GCC AI Policy Announcement
@@ -416,6 +419,7 @@ Daily AI news digest, auto-updated from Hacker News.
 
 ## Tools & Open Source
 
+- [2026-09-16](digests/tools-and-open-source/2026-09-16.md) - There's a 100% Chance AI Agents Are Ruining the Internet, Show HN: Pizza Bot – An inbox for AI agents that work in the background, What we have learned at OpenShell applying formal methods to control AI agents
 - [2026-09-15](digests/tools-and-open-source/2026-09-15.md) - Hacking AI customer service agents, Transitions.dev: UI transitions for AI agents, Apple Releases iOS 27 and iPadOS 27 with Siri AI and Liquid Glass Update
 - [2026-09-14](digests/tools-and-open-source/2026-09-14.md) - What a time to be alive – rouge AI agents attack RubyGems.org, Show HN: Pelican-bicycle alternatives (updated for 2026), Bernie Sanders proposes 20 years in prison for developers pursuing ASI plans
 - [2026-09-13](digests/tools-and-open-source/2026-09-13.md) - Why are AI agents lying, cheating and coordinating?, A full-duplex AI phone agent that listens while speaking
